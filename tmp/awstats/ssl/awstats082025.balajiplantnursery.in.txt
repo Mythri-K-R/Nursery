@@ -1,0 +1,1196 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202508 will be lost/reset.
+# Last config file used to build this data file was /home1/balaji/tmp/awstats/ssl/awstats.balajiplantnursery.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2055                
+POS_TIME 2731                
+POS_VISITOR 19735               
+POS_DAY 29346               
+POS_DOMAIN 3617                
+POS_LOGIN 4150                
+POS_ROBOT 4305                
+POS_WORMS 4922                
+POS_EMAILSENDER 5053                
+POS_EMAILRECEIVER 5196                
+POS_SESSION 30205               
+POS_FILESIZE 31036               
+POS_SIDER 30395               
+POS_FILETYPES 5331                
+POS_DOWNLOADS 5579                
+POS_OS 5627                
+POS_BROWSER 5998                
+POS_SCREENSIZE 7274                
+POS_UNKNOWNREFERER 7348                
+POS_UNKNOWNREFERERBROWSER 8069                
+POS_ORIGIN 8405                
+POS_SEREFERRALS 8546                
+POS_PAGEREFS 8786                
+POS_SEARCHWORDS 8988                
+POS_KEYWORDS 9185                
+POS_MISC 2393                
+POS_ERRORS 9291                
+POS_CLUSTER 4006                
+POS_SIDER_404 9451                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250901011103 3 525 14864984542406
+FirstTime 20250801131632
+LastTime 20250831153112
+LastUpdate 20250901175039 3 0 2 0 0
+TotalVisits 244                 
+TotalUnique 225                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 243                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 115 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 16 390526 21 28 769301
+1 14 16 256726 17 55 1425891
+2 11 66 4636756 45 106 1931905
+3 1 1 13267 32 48 553083
+4 9 54 4521475 28 60 2034888
+5 13 58 4610909 19 53 762037
+6 22 78 1778650 38 60 723041
+7 24 252 15944194 37 107 1612039
+8 27 232 19053939 18 61 901269
+9 64 288 20798427 320 367 1733090
+10 50 231 18183021 197 214 352374
+11 41 263 19329774 36 72 877223
+12 49 446 31973072 32 104 1927322
+13 42 376 29576900 482 521 2306829
+14 19 160 14067633 33 55 873750
+15 49 323 24580737 130 174 1356151
+16 47 396 30791753 27 70 1105910
+17 48 322 22666143 462 482 814476
+18 22 124 9442977 121 142 632133
+19 14 16 251731 24 59 1514149
+20 33 293 23619193 52 73 1272768
+21 12 57 4583109 15 24 541121
+22 36 326 26077359 26 72 1641406
+23 18 167 6808928 44 118 5731430
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+us 365 1966 128243326
+in 223 2225 180610461
+ro 16 63 4660873
+dk 15 151 11534190
+au 12 91 6662947
+cn 9 28 1616819
+ca 6 6 240669
+se 5 5 66335
+gb 5 5 34581
+ru 4 4 95406
+pl 3 3 24366
+be 2 2 26534
+sc 2 2 14327
+fi 2 2 26534
+ip 1 1 8047
+de 1 1 13267
+jp 1 1 13267
+il 1 1 13267
+eu 1 1 12182
+eg 1 1 13267
+nl 1 1 13267
+bd 1 1 13267
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+crawl 266 14144932 20250831191758 0
+bingbot/ 263 7659669 20250831115948 0
+Googlebot/ 114 2040357 20250830125056 0
+Applebot/ 68 1260870 20250829084524 0
+bot[\s_+:,\.\;\/\\-] 50 799343 20250831112823 0
+Googlebot\-Image/ 39 1481411 20250831040700 0
+facebookexternalhit/ 19 714795 20250820175059 0
+no_user_agent 7 353411 20250825100122 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 26534 20250820230055 0
+java 1 0 20250823222601 0
+checker 1 13267 20250803204110 0
+YandexBot/ 1 6863 20250824164401 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff2 77 5941320 0 0
+png 923 8582182 0 0
+ttf 74 81400 0 0
+woff 69 4392816 0 0
+js 506 21574454 0 0
+Unknown 30 407563 0 0
+html 427 5334470 0 0
+css 732 7253913 0 0
+jpg 1723 280389081 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+win10 1108 151
+android13 1 0
+linuxubuntu 5 5
+linux 145 36
+macosx13 1 1
+android10 2343 221
+macosx5 1 1
+ios_iphone 200 80
+win7 1 1
+Unknown 89 71
+macosx 1 1
+macosx10 2 2
+androidmarshmallow 1 1
+macosx12 1 1
+androidoreo 1 1
+android 159 10
+macosx15 277 65
+macosx9 1 1
+androidpie 4 4
+android12 219 23
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 60
+safari12.0.2 1 1
+firefox137.0 2 2
+chrome134.0.0.0 1 1
+chrome39.0.2171.95 2 2
+chrome105.0.0.0 4 4
+chrome103.0.0.0 1 1
+chrome89.0.4389.82 1 1
+chrome139.0.0.0 1373 141
+chrome104.0.0.0 1 1
+chrome116.0.0.0 9 9
+chrome139.0.7258.94 1 0
+chrome133.0.0.0 49 4
+chrome137.0.0.0 70 6
+chrome130.0.0.0 12 12
+chrome110.0.0.0 1 1
+chrome53.0.2785.90 1 1
+firefox113.0 1 1
+chrome117.0.0.0 9 9
+safari17.3.1 1 1
+chrome138.0.0.0 1688 179
+chrome131.0.0.0 91 28
+chrome136.0.0.0 3 3
+chrome52.0.2732.98 1 1
+chrome114.0.0.0 219 23
+chrome42.0.2311.90 1 1
+chrome67.0.3396.87 1 1
+chrome138.0.7204.50 1 1
+firefox131.0 3 3
+firefox28.0 2 2
+safari4.0 1 1
+chrome138.0.7204.168 1 0
+safari 88 69
+chrome76.0.3809.111 1 1
+netscape5.0 5 5
+safari26.0 62 6
+chrome121.0.0.0 114 10
+chrome126.0.0.0 198 17
+mozilla 8 8
+chrome83.0.4103.7 1 1
+safari9.0 1 1
+chrome75.0.3770.101 1 1
+chrome128.0.0.0 49 4
+chrome92.0.4515.107 1 1
+safari18.5 112 10
+chrome120.0.0.0 3 3
+chrome88.0.4324.111 1 1
+chrome127.0.0.0 59 4
+firefox139.0 5 5
+firefox132.0 1 1
+chrome58.0.3029.110 3 3
+chrome123.0.0.0 2 2
+chrome125.0.6422.72 158 10
+chrome138.0.7204.23 49 4
+chrome74.0.3729.157 1 1
+chrome71.0.3578.99 1 1
+chrome129.0.0.0 3 3
+chrome124.0.0.0 2 2
+Unknown 77 59
+firefox114.0 2 2
+firefox124.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+okhttp/4.9.2 20250815071147
+fasthttp 20250809162538
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250821172601
+\ 20250827010750
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250830091603
+Mozilla/5.0_zgrab/0.x 20250818210206
+okhttp/4.12.0 20250822052037
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250816231054
+Mozilla/5.0_(compatible;_UGAResearchAgent/1.0;_Please_visit:_NISLabUGA.github.io) 20250815065432
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250824125252
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+okhttp/4.12.0 20250822052037
+\ 20250827010750
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250830091603
+okhttp/4.9.2 20250815071147
+fasthttp 20250809162538
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 320 559
+From1 0 0
+From2 67 70
+From3 1 1
+From4 289 3931
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com 56 57
+www_google_com_hk 1 1
+google_com 0 1
+www_google_co_in 4 4
+www_bing_com 6 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://in.all-url.info/in/balajiplantnursery.in/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//balajiplantnursery.in/contact.html 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+https 1
+//balajiplantnursery.in/contact.html 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+401 3 139
+406 360 80682
+503 6 0
+409 88 7304
+404 1706 630026
+206 6 2007563
+400 2 104
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 513
+/icicibankbahrain 2 -
+/immediate-payment-service 2 -
+/cp 5 -
+/123pay 2 -
+/_all_dbs 1 -
+/icicihfc 2 -
+/bbps-npci 2 -
+/shop 5 -
+/customer 5 -
+/user 5 -
+/active.js 7 -
+/aadhaarnumberseeding 2 -
+/upipin 2 -
+/allthingsev 2 -
+/cache 5 -
+/icici-bank 2 -
+/client 5 -
+/hdfccredila 2 -
+/rupayglobal 2 -
+/nipl 2 -
+/f8943837f188495d90341ecdf7a8006d 1 -
+/app_dev.php/_profiler/open 1 -
+/insuranceprod 2 -
+/upiapp 2 -
+/linkbasedpayment 2 -
+/default 5 -
+/backup 5 -
+/wp-json/wc/store/cart 1 -
+/nach-system 2 -
+/aadharatmpay 2 -
+/15e3fdf8-252c-45e9-82e8-8234abea8840/ 1 -
+/hdfcergouat 2 -
+/real-time-gross-settlement 2 -
+/support 5 -
+/meeshosupplier 2 -
+/profile 5 -
+/e88e8d14acec4f57bf5dc7ab1b679a35 1 -
+/tmp 5 -
+/upihandle 2 -
+/.env_1 2 -
+/hdfccapital 2 -
+/nationalpaymentscorporation 2 -
+/ilom 2 -
+/help 5 -
+/password-recovery 5 -
+/hdfc-ergo-health-insurance-company-limited 2 -
+/old 5 -
+/secret 5 -
+/transaction 5 -
+/services 5 -
+/bhimaadhaarpay 2 -
+/root 5 -
+/wp-json/sure-triggers/v1/automation/action 1 -
+/wp-json/wp/v2/posts 1 -
+/common-service-area 2 -
+/apbsnpci 2 -
+/rupay-prepaid-card 2 -
+/india 5 -
+/adminpanel 5 -
+/nfsswitch 2 -
+/rupayselect 2 -
+/bhim-npci 2 -
+/icicireward 2 -
+/.env.staging 1 -
+/apis 5 -
+/npci-clearing-house 2 -
+/mail 5 -
+/insurancearticlez 2 -
+/npcimapper 2 -
+/aadhaarauthentication 2 -
+/home-page 5 -
+/icicibankcreditcard 2 -
+/npcinet 2 -
+/mailer 5 -
+/coupon 5 -
+/npci 2 -
+/hdfcsecuritieslimited 2 -
+/engage-il 2 -
+/upinpci 2 -
+/npci-international-payments-limited 2 -
+/chequetruncationsystem 2 -
+/myicicilombard 2 -
+/upi-money 2 -
+/private 5 -
+/upi-npci 2 -
+/autoninja 2 -
+/apbs-npci 2 -
+/bankonline 5 -
+/hdfc-ergo-general-insurance-company-limited 2 -
+/bhimnpci 2 -
+/hdfcsales 2 -
+/netc-program 2 -
+/cheque-truncation-system 2 -
+/neftinternetbanking 2 -
+/s3cmd.ini 1 -
+/upi-pay 2 -
+/fastag 2 -
+/hdfcbankbahrain 2 -
+/icici-point 2 -
+/bharat-ecommerce-payment-gateway 2 -
+/bhim-payments 2 -
+/database 5 -
+/bhim 2 -
+/config 5 -
+/icicidirect 2 -
+/hdfcergogeneralinsurancecompanylimited 2 -
+/hdfcbk 2 -
+/reward 5 -
+/upi-pin 2 -
+/npci-mapper 2 -
+/wp-json/wp/v2/users/1 1 -
+/rupayprepaidcard 2 -
+/admin/.env 3 -
+/phpmyadmin 5 -
+/bbpsnpci 2 -
+/nationalautomatedclearinghouse 2 -
+/cardtocardfundtransfer 2 -
+/dbadmin 5 -
+/withdraw 5 -
+/ilomgic 2 -
+/htparekhfoundation 2 -
+/caches 5 -
+/netcfastag 2 -
+/databases 5 -
+/dc332f52-0f77-40f7-ab0a-bdf34af69330 1 -
+/db 5 -
+/config.php%7C/.env%7Csettings.py%7C/.yaml%7C/.yml 1 -
+/system 5 -
+/rupay-global 2 -
+/bharatbillpaymentsystem 2 -
+/archive 5 -
+/log 5 -
+/.env.www 2 -
+/hdfcpropertyfund 2 -
+/_profiler/phpinfo 3 -
+/icici-careers 2 -
+/backups 5 -
+/16bfc7a6-a225-428f-9d08-0c484f5d2873 1 -
+/neft-internet-banking 2 -
+/users 5 -
+/store 5 -
+/order 5 -
+/national-automated-clearing-house 2 -
+/nachapb 2 -
+/.env.save 3 -
+/iciciprupension 2 -
+/.git/ 1 -
+/766e6a7e-3413-46bb-8c61-bbc1a28f06cc 1 -
+/hdfcergoknowledge 2 -
+/npci-vajra 2 -
+/clients 5 -
+/bharatbillpaymentcentralunit 2 -
+/settings 5 -
+/confirm 5 -
+/icicilombardozone 2 -
+/nationalunifiedussdplatform 2 -
+/hdfcbank 2 -
+/sys 5 -
+/iltakecare 2 -
+/manage 5 -
+/.env.prod 3 -
+/wordpress/ 1 -
+/credit 5 -
+/bhimupi 2 -
+/immediatepaymentservice 2 -
+/bhim-aadhaar 2 -
+/bharatecommercepaymentgateway 2 -
+/icicipoint 2 -
+/lombard-icici 2 -
+/upiqr 2 -
+/.well-known/security.txt 4 -
+/.git%7C/.svn 1 -
+/reset 5 -
+/hdbfs 2 -
+/sessions 5 -
+/secure 5 -
+/imps-npci 2 -
+/keys 5 -
+/nationalelectronictollcollection 2 -
+/bharat-bill-payment-operating-unit 2 -
+/login 5 -
+/hdfcbankfastag 2 -
+/rupayglobalclearingsystem 2 -
+/password-reset 5 -
+/secrets 5 -
+/rupaycreditcard 2 -
+/.env.production 1 -
+/bharatclearingsettlement 2 -
+/ncmc-wallet 2 -
+/hdfclife-international 2 -
+/.aws/credentials 2 -
+/npciupi 2 -
+/bbpcu 2 -
+/bhim-spoof 2 -
+/deposit 5 -
+/national-unified-ussd-platform 2 -
+/transfer 5 -
+/npcivajra 2 -
+/banking 5 -
+/phpinfo 3 -
+/index.php 1 -
+/register 5 -
+/sql 5 -
+/.env.local 1 -
+/virtualpaymentaddress 2 -
+/impsnpci 2 -
+/upipay 2 -
+/hdfc-ergo 2 -
+/npciclearinghouse 2 -
+/wp-sitemap.xml 1 -
+/link-based-payment 2 -
+/nationalpayments 2 -
+/unlock 5 -
+/.env.dev 1 -
+/nationalelectronicfundstransfer 2 -
+/valmo-delivery-partner 2 -
+/hdfchealth 2 -
+/aadhaarenabledpaymentsystem 2 -
+/db3fddcb-1726-49ca-9cd5-00d28daa8fb5/ 1 -
+/sitemap.xml.gz 3 -
+/hdfc-bank 2 -
+/hdfcpension 2 -
+/icici 5 -
+/icicibankltd 2 -
+/bharat-bill-payment-system 2 -
+/invoices 5 -
+/immediatepaymentsystem 2 -
+/sitemaps.xml 2 -
+/bhimpayments 2 -
+/national-common-mobility-card 2 -
+/password 5 -
+/orders 5 -
+/ottobuddy 2 -
+/national-electronic-funds-transfer 2 -
+/unified-payments-interface 2 -
+/hdfc-ergo-uat 2 -
+/sitemap.txt 3 -
+/loan 5 -
+/wp-json/ 1 -
+/meeshoaiservices 2 -
+/meeshogrocery 2 -
+/rupaycontactless 2 -
+/wp-json/wp/v2/pages 1 -
+/bharat-qr 2 -
+/home 5 -
+/account 5 -
+/upichalega 2 -
+/favicon.png 1 -
+/hdfcbankhongkong 2 -
+/bhim-recharge 2 -
+/bharat-connect 2 -
+/billing 5 -
+/hdfcergo-uat 2 -
+/55d568ef-61f5-4e60-8c5f-6fe0cd4c39e8 1 -
+/ded7d8f0fff44c208cb39c670314625a 1 -
+/.env_sample 1 -
+/staff 5 -
+/recover 5 -
+/npciinternationalpaymentslimited 2 -
+/.env.example 3 -
+/valmofranchise 2 -
+/old/ 1 -
+/main 5 -
+/web 5 -
+/nationalcommonmobilitycard 2 -
+/upiid 2 -
+/hdfc-securities-limited 2 -
+/tests 5 -
+/undefined 1 https://www.balajiplantnursery.in/shop-details.html
+/5cfaefc3-4f5a-450c-8e95-015a0f6547bf 1 -
+/interoperablecardlesscashwithdrawal 2 -
+/nachsystem 2 -
+/hdfcergohealthinsurancecompanylimited 2 -
+/session 5 -
+/rupay 2 -
+/national-electronic-toll-collection 2 -
+/ipartner-mobile-icici-lombard 2 -
+/ilgicdash 2 -
+/icici-lombard 2 -
+/key 5 -
+/hdfcfund 2 -
+/nfinite 2 -
+/bhim-customer 2 -
+/temp 5 -
+/carts 5 -
+/bharat-switch 2 -
+/emails 5 -
+/bharat-bill-pay 2 -
+/bharat-interface-for-money 2 -
+/upi-gateway 2 -
+/hdfcergohealth 2 -
+/bharatqr 2 -
+/uploads 5 -
+/nuupnpci 2 -
+/valmo-logistics 2 -
+/bharatbillpay 2 -
+/icici-reward 2 -
+/dashboard 5 -
+/hdfcergo 2 -
+/b7b7cc08-8d32-4ca4-8bdd-4fc3a411207d 1 -
+/icicilombard 2 -
+/signup 5 -
+/national-payments-corporation-of-india 2 -
+/465d5e71-cdb4-4fbc-8639-d2e9278e429b/ 1 -
+/bharatinterfaceformoney 2 -
+/claim 5 -
+/interoperable-cash-deposit 2 -
+/aadhaarpaymentbridge 2 -
+/card 5 -
+/members 5 -
+/bbpou 2 -
+/upi-chalega 2 -
+/download 5 -
+/upi 5 -
+/cf253b3f-1252-4877-8c2a-56a1f0635289 1 -
+/configuration 5 -
+/update 5 -
+/email 5 -
+/administrator 5 -
+/accounts 5 -
+/itraceit 2 -
+/meeshosuppliers 2 -
+/national-payments-corporation 2 -
+/aadhaar-enabled-payment-system 2 -
+/bhimaadhaar 2 -
+/userpanel 5 -
+/config.php 1 -
+/authorize 5 -
+/nuup-npci 2 -
+/nfs-npci 2 -
+/ninjacrm 2 -
+/icicigroupcompanies 2 -
+/ilgicltd 2 -
+/bharat-bill-payment-central-unit 2 -
+/bhim-qr 2 -
+/netc 2 -
+/downloads 5 -
+/bootstrap/bootstrap.min.js 6 -
+/.well-known/traffic-advice 5 -
+/authentication 5 -
+/hdfcbankcares 2 -
+/meeshodesign 2 -
+/virtual-payment-address 2 -
+/nfsnpci 2 -
+/66e02548-9893-49f3-aff2-157171354984 1 -
+/bhimqr 2 -
+/50abc4e6-ac80-4a6e-9dc5-2023643f696f 1 -
+/bank 5 -
+/upi-qr 2 -
+/.git/config 23 -
+/ilomgeneralinsurance 2 -
+/il-take-care 2 -
+/invoice 5 -
+/aadhaar-number-seeding 2 -
+/interoperable-cardless-cash-withdrawal 2 -
+/bhimcustomer 2 -
+/upi-handle 2 -
+/savings 5 -
+/netc-fastag 2 -
+/upimoney 2 -
+/staffs 5 -
+/bharatswitch 2 -
+/valmodeliverypartner 2 -
+/about 1 -
+/hellowyn 2 -
+/otto-buddy 2 -
+/7677d9c2-5447-48b1-9c62-bda8806620eb 1 -
+/bhimrecharge 2 -
+/verify 5 -
+/netcprogram 2 -
+/e9e6b14fd66348f7bfd8a37e00165124 1 -
+/nationalpaymentscorporationofindia 2 -
+/refund 5 -
+/authorization 5 -
+/b5aaebbc-3a32-408f-977f-1a06fc62f32f/ 1 -
+/prize 5 -
+/8bedc324a21540bbbacee611fe8fa371 1 -
+/netcnpci 2 -
+/files 5 -
+/icicibank 2 -
+/ebanking 5 -
+/_fragment 1 -
+/aadhaar-authentication 2 -
+/meesho 2 -
+/test 5 -
+/api 5 -
+/life99 2 -
+/bharat-billpay 2 -
+/hellowin 2 -
+/statement 5 -
+/verification 5 -
+/ilgic 2 -
+/bhimmakingindiacashless 2 -
+/enhancecp 2 -
+/signin 5 -
+/rupay-contactless 2 -
+/auth 5 -
+/cart 5 -
+/bharatconnect 2 -
+/bhimspoof 2 -
+/icicicareers 2 -
+/service 5 -
+/tokens 5 -
+/ncmcwallet 2 -
+/rupay-select 2 -
+/robots.txt 240 -
+/bhim-upi 2 -
+/netc---npci 2 -
+/profiles 5 -
+/icici-bank-credit-card 2 -
+/security 5 -
+/netc-transactions 2 -
+/member 5 -
+/bhimapp 2 -
+/hidden-files 5 -
+/hidden 5 -
+/upi-id 2 -
+/digisaathi 2 -
+/hdfc 5 -
+/jquery/jquery-2.2.4.min.js 5 -
+/hdfcbankfinancialservices 2 -
+/commonservicearea 2 -
+/neftnpci 2 -
+/realtimegrosssettlement 2 -
+/upi-app 2 -
+/icici-bank-customer-care 2 -
+/netctransactions 2 -
+/hdfclifere 2 -
+/info 3 -
+/icicilombardmails 2 -
+/rtgs-npci 2 -
+/onocnpci 2 -
+/national-payments 2 -
+/valmo-franchise 2 -
+/upload 5 -
+/nach-npci 2 -
+/management 5 -
+/rgcs-npci 2 -
+/icici-lombard-ozone 2 -
+/upigateway 2 -
+/npci-upi 2 -
+/national-financial-switch 2 -
+/hdfcsec 2 -
+/aeps-npci 2 -
+/thehdfcschool 2 -
+/bhim-app 2 -
+/icicilombardemail 2 -
+/card-to-card-fund-transfer 2 -
+/archives 5 -
+/bharatbillpaymentoperatingunit 2 -
+/nfs-switch 2 -
+/payment 5 -
+/hbctxdom 2 -
+/valmologistics 2 -
+/registration 5 -
+/meeshoapp 2 -
+/logs 5 -
+/bhim-aadhaar-pay 2 -
+/neft-npci 2 -
+/icici-lombard-gic 2 -
+/bootstrap/popper.min.js 6 -
+/activate 5 -
+/hdfc-bank-financial-services 2 -
+/lombardicici 2 -
+/icicibankcustomercare 2 -
+/onoc-npci 2 -
+/admin 5 -
+/valmo 2 -
+/rtgsnpci 2 -
+/icicilombardgic 2 -
+/nachnpci 2 -
+/rgcsnpci 2 -
+/rupay-credit-card 2 -
+/icicilombardmail 2 -
+/portal 5 -
+/nationalfinancialswitch 2 -
+/aadhaar-payment-bridge 2 -
+/aepsnpci 2 -
+/configurations 5 -
+/nach-apb 2 -
+/.env.development 1 -
+/immediate-payment-system 2 -
+/hdfclife 2 -
+/aeps 2 -
+/unifiedpaymentsinterface 2 -
+/sitemap_index.xml 3 -
+/ctsnpci 2 -
+/data 5 -
+/config.json 3 -
+/interoperablecashdeposit 2 -
+/checkout 5 -
+/plugins/plugins.js 3 -
+/www 5 -
+/bharat-clearing-settlement 2 -
+/sales 5 -
+/offer 5 -
+/public 5 -
+/ipartnermobileicicilombard 2 -
+/token 5 -
+/erupi 2 -
+/balance 5 -
+/insurancepp 2 -
+/e-rupi 2 -
+/299e00b9-200d-41d7-82ea-a06c61b689ef/ 1 -
+/netbanking 5 -
+/prodicicilombard 2 -
+/bhim-making-india-cashless 2 -
+/file 5 -
+/cts-npci 2 -
+/sitemap.xml 8 -
+/rupay-global-clearing-system 2 -
+/hdfcbank-cares 2 -
+/private-data 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 243
+34.187.239.120 17 45 961721 20250816202830
+34.169.140.226 13 13 173424 20250816101415
+34.19.76.68 13 13 173426 20250816091402
+35.247.105.48 13 13 173427 20250817170508
+35.197.70.10 13 13 173427 20250816092532
+178.157.64.201 12 14 230192 20250813105621
+172.241.143.82 12 14 230192 20250819195706
+23.81.82.173 12 14 230192 20250827010750
+38.75.74.191 12 14 230192 20250805110855
+49.37.243.239 10 86 6315789 20250826154354
+18.117.222.56 10 114 2334773 20250807235709
+128.77.82.97 9 88 6633586 20250804172646
+103.99.216.76 9 95 5443121 20250809204441
+152.59.202.12 8 75 5115734 20250812124126
+27.59.62.138 7 65 4920903 20250829160600
+223.233.75.146 7 64 4913871 20250825083453
+155.190.5.18 7 71 5840884 20250818221208
+49.36.138.75 7 71 5840884 20250831153112
+49.42.210.128 7 71 5840884 20250812164404
+223.231.131.83 7 64 5012248 20250806091950
+157.50.145.173 7 64 4907467 20250806081531
+175.101.116.2 7 73 5065825 20250807170146
+117.221.234.189 7 64 4913871 20250803182958
+167.103.20.120 7 41 2218999 20250829104425
+152.57.47.79 7 74 5108871 20250815121337
+205.210.31.43 1 1 55605 20250826061206
+101.198.0.150 1 1 55605 20250829050357
+45.55.61.100 1 1 13267 20250802063148
+213.209.143.116 1 1 13267 20250817024650
+64.233.173.230 4 11 296710 20250813122237
+119.29.146.28 2 2 26534 20250804005732
+134.209.173.235 1 1 8874 20250805043620
+106.222.113.104 4 49 4430681 20250814115351
+35.94.23.145 0 2 6614 
+64.233.173.231 2 8 266995 20250813122236
+23.82.186.39 5 7 181996 20250828002729
+143.110.254.235 1 1 13267 20250822173813
+162.120.184.197 1 1 8047 20250826020848
+49.37.133.45 4 49 4430681 20250828091722
+74.125.212.33 2 9 252040 20250813122234
+54.77.49.88 1 1 55605 20250826163509
+154.28.229.206 1 1 13267 20250815075804
+193.186.4.143 1 1 8272 20250804183937
+157.45.245.131 5 61 4850695 20250815075802
+35.165.43.101 0 1 3593 
+106.209.163.231 1 1 13267 20250818221147
+157.50.146.232 4 49 4430681 20250815145301
+128.77.49.34 6 63 4900604 20250822090327
+193.186.4.225 1 1 8047 20250811082625
+44.246.143.166 0 2 19581 
+27.59.60.210 3 22 1410203 20250804093611
+106.193.172.153 1 1 13267 20250814214408
+104.236.98.177 1 1 4982 20250805113244
+159.203.132.83 1 1 8047 20250823060047
+171.48.101.156 4 49 4430681 20250812102439
+182.163.121.242 1 1 13267 20250803113317
+35.165.215.140 4 49 4430681 20250805042123
+165.227.182.199 1 1 5135 20250823064238
+174.138.58.244 1 1 4950 20250823065157
+34.53.92.207 3 3 40759 20250818110910
+138.197.16.81 1 1 13267 20250823051015
+164.92.149.126 1 1 13267 20250816055303
+27.6.117.105 4 49 4430681 20250826020904
+103.217.237.55 2 4 379704 20250826163639
+35.90.101.10 0 2 165851 
+134.122.9.184 1 1 12184 20250828200158
+103.63.148.5 5 52 4797118 20250807122929
+34.169.71.84 1 29 747539 20250816072817
+152.58.134.56 1 46 4288757 20250819050819
+162.120.184.4 1 1 8047 20250803183149
+167.172.19.173 1 1 13267 20250808172655
+149.56.150.167 1 1 55605 20250821172515
+35.88.209.121 0 1 20244 
+64.233.173.226 0 6 193469 
+104.131.160.129 1 1 13267 20250805155720
+44.246.36.107 0 1 7487 
+49.206.5.1 4 49 4430681 20250821143022
+104.236.226.177 1 1 4982 20250823024727
+35.88.200.25 0 1 5577 
+223.185.129.48 6 63 5054186 20250809222439
+159.203.133.100 1 1 8066 20250822231933
+64.233.173.229 1 9 93819 20250805220822
+196.18.175.178 2 2 14327 20250811155835
+122.171.17.162 4 50 4681628 20250810132341
+157.50.120.44 4 49 4430681 20250823202436
+185.169.4.152 1 1 13267 20250804104123
+185.177.72.44 1 1 55605 20250802022530
+54.189.149.152 0 1 111035 
+157.51.92.122 4 68 5698960 20250826131407
+64.225.50.250 1 1 8272 20250823062235
+223.228.126.83 0 1 44927 
+72.14.201.187 1 1 4982 20250803183140
+54.213.89.200 1 1 55605 20250823121626
+49.42.197.121 4 32 1527444 20250813122229
+139.59.57.193 1 1 13267 20250824055432
+205.210.31.250 1 1 55605 20250822114049
+5.133.192.160 1 1 13267 20250803124723
+3.138.185.30 3 3 39801 20250818210206
+64.233.173.227 2 4 103457 20250802155758
+106.222.200.67 6 62 4858742 20250810163901
+23.81.70.137 5 7 181996 20250821002230
+152.57.0.92 6 65 4603600 20250805131650
+152.53.246.211 1 1 13267 20250817033119
+74.125.212.32 2 10 126186 20250805220822
+106.194.42.221 4 49 4430681 20250809215621
+147.185.132.51 1 1 55605 20250830053236
+167.99.126.100 1 1 6863 20250823052141
+93.159.230.85 1 1 13267 20250814052050
+178.62.107.235 1 1 12182 20250825210948
+171.76.217.155 4 49 4430681 20250808110937
+104.252.191.170 1 1 13267 20250815090932
+44.244.218.153 0 1 2076 
+159.65.177.60 1 1 4950 20250805205703
+87.236.176.182 1 1 13267 20250806000651
+157.51.173.155 4 59 6633795 20250810105635
+104.164.173.52 1 1 13267 20250815071016
+18.224.184.62 2 2 26534 20250818090948
+149.56.160.248 2 2 13267 20250821172601
+34.220.34.85 0 1 4983 
+45.61.187.200 1 1 13267 20250821011749
+5.133.192.127 1 1 13267 20250817150238
+66.102.6.162 2 3 97541 20250802155756
+106.193.33.230 4 49 4430681 20250817092259
+104.164.173.239 2 2 26534 20250815204933
+107.172.195.133 1 1 13267 20250815153427
+152.57.100.27 1 22 4047801 20250810221242
+193.186.4.136 1 1 8047 20250803183052
+40.160.21.14 2 2 13726 20250818062358
+15.204.183.221 2 2 9964 20250818062405
+49.37.183.17 1 44 4231926 20250811075505
+164.90.137.180 1 1 5135 20250805184039
+87.236.176.63 1 1 13267 20250816231054
+157.45.226.103 0 1 111035 
+143.110.244.113 1 1 13267 20250830072002
+15.204.182.106 4 4 53068 20250817112646
+223.185.49.93 4 32 1527444 20250805220820
+103.4.250.176 2 2 26534 20250815153433
+161.35.189.50 1 1 7421 20250823093608
+34.53.43.46 1 29 747539 20250816072716
+27.61.44.130 4 49 4430681 20250824173505
+165.85.49.192 1 11 103486 20250823024613
+64.227.150.164 1 1 13267 20250805212128
+65.21.130.49 2 2 79131 20250816210545
+103.217.237.56 4 49 4430681 20250826163510
+185.247.137.46 1 1 13267 20250811105936
+134.199.212.211 1 1 13267 20250820063416
+161.35.191.82 1 1 13267 20250819234125
+157.45.39.201 4 49 4430681 20250801131635
+27.59.55.143 4 49 4430681 20250811153325
+72.14.201.188 1 1 8047 20250803183306
+52.38.252.70 0 2 45369 
+44.249.166.219 1 1 13267 20250816162037
+68.183.54.192 1 1 6863 20250805163757
+64.233.173.228 3 8 151920 20250802155758
+74.125.212.40 3 9 279298 20250813122234
+104.252.191.113 2 2 26534 20250815071027
+159.203.107.75 1 1 13267 20250805161804
+157.34.207.127 4 49 4430681 20250828122738
+49.37.178.42 4 49 4430681 20250812132008
+104.164.173.99 1 1 13267 20250815065357
+154.28.229.74 2 2 26534 20250815090941
+157.50.204.95 4 49 4430681 20250803204827
+103.4.251.195 2 2 26534 20250815065405
+138.197.12.167 1 1 8272 20250805193201
+49.37.135.199 5 19 1458317 20250828151718
+159.65.162.97 1 1 13267 20250815024733
+193.32.126.164 1 1 13267 20250815065614
+35.88.225.232 0 1 3026 
+27.59.34.255 4 49 4430681 20250820231900
+3.146.111.124 1 1 13267 20250815184256
+18.232.146.67 1 1 13267 20250803094852
+205.253.38.83 4 49 4430681 20250816221505
+15.204.161.7 2 2 16132 20250818064309
+128.192.12.125 1 1 13267 20250815065432
+106.193.9.157 4 49 4430681 20250801181246
+171.48.96.35 4 49 4430681 20250817111604
+133.242.174.119 1 1 13267 20250815114605
+34.187.204.138 4 32 788296 20250816150135
+209.38.208.202 1 1 55605 20250815065352
+45.148.10.80 3 3 39801 20250825082913
+49.207.56.2 1 1 13267 20250807081113
+165.227.186.114 1 1 13267 20250810074622
+162.120.184.203 2 2 16094 20250804172406
+223.186.38.111 4 49 4430681 20250807163426
+164.90.139.61 1 1 12183 20250811144202
+157.51.109.72 6 90 9203752 20250824202623
+156.228.178.245 1 1 13267 20250822111647
+157.35.99.217 6 62 4858742 20250805220922
+34.169.48.97 3 3 40756 20250816144709
+147.185.132.105 1 1 55605 20250830091603
+106.215.175.191 3 42 1764838 20250807174819
+45.55.36.33 1 1 8066 20250805044936
+36.255.5.139 3 22 1410203 20250826153617
+180.163.220.51 2 2 111210 20250831075809
+104.131.184.211 1 1 8874 20250822230454
+5.133.192.94 1 1 13267 20250811090328
+198.235.24.196 1 1 55605 20250822175711
+202.134.150.94 5 50 4443948 20250812225451
+34.53.121.72 1 29 747539 20250816072919
+103.4.250.253 1 1 13267 20250815204933
+5.133.192.136 1 1 13267 20250825201418
+34.213.97.102 0 2 86184 
+157.45.228.233 5 50 4443948 20250810105315
+104.164.126.100 2 2 26534 20250815075812
+188.166.151.162 1 1 13267 20250818070030
+47.82.11.2 1 1 4982 20250806043425
+164.90.141.34 1 1 13267 20250823050555
+104.131.63.7 1 1 7421 20250806023456
+167.103.54.164 4 49 4430681 20250821150635
+167.94.138.161 1 1 13267 20250824125252
+162.120.184.198 1 1 8047 20250804183135
+106.206.60.127 2 14 386134 20250816163519
+209.97.146.237 1 1 13267 20250824092545
+35.240.40.162 2 2 68872 20250822052037
+27.61.63.247 6 62 4968743 20250815122324
+49.37.242.27 6 64 4945531 20250818161326
+157.50.179.187 1 7 236824 20250829161331
+45.156.87.140 2 2 26534 20250827130021
+106.222.233.62 6 52 4767339 20250823083650
+34.222.70.30 0 1 6080 
+167.172.30.215 1 1 8047 20250805173016
+164.92.251.26 1 1 12181 20250814101543
+66.102.6.164 0 3 53852 
+49.37.249.178 4 49 4430681 20250816080416
+164.92.212.102 1 1 13267 20250819191628
+216.169.133.82 1 1 13267 20250816144131
+34.229.94.1 5 50 4443948 20250815071204
+2.58.56.237 1 1 13267 20250827143929
+45.139.104.199 2 12 1170164 20250809162536
+121.40.185.81 1 1 13267 20250813182359
+94.247.172.129 1 1 13267 20250828185613
+157.50.3.219 5 52 4797118 20250809135805
+146.70.185.32 2 2 0 20250824203028
+198.235.24.44 1 1 55605 20250826051319
+157.50.171.209 4 49 4430681 20250810160942
+34.169.170.64 1 29 747539 20250816065727
+2a06:98c0:3600::103 1 1 8047 20250829215643
+66.102.6.163 1 5 80992 20250802155756
+81.29.134.51 2 2 26534 20250831063701
+35.247.46.76 1 29 747539 20250817111123
+89.38.226.66 4 49 4430681 20250824174757
+171.48.101.16 4 49 4430681 20250802155749
+34.187.194.112 3 3 40755 20250816160515
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20250801 8 98 8861362 2
+20250802 14 80 5180784 7
+20250803 21 123 9448057 12
+20250804 17 115 8094689 7
+20250805 51 263 16461367 22
+20250806 17 131 9945385 5
+20250807 30 331 18406502 6
+20250808 5 50 4443948 2
+20250809 26 271 20895270 7
+20250810 25 293 29109862 7
+20250811 11 99 8723698 7
+20250812 28 294 24261928 5
+20250813 24 75 2428427 7
+20250814 7 52 4469396 4
+20250815 52 321 24163684 24
+20250816 86 375 15209356 21
+20250817 29 147 9875197 9
+20250818 27 149 10933331 10
+20250819 15 62 4545483 4
+20250820 5 50 4443948 2
+20250821 17 109 9125497 6
+20250822 14 71 5124160 8
+20250823 23 124 9455849 15
+20250824 18 193 18215950 7
+20250825 10 67 4952587 4
+20250826 31 282 22840880 11
+20250827 15 17 269993 4
+20250828 20 126 10527126 6
+20250829 19 117 7509250 7
+20250830 3 3 124477 3
+20250831 9 73 5909756 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 18
+30mn-1h 4
+2mn-5mn 6
+5mn-15mn 3
+0s-30s 213
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 262 4138294 180 112
+/fonts/fontawesome-webfont.woff2 77 5941320 1 8
+/fonts/classy.ttf 74 81400 1 39
+/fonts/ElegantIcons.woff 69 4392816 5 7
+/shop.html 49 386256 20 22
+/contact.html 37 184334 11 18
+/about.html 16 129056 3 6
+/portfolio.html 14 96082 3 5
+/cpanel 10 135848 1 2
+/shop-details.html 10 114039 5 4
+/controlpanel 10 135842 2 4
+/webmail 10 135873 2 4
+/blog.html 9 66789 2 3
+/single-post.html 7 92784 2 3
+/checkout.html 7 34650 2 2
+/cart.html 7 35945 2 2
+/single-portfolio.html 6 36330 1 1
+/./contact.html 1 4982 0 1
+/./portfolio.html 1 6863 0 1
+/./about.html 1 8066 1 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+0-44 78
+1K-2K 592
+44-100 96
+100-500 1976
+2K-5K 632
+500-1K 224
+5K+ 4088
+END_FILESIZE

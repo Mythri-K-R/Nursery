@@ -1,0 +1,922 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home1/balaji/tmp/awstats/awstats.balajiplantnursery.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2691                
+POS_VISITOR 21113               
+POS_DAY 25201               
+POS_DOMAIN 3463                
+POS_LOGIN 3850                
+POS_ROBOT 4005                
+POS_WORMS 4414                
+POS_EMAILSENDER 4545                
+POS_EMAILRECEIVER 4688                
+POS_SESSION 25834               
+POS_SIDER 26001               
+POS_FILETYPES 4823                
+POS_DOWNLOADS 5072                
+POS_OS 5120                
+POS_BROWSER 5314                
+POS_SCREENSIZE 6116                
+POS_UNKNOWNREFERER 6190                
+POS_UNKNOWNREFERERBROWSER 6948                
+POS_ORIGIN 7353                
+POS_SEREFERRALS 7490                
+POS_PAGEREFS 7634                
+POS_SEARCHWORDS 7782                
+POS_KEYWORDS 7934                
+POS_MISC 2355                
+POS_ERRORS 7993                
+POS_CLUSTER 3706                
+POS_SIDER_404 8136                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501073851 2 203 14218539041523
+FirstTime 20240401063053
+LastTime 20240430045435
+LastUpdate 20240501174324 2 0 1 0 0
+TotalVisits 85                  
+TotalUnique 84                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 111                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 8 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 13267 236 238 168204
+1 2 2 111210 59 74 95043
+2 1 1 55605 643 643 371869
+3 1 16 348108 178 185 105759
+4 19 64 5012286 15 40 318951
+5 3 3 39801 404 438 1243392
+6 35 130 9292306 279 290 421614
+7 11 16 314479 400 407 256006
+8 10 60 4754715 117 133 356733
+9 1 1 0 5 8 23795
+10 0 0 0 178 187 288493
+11 0 19 467854 234 235 136777
+12 4 7 210176 2 8 27663
+13 1 1 13267 179 179 214401
+14 4 4 95406 12 14 16905
+15 25 32 1076243 187 188 106506
+16 11 56 4523550 278 282 185726
+17 12 102 8956768 13 16 45186
+18 2 2 0 42 43 47393
+19 6 51 4457215 2 2 55688
+20 2 2 111210 15 16 59566
+21 1 1 55605 1 5 39724
+22 2 2 68872 14 15 3818
+23 3 3 39801 3 12 23750
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 133 538 39201439
+ca 5 5 278025
+in 4 4 26534
+gb 4 4 95406
+de 3 3 39801
+be 2 2 26534
+cn 1 1 55605
+ru 1 1 13267
+ua 1 9 128475
+ie 1 1 55605
+gr 1 1 13267
+hn 1 7 83699
+zz 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 64 1246132 20240429053814 0
+Googlebot\-Image/ 21 828305 20240429053831 0
+no_user_agent 5 278025 20240429132950 0
+bot[\s_+:,\.\;\/\\-] 3 39801 20240426185056 0
+Go\-http\-client/ 2 26534 20240417143759 0
+curl 2 55605 20240423015258 0
+Applebot/ 1 6055 20240404212722 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+js 58 2395639 0 0
+jpg 212 32867145 0 0
+woff 8 509312 0 0
+cgi 7 43276 0 0
+woff2 8 617280 0 0
+css 64 626352 0 0
+html 113 2316165 0 0
+ttf 8 8800 0 0
+png 85 632764 0 0
+Unknown 14 1011 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx15 30 28
+android10 3 3
+linux 211 22
+macosx 8 0
+ios_iphone 1 1
+androidmarshmallow 1 1
+win10 204 41
+win7 35 23
+Unknown 84 39
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 36
+chrome105.0.0.0 1 1
+chrome95.0.4638.69 4 4
+chrome79.0.3945.79 49 4
+chrome91.0.4472.114 3 3
+chrome106.0.0.0 1 1
+Unknown 14 14
+chrome117.0.0.0 1 1
+chrome91.0.4472.19 1 1
+msie11.0 6 1
+chrome107.0.0.0 4 4
+firefox40.0 1 1
+chrome68.0.3440.106 196 16
+chrome66.0.3359.181 4 4
+chrome117.0.5938.132 98 8
+chrome52.0.2732.98 1 1
+chrome120.0.0.0 3 3
+chrome121.0.0.0 20 20
+chrome94.0.4606.61 1 1
+netscape5.0 2 2
+chrome84.0.4147.105 7 4
+chrome108.0.0.0 34 0
+chrome91.0.4472.164 2 0
+firefox119.0 1 1
+firefox50.0 29 22
+chrome122.0.0.0 1 1
+firefox57.0.4 1 1
+chrome99.0.4859.172 2 2
+chrome83.0.4103.97 2 2
+chrome80.0.3987.162 3 3
+safari16.6 1 1
+chrome83.0.4103.61 6 1
+chrome77.0.3865.90 1 1
+mozilla 70 25
+chrome91.0.4472.124 1 0
+chrome80.0.3987.149 3 3
+safari14.0.3 3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240420213312
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240427173338
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240415124534
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20240401065355
+Cpanel-HTTP-Client/1.0 20240401065352
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240417071956
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240420213312
+Cpanel-HTTP-Client/1.0 20240401065352
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 133 187
+From1 0 0
+From2 0 0
+From3 0 0
+From4 25 390
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 58 33586
+409 26 2158
+404 3374 1914879
+302 17 4110
+406 70 15820
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 444
+/wp-includes/Requests/Text/admin.php 19 -
+/wordpress/ 1 -
+/mah.php 15 -
+/wp-admin/maint/maint/ajax-actions.php 16 -
+/assets/filemanager/dialog.php 1 -
+/cong.php 15 -
+/wp-admin/includes/cloud.php 17 -
+/ebs.php7 16 -
+/wp-includes/images/about.php 19 -
+/input.php 13 -
+/wp-content/themes/travel/issue.php 2 -
+/config/default.json 1 -
+/cloud.php 19 -
+/.env.prod 1 -
+/.svn 1 -
+/defaul1.php 2 -
+/./about.html/ 1 -
+/wp-admin/sx.php 14 -
+/about.html/ 1 -
+/metronic/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/wp-content/uploads/wp-booter.php 1 -
+/.env.production 1 -
+/updates.php 22 -
+/alfacgiapi/perl.alfa 1 -
+/.git/credentials 1 -
+/wp-includes/block-supports/sx.php 12 -
+/wp-includes/qw.php 1 -
+/.vscode/sftp.json 1 -
+/wp-22.php 15 -
+/ini.php 5 -
+/wp-admin/css/colors/coffee/xmrlpc.php 16 -
+/js/jquery-file-upload/server/php/ 1 -
+/assets/themes/metronic/global/jquery-file-upload/server/php/ 1 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/chosen.php 17 -
+/wordpress 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 16 -
+/.well-known/acme-challenge/mariju.php 1 -
+/lib/jquery-file-upload/server/php/ 1 -
+/server 1 -
+/avaa.php 17 -
+/wp-includes/customize/about.php 17 -
+/comfunctions.php 14 -
+/assets/elfinder/elfinder.html 1 -
+/wp-content/uploads/option.php 1 -
+/wp 1 -
+/wp-content/themes/wp-classic/inc/index.php 12 -
+/s/130323e2435323e2531323e2236313/_/ 1 -
+/wp-admin/YP1cuvy6WrD.php 1 -
+/plugins/plugins.js 6 -
+/wp-admin/js/widgets/cloud.php 17 -
+/old/ 1 -
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 1 -
+/users.php 2 -
+/wp-includes/IXR/about.php 21 -
+/plugins/kcfinder/upload.php 1 -
+/wp-includes/SimplePie/about.php 21 -
+/.well-known/admin.php 2 -
+/img/about.php 17 -
+/wordpress/wp-admin/setup-config.php 1 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/js/kcfinder/upload.php 1 -
+/bypass.php 5 -
+/assets/css/403.php 2 -
+/wp-admin/js/widgets/about.php7 17 -
+/function.php 1 -
+/gecko.php 1 -
+/radio.php 5 -
+/.well-known/acme-challenge/xmrlpc.php 32 -
+/security.txt 1 -
+/web.php 1 -
+/wp-activate.php 6 -
+/wp-content/plugins/hellopress/wp_filemanager.php 19 -
+/wp-content/plugins/elementor/sx.php 12 -
+/as.php 5 -
+/wp-conflg.php 5 -
+/db.php 2 -
+/alfa-rex.php 2 -
+/wp-includes/certificates/about.php 1 -
+/tinymce/filemanager/dialog.php 1 -
+/log.php 6 -
+/fw.php 5 -
+/wp-includes/sitemaps/about.php 1 -
+/wp-content/plugins/pwnd/pwnd.php 15 -
+/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css 1 -
+/bak.php 6 -
+/wp-content/themes/alera/alpha.php 1 -
+/.well-known/pki-validation/cloud.php 19 -
+/lv.php 17 -
+/LA.php 1 -
+/img/cloud.php 17 -
+/wp-blog.php 2 -
+/wp-admin/includes/class_api.php 2 -
+/wp-admin/ajax-actions.php 17 -
+/plugins/jquery.filer/php/readme.txt 1 -
+/wp-content/themes/twentyseventeen/page/index.php 2 -
+/wp-content/languages/about.php 17 -
+/indeex.php 1 -
+/themes.php 5 -
+/_profiler/phpinfo 1 -
+/alfanew.php 24 -
+/_all_dbs 1 -
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/moon.php 6 -
+/wp-sigunq.php 5 -
+/assets/app.php 1 -
+/humans.txt 1 -
+/makeasmtp.php 5 -
+/wp-consar.php 17 -
+/xt/smaxx.php 12 -
+/wp-admin/admin.php 2 -
+/fm1.php 2 -
+/wp-admin/setup-config.php 1 -
+/post.php 1 -
+/wp-admin/includes/xmrlpc.php 16 -
+/public/vendor/laravel-filemanager/js/script.js 1 -
+/admin-ajax.php 12 -
+/wp-configs.php 15 -
+/wp-admin/css/colors/coffee/index.php 2 -
+/.DS_Store 1 -
+/wp-content/sx.php 12 -
+/wp-links.php 1 -
+/ads.txt 3 -
+/wp-content/plugins/index.php 4 -
+/wp-admin/css/colors/blue/cloud.php 17 -
+/wp-admin/cloud.php 17 -
+/alfanew2.php7 16 -
+/assets/jquery-file-upload/server/php/ 1 -
+/.aws/config 1 -
+/blog.php 5 -
+/login.action 1 -
+/wp-content/upgrade-temp-backup/about.php 17 -
+/images/xmrlpc.php 16 -
+/wp-includes/customize/amaxx.php 1 -
+/wp-includes/Text/about.php 19 -
+/.well-known/pki-validation/about.php 21 -
+/wp-admin/dropdown.php 18 -
+/s3cmd.ini 1 -
+/wp-content/plugins/seoplugins/mar.php 18 -
+/infos.php 1 -
+/wp-admin/includes/sx.php 12 -
+/dropdown.php 23 -
+/wp-content/plugins/pwnd-1/pwnd.php 15 -
+/vendor/laravel-filemanager/js/script.js 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 2 -
+/repeater.php 22 -
+/wp-includes/repeater.php 17 -
+/wp-mail.php 14 -
+/wp-content/plugins/Cache/Cache.php 19 -
+/wp-content/plugins/linkpreview/db.php 18 -
+/admin/filemanager/dialog.php 1 -
+/ccx/index.php 2 -
+/wp-admin/maint/edit.php 1 -
+/google.php 2 -
+/.tmb/class_api.php 2 -
+/wp-content/plugins/apikey/mar.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 17 -
+/wp-includes/Requests/about.php 21 -
+/404.php 5 -
+/shell.php 5 -
+/coloradmin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/plugin.php 14 -
+/dashboard/phpinfo.php 1 -
+/wp-includes/blocks/sx.php 12 -
+/ws.php 7 -
+/wp-admin/user/xmrlpc.php 18 -
+/ajax-actions.php 17 -
+/contact.html/ 1 -
+/.well-known/acme-challenge/index.php 1 -
+/wso112233.php 5 -
+/.git 1 -
+/yanz.php 19 -
+/media.php 12 -
+/thumb.php 1 -
+/config.js 1 -
+/r3x.php 1 -
+/wp-content/plugins/seoplugins/db.php 18 -
+/timthumb.php 1 -
+/assets/scripts/filemanager/dialog.php 1 -
+/wp-config-sample.php 2 -
+/wp-content/plugins/smaxx.php 12 -
+/ern1.PhP7 1 -
+/wp-admin/css/colors/blue/about.php 2 -
+/wp-admin/smaxx.php 12 -
+/wp-admin/user/cloud.php 17 -
+/debug/default/view 1 -
+/1.php 1 -
+/assets/kcfinder/upload.php 1 -
+/byp.php 1 -
+/alfanew.php7 16 -
+/blog 1 -
+/wp-l0gin.php 1 -
+/portfolio.html/ 1 -
+/assets/backend/plugins/jquery-file-upload/server/php/ 1 -
+/resources/global/plugins/jquery-file-upload/server/php/ 1 -
+/./portfolio.html/ 1 -
+/wp-includes/rest-api/sx.php 12 -
+/.env/backup 1 -
+/.well-known/acme-challenge/license.php 2 -
+/wp-admin/css/colors/xmrlpc.php 16 -
+/coaster/jquery/gallery-upload/server/php/ 1 -
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 1 -
+/.s3cfg 1 -
+/wp-includes/js/jquery/jquery.js 2 -
+/wp-content/plugins/background-image-cropper/tmpls.php 1 -
+/wp-atom.php 3 -
+/wp-content/updraft/about.php 17 -
+/adminfuns.php7 16 -
+/wp-content/themes/seotheme/db.php 18 -
+/wp-admin/maint/moon.php 1 -
+/wp-includes/widgets/about.php 19 -
+/mailto:balajinursery2110@gmail.com 1 -
+/wp-admin/images/profile.php 1 -
+/scripts/filemanager/dialog.php 1 -
+/css/xmrlpc.php 16 -
+/wp-includes/js/jcrop/sx.php 12 -
+/admin-post.php 16 -
+/wp-content/wso.php 2 -
+/wp-admin/images/about.php 21 -
+/wp-content/plugins/core-plugin/include.php 12 -
+/alfa-rex.php7 21 -
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/assets/plugins/kcfinder/upload.php 1 -
+/wp-content/about.php 19 -
+/wp-admin/network/xmrlpc.php 18 -
+/media/mediamgr/other/jq_fileupload/server/php/ 1 -
+/plugins.php 5 -
+/assets/color_admin/plugins/jquery-file-upload/server/php/ 1 -
+/sitemap.xml 2 -
+/assets/plugins/filemanager/dialog.php 1 -
+/shell20211028.php 3 -
+/wp-includes/ID3/about.php 21 -
+/assets/js/kcfinder/upload.php 1 -
+/wp-admin/user/about.php 1 -
+/env.js 1 -
+/app/config/parameters.yml 1 -
+/libraries/vendor/updates.php 17 -
+/wp-content/themes/seotheme/mar.php 20 -
+/index1.php 1 -
+/images/class-config.php 1 -
+/mini.php 1 -
+/cgi-bin/sx.php 12 -
+/.well-known/security.txt 1 -
+/alfa-rex2.php7 16 -
+/asset/kcfinder/upload.php 1 -
+/wp-admin/css/colors/cloud.php 17 -
+/cache-compat.php 17 -
+/simple.php 9 -
+/wp-admin/css/about.php 21 -
+/wp-includes/pomo/about.php 19 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/sx.php 12 -
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/ 1 -
+/upfile.php 5 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-admin/css/index.php 20 -
+/new 1 -
+/wp-includes/images/smaxx.php 12 -
+/cgi-bin/cloud.php 17 -
+/chosen 12 -
+/gel4y.php 12 -
+/libraries/legacy/updates.php 17 -
+/wp-admin/repeater.php 17 -
+/wp-admin/css/colors/light/about.php 1 -
+/ae.php 5 -
+/doc.php 9 -
+/plugins/jquery-file-upload/server/php/ 1 -
+/wp-admin/network/cloud.php 19 -
+/wp-content/style-css.php 2 -
+/.aws/credentials 1 -
+/.well-known/acme-challenge/sx.php 12 -
+/wp-admin/user/sx.php 12 -
+/wp-includes/smaxx.php 12 -
+/wp-includes/block-patterns/about.php 21 -
+/wp-includes/blocks/table/int/tmpl/index.php 2 -
+/wp-includes/IXR/admin.php 1 -
+/wp-includes/about.php 21 -
+/wp-admin/css/colors/blue/blue.php 13 -
+/ws.php7 16 -
+/wp-admin/js/about.php 25 -
+/wp-includes/IXR/allez.php 1 -
+/about.php 24 -
+/wp-content/plugins/fix/up.php 16 -
+/assets/libs/jquery-file-upload/server/php/ 1 -
+/css/cloud.php 17 -
+/wp-content/plugins/core/include.php 2 -
+/sx.php 14 -
+/demo 1 -
+/assets/lib/jquery-file-upload/server/php/ 1 -
+/v2/_catalog 1 -
+/wp-content/themes/pridmag/db.php 18 -
+/wp-content/smaxx.php 12 -
+/wp.php 7 -
+/assets/plugins/jquery.filer/php/readme.txt 1 -
+/wsoyanz.php 17 -
+/phpinfo.php 1 -
+/wp-admin/xmrlpc.php 16 -
+/lufix.php 6 -
+/filemanager/dialog.php 1 -
+/nf_tracking.php 2 -
+/wp-includes/widgets/class-wp-widget-tag.php 1 -
+/wp-2019.php 7 -
+/install.php 20 -
+/ioxi001.PhP7 1 -
+/jquery/jquery-2.2.4.min.js 5 -
+/assets/images/cmd.php 1 -
+/wp-p.php7 17 -
+/.well-known/index.php 1 -
+/config.json 1 -
+/about.php7 16 -
+/wp-login.php 1 -
+/wp-includes/style-engine/about.php 21 -
+/worm0.PhP7 2 -
+/moded.php 1 -
+/images/about.php 19 -
+/wp-content/themes/travelscape/json.php 2 -
+/.tmb/admin.php 1 -
+/wp-includes.bak/html-api/about.php 17 -
+/admin.php 25 -
+/defaults.php 13 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/wp/wp-includes/menu.php 1 -
+/.well-known/sx.php 12 -
+/images/cloud.php 21 -
+/_ignition/execute-solution 1 -
+/wp-head.php 2 -
+/Dockerrun.aws.json 1 -
+/./contact.html/ 1 -
+/.well-known/pki-validation/sx.php 12 -
+/wp-content/plugins/seoo/wsoyanz.php 17 -
+/admin 1 -
+/filemanager/filemanager/dialog.php 1 -
+/0z.php 12 -
+/config.inc.php 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 17 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/choosen.php 1 -
+/jquery.filer/php/readme.txt 1 -
+/file.php 2 -
+/atomlib.php 2 -
+/.env.example 1 -
+/.well-known/zxhfwqyt.php 1 -
+/gawean.PhP7 3 -
+/wp-admin/images/atomlib.php 1 -
+/wp-admin/images/index.php 20 -
+/wp-includes/blocks/about.php 19 -
+/.well-known/about.php 21 -
+/autoload_classmap.php 1 -
+/libraries/phpmailer/updates.php 17 -
+/wp-admin/images/xmrlpc.php 20 -
+/wp-content/uploads/about.php 1 -
+/wp-includes/rest-api/about.php 21 -
+/bootstrap/popper.min.js 2 -
+/.well-known/acme-challenge/cloud.php 25 -
+/worksec.php 1 -
+/wp-includes/images/include.php 12 -
+/wp-content/updates.php 17 -
+/assets/images/1p.php 12 -
+/wp-admin/js/widgets/xmrlpc.php 16 -
+/wp-admin/network/sx.php 12 -
+/info.php 1 -
+/wp-content/plugins/fix/sx.php 12 -
+/wp-includes/plugins.php 2 -
+/wp-content/plugins/wp-apxupx.php 2 -
+/wp-content/plugins/WordPressCore/smaxx.php 12 -
+/wp/ 1 -
+/infophp.php 1 -
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 -
+/wp-admin/ccx/index.php 2 -
+/debug/default/index 1 -
+/bootstrap/bootstrap.min.js 3 -
+/.hg 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/class.api.php 14 -
+/xl2023.php 2 -
+/cgi-bin/xmrlpc.php 20 -
+/wp-admin/images/cloud.php 19 -
+/wp-content/themes/twentyfive/include.php 3 -
+/wp-admin/includes/about.php 19 -
+/backup/ 1 -
+/smaxx.php 12 -
+/about 1 -
+/feed/ 4 -
+/tel:8618834969 1 -
+/.git/config 2 -
+/wp-includes/js/jquery/jquery.min.js 1 www.google.com
+/wp-crons.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/.well-known/pki-validation/xmrlpc.php 20 -
+/wp-admin/css/sx.php 12 -
+/wp-content/plugins/core-plugin/smaxx.php 12 -
+/wp-pano.php 2 -
+/assets/vendor/jquery.filer/php/readme.txt 1 -
+/wp-admin/css/colors/index.php 20 -
+/wp-content/themes/about.php 19 -
+/wp-info.php 2 -
+/active.js 4 -
+/admin/.env 1 -
+/wp-content/ccx/index.php 2 -
+/comdofuns.php 1 -
+/wp-admin/x.php 2 -
+/403.php 2 -
+/wp-apxupx.php 2 -
+/wp-content/index.php 16 -
+/wp-includes/ID3/license.txt 4 -
+/telescope/requests 1 -
+/assets/plugins/elfinder/elfinder.html 1 -
+/xmlrpc.php 2 -
+/img/xmrlpc.php 16 -
+/.msmtprc 1 -
+/wp-includes/sx.php 14 -
+/wp-content/themes/sketch/404.php 12 -
+/formcraft/file-upload/server/php/ 1 -
+/wp-admin/users.php 2 -
+/wp-content/blogs.dir/about.php 17 -
+/wp-content/banners/about.php 19 -
+/.well-known/acme-challenge/about.php 2 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/content.php 5 -
+/fm.php 1 -
+/cjfuns.php 2 -
+/index.php 4 -
+/.well-known/wso112233.php 2 -
+/kcfinder/upload.php 1 -
+/cgi-bin/about.php 21 -
+/wp-includes/ID3/sx.php 12 -
+/.env.save 1 -
+/blog/ 1 -
+/public/javascript/jquery.upload/server/php/ 1 -
+/wp-content/repeater.php 17 -
+/wp-includes/PHPMailer/admin.php 1 -
+/wp-content/shell20211028.php 2 -
+/filefuns.php 1 -
+/robots.txt 15 -
+/inputs.php 1 -
+/wp-includes/IXR/sx.php 12 -
+/wp-content/plugins/revslider/includes/external/page/index.php 5 -
+/wp-admin/images/sx.php 12 -
+/css.php 7 -
+/wp-content/themes/twentyfive/smaxx.php 12 -
+/wp-content/gallery/about.php 19 -
+/wp-content/upgrade/sx.php 12 -
+/wp-includes/themes.php 2 -
+/xmrlpc.php 23 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 111
+44.203.132.86 22 29 951766 20240403151941
+149.56.150.92 10 10 388256 20240406042603
+162.215.254.201 9 9 576 20240401065352
+65.154.226.168 8 98 8861362 20240422064429
+205.169.39.235 5 55 4646042 20240401065723
+18.246.239.226 4 49 4430681 20240419161748
+35.86.0.8 4 49 4430681 20240422172406
+34.222.206.3 4 49 4430681 20240401190916
+144.217.135.148 4 49 4430681 20240406042622
+35.87.113.253 4 49 4430681 20240404175753
+104.209.139.242 3 3 166815 20240430045435
+35.214.187.34 3 6 196909 20240427120931
+149.56.160.229 2 2 15272 20240417065824
+15.204.182.106 2 2 26534 20240403084817
+49.13.140.119 2 2 0 20240410185612
+149.56.160.138 2 2 15272 20240417071942
+152.42.207.106 2 2 111210 20240423015306
+103.102.228.228 2 2 26534 20240407164314
+101.199.254.198 1 1 55605 20240405171808
+18.142.48.86 1 1 87 20240401065355
+164.92.137.186 1 1 13267 20240415055705
+64.227.126.163 1 1 13267 20240419161815
+18.188.223.74 1 1 87 20240401065354
+54.149.145.149 1 1 13267 20240404175750
+62.141.44.236 1 1 13267 20240408232909
+209.127.105.235 0 1 6080 
+95.164.158.218 0 1 5577 
+138.197.118.79 1 1 13267 20240407074525
+38.154.198.154 0 2 9170 
+205.210.31.183 1 1 55605 20240420213312
+199.45.154.67 1 1 13267 20240415124534
+141.94.174.211 1 1 13267 20240414043321
+38.89.70.199 1 1 13267 20240408044221
+209.127.97.81 0 1 7487 
+209.97.180.8 1 1 55605 20240401065506
+87.236.176.218 1 1 13267 20240422164118
+89.104.100.46 1 1 13267 20240401231417
+23.178.112.207 1 1 87 20240401065354
+178.128.164.142 1 1 13267 20240419065533
+95.164.157.231 0 1 79008 
+129.213.88.75 1 6 215361 20240408084910
+134.122.11.134 1 1 13267 20240407192732
+138.197.17.67 1 1 13267 20240405072022
+65.154.226.167 1 1 13267 20240415130225
+95.164.157.216 0 1 4983 
+209.127.107.153 0 2 123362 
+170.254.178.193 0 1 79008 
+138.122.193.37 0 1 1855 
+191.102.157.123 0 1 20244 
+95.164.157.84 0 1 18396 
+199.244.88.229 1 1 13267 20240415164416
+170.231.251.93 1 1 0 20240425075110
+54.148.107.138 1 1 13267 20240422172400
+54.202.203.44 1 1 87 20240401065354
+167.99.193.79 1 1 13267 20240411083505
+209.127.105.64 0 2 118522 
+157.230.124.177 1 1 13267 20240425065841
+95.164.157.75 0 1 4759 
+87.236.176.82 1 1 13267 20240427173338
+54.187.14.33 1 1 13267 20240419152043
+209.127.104.207 0 3 23822 
+198.20.189.94 0 1 3026 
+206.189.102.153 1 1 13267 20240411074151
+95.164.156.109 0 1 3593 
+146.190.241.10 1 1 13267 20240413060813
+185.94.188.149 1 1 55605 20240424220204
+134.122.102.92 1 1 13267 20240403054546
+24.144.92.79 1 1 13267 20240405060437
+205.209.106.139 1 1 55605 20240419032231
+205.210.31.175 1 1 55605 20240416152731
+176.58.112.239 1 1 13267 20240408142253
+159.65.182.194 1 1 55605 20240404204240
+209.127.106.176 0 1 111035 
+3.82.241.164 1 1 0 20240418094214
+209.127.107.149 0 1 1458 
+132.255.133.189 1 1 13267 20240425003808
+149.56.160.179 1 1 4244 20240417071956
+165.227.232.230 1 1 13267 20240429054219
+178.254.38.45 1 1 13267 20240425222223
+159.223.190.226 1 1 13267 20240421140751
+54.201.255.43 1 1 13267 20240401190912
+52.176.155.210 1 1 55605 20240416155505
+95.164.156.185 1 1 0 20240425003808
+34.222.207.210 1 1 55605 20240411060712
+164.90.183.1 1 1 13267 20240427084210
+192.241.67.99 0 1 43802 
+178.254.29.124 1 1 13267 20240416230610
+35.215.80.16 1 1 13267 20240413142540
+31.217.248.21 1 1 55605 20240420141344
+191.102.187.174 0 1 2076 
+198.235.24.161 1 1 55605 20240406085059
+164.92.219.120 1 1 13267 20240401063053
+38.154.214.80 0 1 3026 
+192.241.67.185 1 1 13267 20240425075110
+35.94.13.73 1 1 13267 20240416161354
+167.172.152.179 1 1 13267 20240423062758
+191.102.162.14 0 1 17208 
+209.127.104.20 0 1 18396 
+209.127.97.94 0 1 6080 
+205.210.31.77 1 1 55605 20240403020650
+132.145.196.190 1 6 215361 20240401072102
+209.127.109.242 0 1 7176 
+144.217.135.253 1 1 4244 20240417065841
+54.69.116.23 1 1 13267 20240419161745
+13.53.44.41 1 1 87 20240401065355
+167.99.144.211 1 1 13267 20240409084833
+95.164.158.190 0 2 12159 
+64.23.212.244 1 1 4244 20240417060847
+137.184.169.13 1 1 13267 20240421072608
+198.235.24.148 1 1 55605 20240410202211
+132.255.133.44 0 2 29049 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20240401 32 177 13819182 14
+20240403 26 33 1047172 4
+20240404 6 51 4499553 3
+20240405 3 3 82139 3
+20240406 15 60 4874542 3
+20240407 4 4 53068 3
+20240408 4 9 255162 4
+20240409 1 1 13267 1
+20240410 3 3 55605 2
+20240411 3 3 82139 3
+20240413 2 2 26534 2
+20240414 1 1 13267 1
+20240415 4 4 53068 4
+20240416 4 4 137744 4
+20240417 7 7 43276 5
+20240418 1 1 0 1
+20240419 9 54 4539354 6
+20240420 2 2 111210 2
+20240421 2 2 26534 2
+20240422 10 100 8887896 4
+20240423 3 3 124477 2
+20240424 1 1 55605 1
+20240425 6 40 813425 6
+20240427 5 8 223443 3
+20240429 1 1 13267 1
+20240430 3 3 166815 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 82
+30mn-1h 1
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 33
+/ 85 1950458 74 64
+/fonts/fontawesome-webfont.woff2 8 617280 0 0
+/fonts/ElegantIcons.woff 8 509312 0 0
+/fonts/classy.ttf 8 8800 0 8
+/cgi-sys/suspendedpage.cgi 7 43276 5 5
+/.well-known/acme-challenge/3wmItSPLwPxxVx0kUldqLZRx03RUr_ThIQ5nnZCjX4U 5 435 5 5
+/single-portfolio.html 3 35703 0 0
+/contact.html 3 14946 0 1
+/shop-details.html 2 47863 0 0
+/cart.html 2 27436 0 0
+/portfolio.html 2 35481 0 0
+/checkout.html 2 29125 0 0
+/shop.html 2 51386 0 0
+/about.html 2 47890 0 0
+/./checkout.html 1 4950 0 0
+/./about.html 1 8066 0 0
+/./portfolio.html 1 6863 0 0
+/.well-known/acme-challenge/BM61QFMB6WOP8ZB8S__13_ZDUGS2QODX 1 64 0 0
+/.well-known/acme-challenge/J2G_MW_5U6W4W_ZZMXYQ5GELFMIKZ4CJ 1 64 0 0
+/.well-known/acme-challenge/L6OVQUFNVMVYN2GD-82GLPOTI0_-GB8B 1 64 0 0
+/single-post.html 1 8874 0 0
+/blog.html 1 7421 0 0
+/./contact.html 1 4982 0 1
+/.well-known/acme-challenge/8-T5FENYI0BZ0_26DXIQOEW0_PTXPDYK 1 64 0 0
+/./shop-details.html 1 8272 0 0
+/.well-known/acme-challenge/IL18-FZX5RM46B201R2MPBV8D1YTSED- 1 64 0 0
+/.well-known/acme-challenge/ILYU_A56VBI1T_40JPLKL1DVP-B843M7 1 64 1 0
+/.well-known/acme-challenge/IU31G92RDZFANDDLDEF9W2Z97C70HDD4 1 64 0 0
+/./cart.html 1 5135 0 0
+/./ 1 13267 0 0
+/.well-known/acme-challenge/YA0-1482BSRNRZQ5YZ5_EY5V8F-ILIJR 1 64 0 0
+/./shop.html 1 8047 0 0
+/.well-known/acme-challenge/Q8BBKPTXIV5EW6R9WPRJ_D7236Z7OQLO 1 64 0 1
+END_SIDER

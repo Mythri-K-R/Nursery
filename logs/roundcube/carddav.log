@@ -1,0 +1,1 @@
+[25-Jul-2023 11:54:21 +0530]: <e3ade356> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 

@@ -1,0 +1,6 @@
+---
+"gem": '--remote --gen-rdoc --run-tests'
+"gemhome": '/home1/balaji/ruby/gems'
+"gempath": []
+
+"rdoc": '--inline-source --line-numbers'

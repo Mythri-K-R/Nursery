@@ -1,0 +1,329 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /home1/balaji/tmp/awstats/ssl/awstats.balajiplantnursery.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2775                
+POS_VISITOR 7541                
+POS_DAY 8054                
+POS_DOMAIN 3405                
+POS_LOGIN 3687                
+POS_ROBOT 3842                
+POS_WORMS 4116                
+POS_EMAILSENDER 4247                
+POS_EMAILRECEIVER 4390                
+POS_SESSION 8184                
+POS_FILESIZE 8655                
+POS_REQUESTTIME 8798                
+POS_SIDER 8341                
+POS_FILETYPES 4525                
+POS_DOWNLOADS 4751                
+POS_OS 4799                
+POS_BROWSER 4930                
+POS_SCREENSIZE 5109                
+POS_UNKNOWNREFERER 5183                
+POS_UNKNOWNREFERERBROWSER 5461                
+POS_ORIGIN 5734                
+POS_SEREFERRALS 5869                
+POS_PAGEREFS 6032                
+POS_SEARCHWORDS 6180                
+POS_KEYWORDS 6332                
+POS_MISC 2438                
+POS_ERRORS 6391                
+POS_CLUSTER 3543                
+POS_SIDER_404 6549                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260303171146 276 72877 24459449908843
+FirstTime 20260301034818
+LastTime 20260303133632
+LastUpdate 20260303175726 276 0 276 0 0
+TotalVisits 16                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 13 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 29 580717
+1 0 0 0 0 2 938
+2 0 0 0 0 1 3026
+3 2 2 32379 1 6 47307
+4 3 3 19170 70 78 86456
+5 1 1 26316 1 1 39540
+6 0 0 0 1 1 25542
+7 1 1 26316 0 1 583
+8 1 1 6390 52 54 27824
+9 0 0 0 2 5 42921
+10 0 0 0 0 0 0
+11 1 15 1390238 1 6 639081
+12 6 47 1865916 0 0 0
+13 6 41 3196315 0 1 20244
+14 2 20 2090755 5 8 79594
+15 1 1 6390 0 2 20244
+16 0 0 0 36 43 202689
+17 0 0 0 6 6 79164
+18 0 0 0 1 1 26316
+19 2 2 12126 0 8 64353
+20 0 0 0 53 60 243202
+21 1 1 6063 39 44 90607
+22 0 0 0 2 12 388001
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+in 19 105 7060424
+us 4 26 1552538
+ca 2 2 52632
+cn 1 1 6390
+se 1 1 6390
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bingbot/ 31 714044 20260303171146 0
+Googlebot/ 28 575734 20260302003649 0
+crawl 9 294242 20260302180142 0
+Applebot/ 7 210080 20260302205954 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 26 1124581 0 0
+jpg 28 5039741 0 0
+html 22 198734 0 0
+woff 2 127328 0 0
+png 33 351306 0 0
+css 15 104676 0 0
+woff2 1 77160 0 0
+webp 6 1652648 0 0
+ttf 2 2200 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+ios_iphone 47 6
+Unknown 9 9
+android10 76 9
+win10 2 2
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome39.0.2171.95 1 1
+chrome144.0.0.0 15 1
+Unknown 9 9
+chrome134.0.0.0 1 1
+safari 47 6
+chrome145.0.0.0 61 8
+chrome105.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260303074245
+FaviconHash-API/1.0 20260303083030
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+FaviconHash-API/1.0 20260303083030
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260303074245
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 14
+From1 1 1
+From2 2 2
+From3 0 0
+From4 11 118
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+421 2 724
+503 1 0
+406 68 15368
+409 130 10790
+404 61 23479
+403 7 2485
+206 4 618475
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 28
+/wp-includes/Text/Diff/Renderer/ 1 -
+/.well-known/security.txt 1 -
+/randkeyword.PhP7 1 -
+/wp-content/uploads/ 3 -
+/.aws/credentials 1 -
+/.env_1 1 -
+/wp-includes/widgets/ 1 -
+/wp-content/uploads/2023/08/ 1 -
+/wp-includes/ 3 -
+/wp-includes/block-supports/ 1 -
+/wp-admin/css/colors/ectoplasm/ 3 -
+/wp-admin/includes/ 1 -
+/wp-includes/images/ 3 -
+/.git/config 1 -
+/wp-includes/PHPMailer/ 3 -
+/wp-content/plugins/WordPressCore/ 3 -
+/uploads/ 3 -
+/robots.txt 16 -
+/.env.www 1 -
+/.env.dev 1 -
+/wp-admin/images/ 3 -
+/wp-includes/fonts/ 1 -
+/wp-includes/html-api/ 3 -
+/wp-includes/js/crop/ 1 -
+/wp-includes/rest-api/ 1 -
+/.env_sample 1 -
+/wp-includes/style-engine/ 1 -
+/wp-includes/IXR/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+103.108.58.16 7 7 43422 20260303083030
+122.177.242.215 6 41 3196315 20260303133632
+49.36.218.94 4 37 1729932 20260301124943
+157.49.67.139 2 10 135984 20260301124947
+49.37.161.80 2 20 2090755 20260302140557
+121.40.185.81 1 1 6390 20260303044653
+205.210.31.18 1 1 26316 20260303074245
+157.35.1.220 1 15 1390238 20260302111832
+205.210.31.108 1 1 26316 20260303031539
+204.76.203.25 1 1 26316 20260303054425
+93.158.91.19 1 1 6390 20260303042518
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20260301 10 51 1890168 5
+20260302 4 36 3487383 3
+20260303 13 48 3300823 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 15
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 16 160710 13 13
+/fonts/ElegantIcons.woff 2 127328 0 1
+/shop.html 2 16094 1 0
+/fonts/classy.ttf 2 2200 1 1
+/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/contact.html 1 4982 1 1
+/portfolio.html 1 6863 0 0
+/cart.html 1 5135 0 0
+/checkout.html 1 4950 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+5K+ 167
+44-100 130
+0-44 4
+1K-2K 35
+100-500 138
+500-1K 12
+2K-5K 18
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

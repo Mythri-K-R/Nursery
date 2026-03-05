@@ -1,0 +1,1742 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202511 will be lost/reset.
+# Last config file used to build this data file was /home1/balaji/tmp/awstats/awstats.balajiplantnursery.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2088                
+POS_TIME 2767                
+POS_VISITOR 43643               
+POS_DAY 51237               
+POS_DOMAIN 3638                
+POS_LOGIN 4233                
+POS_ROBOT 4388                
+POS_WORMS 4882                
+POS_EMAILSENDER 5013                
+POS_EMAILRECEIVER 5156                
+POS_SESSION 51998               
+POS_FILESIZE 52735               
+POS_REQUESTTIME 52886               
+POS_SIDER 52179               
+POS_FILETYPES 5291                
+POS_DOWNLOADS 5505                
+POS_OS 5553                
+POS_BROWSER 5924                
+POS_SCREENSIZE 7295                
+POS_UNKNOWNREFERER 7369                
+POS_UNKNOWNREFERERBROWSER 7892                
+POS_ORIGIN 8165                
+POS_SEREFERRALS 8302                
+POS_PAGEREFS 8465                
+POS_SEARCHWORDS 8613                
+POS_KEYWORDS 8765                
+POS_MISC 2430                
+POS_ERRORS 8824                
+POS_CLUSTER 4089                
+POS_SIDER_404 8983                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251201030301 18 3910 12767179722096
+FirstTime 20251101020502
+LastTime 20251130234817
+LastUpdate 20251201175442 18 0 17 0 0
+TotalVisits 211                 
+TotalUnique 187                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 189                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 23 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 13 923286 1535 1565 613881
+1 23 68 4714830 536 562 512661
+2 7 7 135207 1223 1259 943836
+3 26 35 1706120 443 454 382119
+4 7 9 439552 132 140 132962
+5 17 62 4606376 380 395 86587
+6 21 21 1040691 527 554 430593
+7 23 89 5638891 480 490 156241
+8 6 9 363072 585 604 426688
+9 5 7 239568 387 406 521944
+10 19 27 1384777 324 333 76925
+11 13 13 468837 420 432 365738
+12 27 40 2449588 1455 1499 1313481
+13 17 62 4899518 625 640 260806
+14 14 21 819191 1011 1048 768444
+15 9 9 458107 213 230 447869
+16 16 69 5337449 528 543 414430
+17 11 11 526979 362 392 585839
+18 26 71 5484639 490 504 457291
+19 17 22 893351 750 793 294895
+20 9 43 3027375 93 115 751429
+21 27 128 9858886 507 526 190302
+22 31 76 5325119 352 431 4966648
+23 42 62 3622289 518 566 314313
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+us 209 502 32867327
+ru 53 97 5928756
+in 44 241 19613602
+za 39 49 2631870
+eu 9 9 500445
+gb 8 12 456700
+ca 8 8 402502
+se 6 6 79602
+ir 6 6 79602
+ro 6 6 291292
+cz 5 5 278025
+jp 4 4 39582
+sg 3 3 166815
+it 3 3 166815
+id 3 3 166815
+de 3 3 39801
+nl 2 2 111210
+lt 2 2 26534
+pt 1 1 13267
+il 1 1 13267
+dk 1 1 55605
+lb 1 1 13267
+bg 1 1 13267
+fr 1 5 283253
+be 1 1 13267
+ie 1 1 55605
+ua 1 1 55605
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 190 3894080 20251130090932 0
+link 49 4430681 20251112223349 0
+no_user_agent 32 1723755 20251130084206 0
+bingbot/ 31 1613698 20251130024422 0
+Googlebot\-Image/ 13 203430 20251130135151 0
+CheckMarkNetwork/ 7 215361 20251101031931 0
+crawl 5 172109 20251126201855 0
+checker 2 26534 20251102214913 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 13267 20251104213449 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+jpg 240 39910239 0 0
+png 98 779747 0 0
+ttf 8 8800 0 0
+html 396 14828463 0 0
+woff2 9 694440 0 0
+js 116 6586579 0 0
+woff 9 572976 0 0
+css 98 982454 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+macosx14 2 2
+ios_iphone 210 19
+Unknown 103 34
+android 50 5
+androidpie 1 1
+win8.1 1 1
+macosx10 6 6
+android12 1 1
+macosx9 3 1
+macosx6 1 1
+linux 111 18
+macosx 2 2
+androidnougat 1 1
+android10 115 14
+winlong 1 1
+win10 266 248
+winxp 1 1
+win7 81 48
+androidhoneycomb 1 1
+macosx15 6 6
+androidkitkat 10 10
+win8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 65
+firefox47.0 76 43
+chrome115.0.0.0 1 1
+netscape4.8 1 1
+chrome138.0.0.0 28 7
+chrome141.0.0.0 1 0
+chrome114.0.5735.199 6 1
+chrome86.0.4240.111 2 2
+firefox40.0 2 2
+chrome101.0.4951.41 1 1
+chrome101.0.0.0 1 1
+firefox114.0 3 3
+chrome101.0.4951.67 1 1
+firefox82.0 2 2
+safari7.0 49 4
+chrome122.0.0.0 3 3
+firefox11.0 1 1
+chrome30.0.0.0 1 1
+chrome37.0.2049.0 1 1
+firefox141.0 1 1
+chrome79.0.3945.88 3 3
+chrome36.0.1985.67 1 1
+chrome58.0.3029.110 21 10
+chrome95.0.4638.69 37 37
+chrome80.0.3987.163 46 1
+chrome37.0.2062.124 3 3
+chrome60.0.3112.107 1 1
+netscape5.0 3 3
+safari17.1 1 1
+chrome89.0.4389.114 11 11
+chrome120.0.0.0 3 3
+safari15.1 1 1
+chrome121.0.0.0 2 2
+safari5.1.7 1 1
+chrome78.0.3904.108 69 69
+chrome39.0.2171.95 3 3
+chrome92.0.4515.107 46 1
+chrome29.0.1547.2 1 1
+chrome116.0 1 1
+mozilla 68 23
+chrome139.0.0.0 5 5
+chrome126.0.0.0 1 1
+firefox115 1 1
+chrome105.0.0.0 1 1
+android 11 11
+chrome34.0.1847.137 1 1
+Unknown 36 12
+opera96.0.2254.79777 49 4
+chrome113.0.0.0 3 0
+firefox25.0 1 1
+chrome80.0.3987.162 1 1
+chrome142.0.0.0 35 1
+chrome96.0.4664.93 1 1
+safari 160 14
+edge18 1 1
+chrome79.0.3945.130 20 20
+chrome114.0.5735.110 2 0
+chrome88.0.4240.193 12 12
+firefox38.0 3 1
+chrome80.0.3987.149 59 59
+chrome124.0.0.0 1 1
+chrome91.0.4472.114 4 4
+chrome140.0.0.0 49 4
+safari17.3.1 2 2
+firefox139.0 2 2
+chrome91.0.4472.124 10 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-httpx/0.28.1 20251127041359
+Mozilla/5.0_(compatible;_Dataprovider.com) 20251124220155
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20251117015748
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251118173007
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20251128205937
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251118173007
+python-httpx/0.28.1 20251127041359
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 388 466
+From1 0 0
+From2 3 3
+From3 0 0
+From4 31 505
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 2644 1467580
+301 1 240
+409 9980 828340
+403 69 39315
+302 6 1452
+406 1420 320468
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1124
+/wp-includes/Text/Diff/Renderer/index.php 1 -
+/wp-content/plugins/pwnd-1/dedi1.php 1 -
+/docker/config.json 1 -
+/xp.php 1 -
+/uploads/af32.php 1 -
+/wp-content/uploads/bypass.php 1 -
+/config.json 4 -
+/wp-admin/js/widget/ 5 -
+/wp-admin/css/colors/blue/gold.php 1 -
+/admin/uploads/ 8 -
+/stripe.key 1 -
+/.well-known/pki-validation/kur.php 1 -
+/wp-includes/SimplePie/XML/ 4 -
+/wp-content/languages/index.php 1 -
+/wp-content/plugins/limit/ 5 -
+/helper.js 1 -
+/upload/image/ 8 -
+/static/js/main.141b0494.js 4 -
+/wp-content/plugins/wp-login.php 1 -
+/wp-admin/css/colors/ocean/ 5 -
+/wp-content/plugins/pwnd/1.php 1 -
+/.well-known/wincust.php 1 -
+/wp-includes/js/tinymce/langs/about.php 1 -
+/wp-includes/IXR/class-IXR-cilent.php 1 -
+/wp-content/plugins/erinyani/asasx.php 1 -
+/images/wp-aespa.php 1 -
+/wp-content/wflogs/ 1 https://www.yahoo.com/
+/wp-includes/blocks/about.php 1 -
+/wp-admin/css/colors/blue/ahax.php 1 -
+/wp-includes/images/ 9 -
+/mt/ 5 -
+/wp-content/plugins/core-stab/ 5 -
+/secrets.yaml 1 -
+/images/js1.php 1 -
+/wp-includes/js/plupload/ 5 -
+/function/goods.php 1 -
+/bs1.php 1 -
+/wp-includes/SimplePie/Parse/about.php 1 -
+/sitemap.txt 2 -
+/nation.php 1 -
+/wp-admin/1.php 1 -
+/wp-includes/blocks/file/wp-style.php 1 -
+/api/config/config.yml 1 -
+/wp-content/mu-plugins/admin.php 1 -
+/warm.PhP7 7 -
+/docker-compose.yml 1 -
+/wp-includes/certificates/autoload_classmap.php 1 -
+/wp-json/ 1 https://www.google.com
+/images/habhan.php 1 -
+/v2/mappings 1 -
+/wp-content/plugins/revslider/includes/external/page/ 4 -
+/.envrc 1 -
+/.env.example 3 -
+/wp-admin/maint/about.php 1 -
+/wp-includes/rest-api/fields/ 5 -
+/wp-content/item.php 1 -
+/sites/default/files/ 8 -
+/wp-admin/autoload_classmap.php 1 -
+/app/actuator/env 1 -
+/tiny.php 1 -
+/management/ 2 -
+/wp-content/plugins/pwnd/admin-footer.php 1 -
+/.well-known/wp-conflg.php 1 -
+/user/login 1 -
+/wp-admin/css/colors/ectoplasm/ 8 -
+/wp-admin/css/colors/modern/ 5 -
+/images/firewall.php7 1 -
+/wp-admin/css/colors/blue/file.php 1 -
+/wp-includes/style-engine-session.php 1 -
+/wp-content/plugins/ioxi/ioxi/dropdown.php 1 -
+/bundle.js 1 -
+/wp-includes/ID3 5 -
+/wp-content/plugins/ccx/index.php 1 -
+/js/js1.php 1 -
+/assets/deltav3.inc 1 -
+/wp-content/plugins/pwnd-1/ 4 -
+/wp-includes/class-wp-customize-manager-client.php 1 -
+/wp-content/plugins/BrutalShell/ 5 -
+/admin/uploads/images/ 8 -
+/neshe 2 -
+/wp-content/uploads/anas.php 1 -
+/wp-admin/network/atomlib.php 1 -
+/wp-atom.php 1 -
+/wp-admin/css/colors/blue/wp-atom.php 1 -
+/wp-content/uploads/ao_ccss/ 5 -
+/wp-includes/js/dist/ 5 -
+/admin/user_data.php 1 -
+/images/waf_defender.php 1 -
+/wp-includes/certificates/ 9 -
+/plugins/content/apismtp/apismtp.php 1 -
+/wp-includes/blocks/group/wp-style.php 1 -
+/wp-includes/edit.php 1 -
+/wp-includes/images/media/index.php 1 -
+/php_info.php 1 -
+/wp-content/upgrade/ 9 -
+/assets/images/admin.php 1 -
+/wp-includes/ID3/wp-conflg.php 1 -
+/img/about.php 1 -
+/controller/api/post.js 1 -
+/wp-content/themes/twentytwentyfour/icascreenshots.php 1 -
+/backend/config/default.yml 1 -
+/firewall.php7 1 -
+/admin/ 3 https://www.google.co.uk/
+/webdb.php 1 -
+/.well-known/pki-validation/server.php 1 -
+/config/settings.local 1 -
+/js/wp-login.php 1 -
+/simple/function.php 1 -
+/wp-admin/css/about.php7 1 -
+/wp-admin/includes/class-core-upgrader-first.php 1 -
+/database.yml 1 -
+/admin/editor/ 8 -
+/wp-content/uploads/wp-conflg.php 1 -
+/package.json 1 -
+/wp-content/w3tc/ 1 https://www.google.fr/
+/delpaths.php 1 -
+/wp-content/plugins/ioxi/ioxiworm.php 1 -
+/wp-content/uploads/2023/11/ 5 -
+/wp-content/plugins/fix/bypass.php 1 -
+/wp-includes/network.php 1 -
+/wp-includes/pomo/ 9 -
+/wp-content/themes/bltm/wp-login.php 1 -
+/wp-content/plugins/prenota/ 5 -
+/wp-mail.php 1 -
+/database.json 1 -
+/karma.conf.json 2 -
+/config/constants.js 2 -
+/waf_defender.php 1 -
+/wp-includes/css/dist/ 5 -
+/wp-admin/css/colors/ectoplasm/content.php 1 -
+/wp-content/wp.php 1 -
+/wp-content/plugins/HelloDollyV2/ 1 https://www.bing.com/
+/config/application.yml 2 -
+/.well-known/pki-validation/1.php 1 -
+/stripe_api_key 1 -
+/helper/EmailHelper.js 1 -
+/wp-includes/block-patterns/ 4 https://www.yahoo.com/
+/wp-admin/maint/ 9 -
+/.well-known/classwithtostring.php 1 -
+/wp-includes/fonts/class_api.php 1 -
+/wp-content/themes/kadence/functions.php 1 -
+/setup.php 1 -
+/wp-includes/SimplePie/Cache/upfile.php 1 -
+/wp-includes/Requests/src/Exception/Http/about.php 1 -
+/aks.php 1 -
+/plugins/ 3 https://www.google.com/
+/jp.php 1 -
+/components/com_newsfeeds/models/indexx.php 1 -
+/system/ 3 https://www.yahoo.com/
+/wp-includes/customize/dedi1.php 1 -
+/byp.php 1 -
+/wp-admin/plugin.php 1 -
+/env.js 1 -
+/alfa.php 1 -
+/wp-includes/assets/autoload_classmap.php 1 -
+/uploads/ 12 -
+/file2.php 1 -
+/include/install.php 1 -
+/wp-content/uploads/chosen.php 1 -
+/x/test.php 1 -
+/.well-known/acme-challenge/install.php 1 -
+/wp-includes/certificates/chosen.php 1 -
+/wp-includes/widgets/bypass.php 1 -
+/up/.well-known/ 4 -
+/moon.php 1 -
+/themes.php 1 -
+/custom-scripts/iotav1.inc 1 -
+/wp-good.php 1 -
+/aa.php 1 -
+/admin 3 -
+/pinfo.php 1 -
+/wp-content/themes/twentytwentyfour/bypass.php 1 -
+/xp.php%20 1 -
+/wp-admin/css/colors/sunrise/ 4 -
+/wp-content/mu-plugins-old/ 3 https://www.google.com/
+/theme.php 1 -
+/wp-includes/assets/script-modules-packages.min-boolean.php 1 -
+/custom-scripts/iotav3.module 1 -
+/sitemap.xml.gz 2 -
+/wp-admin/network/index.php 1 -
+/wp-includes/assets/script-loader-packages.min.php 1 -
+/npm-debug.log 1 -
+/wp-includes/IXR/ 15 -
+/wp-content/plugins/cp-pro/ 4 -
+/wp-includes/sitemaps/providers/index.php 1 -
+/karma.conf.js 1 -
+/assets/phi2.inc 1 -
+/.git/config 8 -
+/vendor/phpunit/phpunit/src/Util/PHP/admin-footer.php 1 -
+/pi.php 1 -
+/wp-includes/random_compat/ 4 https://www.google.fr/
+/wp-content/waf_defender.php 1 -
+/images/autoload_classmap.php 1 -
+/wp-includes/images/crystal/lrs_dage.php 1 -
+/assets/script.js.php 1 -
+/wp-includes/PHPMailer/purna.php 1 -
+/wp-content/themes/seotheme/mar.php 1 -
+/wp-includes/style-engine/autoload_classmap.php 1 -
+/access.log 1 -
+/constants.js 1 -
+/wp-content/bypass_1.php 1 -
+/wp-includes/sodium_compat/src/index.php 1 -
+/administrator/ 5 -
+/actuator/ 2 -
+/wp-admin/js/about.php 1 -
+/ioxi002.PhP7 4 -
+/shop.php 1 -
+/wp-content/themes/digital-download/ 4 -
+/autoload_classmap/install.php 1 -
+/wp-includes/SimplePie/Canonical.php 1 -
+/images/bypass.php 1 -
+/wp-includes/xl2023.php 1 -
+/wp-includes/html-api/chosen.php 1 -
+/wp-content/x/ 4 -
+/assets/bypass.php 1 -
+/data.sqlite 1 -
+/wp-includes/assets/file.php 1 -
+/wp-content/themes/twentytwentytwo/assets/fonts/index.php 1 -
+/.github/workflows/main.yml 1 -
+/upload/install.php 1 -
+/wp-admin/css/colors/modern/colors.css.php 1 -
+/mappings.json 1 -
+/.env.development 1 -
+/wp-content/themes/twentytwentyfour/system_cache.php%20 1 -
+/js/bootstrap/popper.js 1 -
+/wp-content/themes/twentytwentyfour/ 5 -
+/assets/iotav3.inc 1 -
+/admin/uploads/bn_1_1754420677.phtml 4 -
+/application.log 1 -
+/backups/dump.sql.gz 1 -
+/wp-includes/gamma2.module 1 -
+/wp-includes/fonts/ 15 -
+/wp-admin/js/widgets/autoload_classmap.php 1 -
+/anonse/lock360.php 1 -
+/gitlab_token 1 -
+/wp-content/themes/ 8 -
+/css/media-widget-vide02.php 1 -
+/sms.py 1 -
+/config/parameters.yml 1 -
+/.env.dev 1 -
+/feed/ 37 -
+/server.log 1 -
+/wp-content/plugins/linkpreview/ 5 -
+/.env_old 1 -
+/.well-known/pki-validation/class_api.php 1 -
+/wp-includes/ID3/wp-work.php 1 -
+/tinyfilemanager/tinyfilemanager.php 1 -
+/wp-includes/Requests/Proxy/ 3 https://www.google.com/
+/wp-includes/images/smilies/simi.php 1 -
+/wp-content/plugins/index.php 1 -
+/wp-content/plugins/aryabot/ 5 -
+/wp-admin/maint/maint.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/ 8 -
+/application.yml 1 -
+/yarn-error.log 1 -
+/wp-content/plugins/wp-diambar/includes/ 5 -
+/vendor/phpunit/phpunit/src/Util/PHP/bypass.php 1 -
+/modules/zeta1.module 1 -
+/.env.production.local 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/files.php 1 -
+/swagger.json 1 -
+/js/fm.php 1 -
+/patriotic/wp-includes/images/smilies/ 5 -
+/ext.php 1 -
+/wp-content/plugins/ubh/adminfus.php 1 -
+/wp-content/themes/index.php 1 -
+/wp-includes/theme-compat/ 9 -
+/php_version.php 1 -
+/.tmb/doc.php 1 -
+/.well-known/about.php 1 -
+/wp-includes/Text/Diff/Engine/Engine/ 3 https://www.google.de/
+/css/av.php 1 -
+/wp-content/plugins/seoo/ 4 -
+/wp-content/plugins/elementor/ 5 -
+/cgi-bin/index.php 1 -
+/apis/config/config.js 1 -
+/shared/config/config.js 2 -
+/wp-content/plugins/home/ 5 -
+/config/secrets.yml 1 -
+/ALFA_DATA/alfacgiapi/all.php 1 -
+/wp-content 2 -
+/wp-content/upgrade/pdf.php 1 -
+/adminfusm.php 1 -
+/images/news_event/1.php7 1 -
+/.env_sample 2 -
+/.well-known/acme-challenge/plugins.php 1 -
+/worm0.PhP7 2 -
+/main.yml 1 -
+/wp-content/plugins/fix/as.php 1 -
+/info 1 -
+/wp-includes/blocks/group/ 5 -
+/wp-includes/js/tinymce/skins/lightgray/img/wp-login.php 1 -
+/staging/mappings 1 -
+/wp-admin/css/colors/sunrise/bypass.php 1 -
+/chosen.php%20 1 -
+/wp-admin/setup-config.php 1 -
+/wp-includes/Requests/Transport/ 3 https://duckduckgo.com/
+/.well-known/acme-challenge/about.php 1 -
+/wp-admin/css/index.php 1 -
+/wp-admin/css/colors/light/ 5 -
+/wp-includes/Text/about.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/about.php 1 -
+/wp-content/uploads/simple-file-list/ 4 -
+/modules/zeta3.inc 1 -
+/include/ 8 -
+/gradle.properties 1 -
+/wp-includes/Requests/Exception/HTTP/ 3 https://www.bing.com/
+/images/fm.php7 1 -
+/wp-admin/js/widgets/bypass.php 1 -
+/login 3 -
+/wp-includes/Requests/autoload_classmap.php 1 -
+/database.db 1 -
+/wp-includes/ID3/license.txt 37 -
+/staging/actuator/env 1 -
+/wp-content/plugins/about.php 1 -
+/ads.txt 1 -
+/wp-error_log.php 1 -
+/wp-includes/wp-class.php 1 -
+/.well-known/acme-challenge/atomlib.php 1 -
+/wp-content/1.php%20 1 -
+/av.php 1 -
+/wp-content/mu-plugins/delta5.module 1 -
+/mar.php 1 -
+/wp-content/plugins/erinyani/default.php 1 -
+/wp-admin/css/colors/sunrise/admin.php 1 -
+/wp-content/uploads/2024/ 5 -
+/wp-includes/css/about.php 1 -
+/wp-includes/db.php 1 -
+/infos.php 1 -
+/v2/actuator/env 1 -
+/wp-includes/l10n/ 5 -
+/wsad.php 1 -
+/wp-includes/images/wlw/ 9 -
+/wp-includes/class-wp-session-tokens-https.php 1 -
+/blog/ 5 -
+/wp-includes/css/dist/require-dynamic-blocks.php 1 -
+/sitemap_index.xml 2 -
+/wp-content/themes/tflow/admin-footer.php 1 -
+/wp-content/uploads/2023/05/404.php 1 -
+/wp-admin/network/ 9 -
+/xex.php 1 -
+/wp-includes/SimplePie/applicationd.php 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/wp-includes/blocks/file/ 5 -
+/wp-includes/ 8 -
+/lv.php 1 -
+/wp-includes/sodium_compat/ 4 https://www.yahoo.com/
+/wp-includes/widgets/security.php 1 -
+/wp-admin/js/widgets/item.php 1 -
+/local/ 3 https://www.google.com/
+/wp-includes/images/media/ 9 -
+/cgi-bin/autoload_classmap.php 1 -
+/wp-includes/fonts/autoload_classmap.php 1 -
+/wp-includes/customize/ 8 -
+/xl2023.php 1 -
+/wp-content/themes/alera/ 5 -
+/wp-admin/css/colors/ocean/wp-login.php 1 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 -
+/cgi-bin/install.php 1 -
+/management/mappings 1 -
+/.well-known/acme-challenge/content.php 1 -
+/options-reading.php 1 -
+/wp-content/plugins/core/ 4 -
+/modules/eta4.inc 1 -
+/wp-admin/images/index.php 1 -
+/wp-content/plugins/view-more/ioxi.php 1 -
+/wp-includes/PHPMailer/about.php 1 -
+/sendgrid_api_key 1 -
+/wp-content/themes/betacustom.module 1 -
+/wp-content/themes/twentytwentyfour/functions.php 1 -
+/wp-includes/assets/install.php 1 -
+/wp-includes/block-patterns/autoload_classmap.php 1 -
+/wp-includes/sitemaps/providers/ 9 -
+/twilio_api_key 1 -
+/wp-content/1.php 1 -
+/.well-known/acme-challenge/file.php 1 -
+/wp-includes/atomlib.php 1 -
+/wp-includes/SimplePie/Cache/ 3 https://www.google.co.uk/
+/.dockercfg 1 -
+/css/as.php 1 -
+/wp-includes/widgets/class-t.api.php 1 -
+/wp-includes/js/dist/default.php 1 -
+/.AWS_/credentials 2 -
+/wp-admin/network/av.php 1 -
+/ALFA_DATA/alfacgiapi/ 5 -
+/about/function.php%20 1 -
+/settings.py 2 -
+/wp-includes/pomo/autoload_classmap.php 1 -
+/backup/dump.sql.gz 1 -
+/lock.php 1 -
+/wp-content/radio.php 1 -
+/wp-includes/js/tinymce/plugins/fullscreen/ 5 -
+/wp-includes/IXR/xsec1.php 1 -
+/wp-includes/function.php 1 -
+/wsa.php 1 -
+/appveyor.yml 1 -
+/wp-includes/ms-file.php 1 -
+/wp-admin/defaults.php 1 -
+/wp-content/themes/twentytwentyfour/patterns/content-type.php 1 -
+/wp-includes/as.php 1 -
+/index.js 2 -
+/export.sql.gz 2 -
+/plugins/jquery.filer/uploads/ 4 -
+/heroku_api_key 1 -
+/wp-includes/index.php 1 -
+/.well-known/install.php 1 -
+/ff2.php 1 -
+/wp-content/themes/twentyfive/include.php 1 -
+/images/stories/ 3 https://duckduckgo.com/
+/wp-includes/rest-api/endpoints/ 4 https://duckduckgo.com/
+/.github/workflows/ci.yml 1 -
+/wp-includes/rest-api/ 15 -
+/autoload_classmap/wso.php 1 -
+/configs/routes-4aug.js 1 -
+/wp-includes/js/tinymce/plugins/fullscreen/about.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 8 -
+/wp-content/themes/astra/inc/ki1k.php 1 -
+/wp-content/uploads/content.php 1 -
+/wp-includes/js/crop/ 12 -
+/.circleci/config.yml 1 -
+/node/.env_example 2 -
+/wp-content/uploads/woocommerce_uploads/ 1 https://www.bing.com/
+/wp-content/themes/zakra/ 4 -
+/wp-content/backup-db/ 1 https://duckduckgo.com/
+/modules/mod_simplefileuploadv1.3/elements/admin-footer.php 1 -
+/wp-admin/css/colors/blue/xboom.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 -
+/wp-includes/ID3/wp-includes/IXR/ 5 -
+/server/config/database.js 2 -
+/wp-includes/edit-tags.php 1 -
+/wp-content/cache/index.php 1 -
+/.env.staging 1 -
+/cloud/Scraper.js 1 -
+/wp-includes/Text/Diff/ 4 https://www.yahoo.com/
+/wp-includes/rest-api/search/ 4 https://www.bing.com/
+/wp-includes/SimplePie/Content/ 4 https://www.google.fr/
+/PAT.txt 1 -
+/wp-includes/class-feed-index.php 1 -
+/.well-known/header.php 1 -
+/wp-content/themes/alphav1.module 1 -
+/aws-secret.yaml 2 -
+/credentials.yml 1 -
+/user/config/config.js 1 -
+/credentials.json 1 -
+/wp-includes/fonts/about.php 1 -
+/wp-admin/includes/ 11 -
+/backend/config/settings.yml 1 -
+/wp-content/uploads/2021/ 5 -
+/wp-content/file.php 1 -
+/service/email_service.py 2 -
+/admin/.env 4 -
+/wp-content/themes/sky-pro/js.php 1 -
+/storage/logs/laravel.log 2 -
+/dev/actuator/env 1 -
+/wp-includes/widgets/ 15 -
+/api/actuator/ 2 -
+/wp-includes/style-engine/ 10 -
+/wp-admin/maint/themes.php 1 -
+/contacts.php 1 -
+/NewFile.php 1 -
+/update-core.php 1 -
+/wso.php 1 -
+/apikey 1 -
+/wp-content/uploads/2021/faiyy.php 1 -
+/wordpress/wp-includes/class-wp-http-ixr-client-view.php 1 -
+/azure-pipelines.yml 1 -
+/wp-admin/images/ 10 -
+/.env.local 3 -
+/wp-includes/certificates/wp-login.php 1 -
+/wp-admin/js/widgets/cloud.php 1 -
+/wp-content/plugins/wp-freeform/ 5 -
+/admin-footer.php 1 -
+/wp-includes/PHPMailer/xleet.php 1 -
+/api/shared/config/config.env 5 -
+/wp-content/plugins/wp-conflg.php 1 -
+/helpers/utility.js 1 -
+/wp-head.php 1 -
+/wp-admin/css/colors/tfileman.php 1 -
+/wp-includes/Text/index.php 1 -
+/files/ 4 https://www.yahoo.com/
+/wp-admin/css/colors/index.php 1 -
+/wp-includes/html-api/ 4 https://www.google.de/
+/wp-includes/rest-api/1.php 1 -
+/wordpress/wp-admin/includes 4 -
+/wp-includes/Requests/Utility/ 3 https://www.yahoo.com/
+/actuator/env 1 -
+/admin/controller/extension/extension/alfa.php 1 -
+/wp-includes/js/codemirror/ 10 -
+/assets/kappa1.module 1 -
+/v2/actuator/mappings 1 -
+/atomlib.php 1 -
+/assets/images/ 4 https://duckduckgo.com/
+/modules/delta2.module 1 -
+/app-config.json 1 -
+/wp-includes/category-double.php 1 -
+/wp-content/plugins/erin/ 4 -
+/wp-admin/maint/wonder.php 1 -
+/wp-content/uploads/file.php 1 -
+/wp-content/plugins/wp-theme-editor/ 4 -
+/security.txt 1 -
+/wp-content/backups-dup-lite/ 1 https://www.google.de/
+/wp-content/plugins/seooyanz/ 4 -
+/dump.sql.gz 2 -
+/saka.phP7 2 -
+/repeater.php 1 -
+/wp-includes/Text/Diff/Engine/about.php 1 -
+/wp-admin/meta/ 9 -
+/wp-admin/css/colors/blue/abc.php 1 -
+/doc.php 1 -
+/functions.php 1 -
+/config/.env.production 1 -
+/wp-content/wso.php 1 -
+/wp-admin/css/colors/blue/admin.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/install.php 1 -
+/wp-admin/xleet.php 1 -
+/plugin-install.php 1 -
+/system_log.php 1 -
+/js/firewall.php7 1 -
+/token 1 -
+/phpinfo.html 1 -
+/wp-content/plugins/ubh/install.php 1 -
+/wp-content/uploads/2022/ 5 -
+/assets/ 9 -
+/app/config/parameters.yml 1 -
+/wp-admin/network/class.php 1 -
+/new/.env.local 2 -
+/wp-atomx.php 1 -
+/nf_tracking.php 1 -
+/config/settings.prod 1 -
+/wp-admin/js/widgets/about.php 1 -
+/wp-admin/css/wp-css.php 1 -
+/wp-content/maintenance/ 4 -
+/wp-includes/Text/Diff/Engine/ 4 https://www.google.de/
+/images/ 7 -
+/db.sql.gz 2 -
+/wp-content/plugins/apikey/ 4 -
+/wp-content/plugins/cakil/ 5 -
+/assets/css/dist/ 5 -
+/wp-includes/random_compat/chosen.php 1 -
+/Public/ 3 https://duckduckgo.com/
+/my_env/chakaash.py 1 -
+/wp-content/admin.php 1 -
+/wp-admin/js/admin.php 1 -
+/images/Marvins.php 1 -
+/wp-admin/images/autoload_classmap.php 1 -
+/admin/tmp/ 5 -
+/wp-content/plugins/google-seo-rank/ 4 -
+/wp-content/plugins/owfsmac/ 5 -
+/main.js 3 -
+/config/database.yml 1 -
+/wp-content/themes/twentytwentyfour/system_cache.php 1 -
+/.well-knownold/ 3 https://www.google.co.uk/
+/wp-editor.php 1 -
+/xmlrpc.php 6 -
+/wp-content/plugins/phpadmin/as.php 1 -
+/Sanskrit.php 1 -
+/partner/config/config.js 1 -
+/media/system/js/core.js 12 -
+/wp-content/plugin.php 1 -
+/Site/ 3 https://www.google.com/
+/templates/beez5/error.php 1 -
+/.well-known/content.php 1 -
+/admin/controller/extension/extension/ 9 -
+/wp-includes/l10n/wp-login.php 1 -
+/sftp-config.json 8 -
+/.well-known/pki-validation/2index.php 1 -
+/wp-content/plugins/ 8 -
+/wp-content/x.php 1 -
+/wp-content/languages/ 5 -
+/phpinfo 3 -
+/wp-includes/feed-rsss.php 1 -
+/css/slider.php 1 -
+/wp-includes/pomo/admin.php 1 -
+/wp-content/ai1wm-backups/ 1 https://www.google.de/
+/wp-includes/certificates/admin.php 1 -
+/wp-admin/user/about.php 1 -
+/.well-known/acme-challenge/wp-load.php 1 -
+/robots.txt 145 -
+/wp-admin/about.php 1 -
+/.well-known/security.txt 4 -
+/.env.test 1 -
+/wp-includes/images/smilies/ 9 -
+/wp-includes/widgets/wp-ss.php 1 -
+/.well-known/acme-challenge/admin.php 1 -
+/swagger.js 1 -
+/Admin/uploads/ 8 -
+/wp-includes/css/index.php 1 -
+/api/shared/config.env 2 -
+/.trash7309/index.php 1 -
+/wp-includes/sodium_compat/src/ 4 https://www.google.de/
+/wp-content/uploads/2023/ 5 -
+/api_key 1 -
+/wp-includes/fonts/themes.php 1 -
+/wp-includes/js/jcrop/ 4 -
+/vendor/phpunit/phpunit/phpunit.xsd 5 -
+/wp-includes/Text/Diff/Renderer/ 15 -
+/uploads/xsec.php 1 -
+/wp-content/languages/autoload_classmap.php 1 -
+/sitemap.xml 1 -
+/ini.php 1 -
+/wp-includes/Requests/Response/ 3 https://www.google.de/
+/wp-includes/count.php 1 -
+/config/.env.local 1 -
+/wp-admin/user/header.php 1 -
+/wp-includes/rk2.php 1 -
+/wordpress/wp-content/uploads/install.php 1 -
+/wp-admin/css/colors/blue/ 3 -
+/wp-admin/js/widgets/ 6 -
+/wp-content/plugins/ioxi/ioxi/ 5 -
+/wp-admin/css/ 12 binance.com
+/wp-content/plugins/dummyyummy/ 4 -
+/.well-known/acme-challenge/license.php 1 -
+/wp-admin/css/colors/ectoplasm/about.php 1 -
+/shell.php 1 -
+/wp-includes/pomo/about.php 1 -
+/wp-content/upgrade/wp-conflg.php 1 -
+/wordpress/wp-content/uploads/ 5 -
+/css.php 1 -
+/wp-content/mu-plugins/lambda4.inc 1 -
+/.well-known/index.php 2 -
+/adminfuns.php7 1 -
+/wp-content/themes/zetamod.module 1 -
+/hehehehe.php 1 -
+/.well-known/info.php 1 -
+/.well-known/admin.php 1 -
+/vendor.js 1 -
+/wp-content/plugins/pwnd-1/kurd.php 1 -
+/wp-includes/certificates/index.php 1 -
+/config.js 5 -
+/wp-includes/install.php 1 -
+/test.php 1 -
+/server.js 2 -
+/wp-includes/images/crystal/sad.php 1 -
+/aws.yml 1 -
+/wp-content/plugins/wp-hps/sh/ 5 -
+/llms.txt 1 -
+/routes/bypass.php 1 -
+/static/js/main.e85f7a37.js 2 -
+/wp-content/plugins/WordPressCore/ 4 -
+/info.php 2 -
+/wp-files.php 1 -
+/themes/pridmag/ 4 -
+/wp-includes/js/thickbox/about.php 1 -
+/wp-admin/css/colors/midnight/ 6 -
+/wp-content/themes/about.php 1 -
+/wp-admin/css/colors/light/about.php 1 -
+/baxa1.phP8 5 -
+/wp-includes/assets/ 10 -
+/app.js 2 -
+/wp-content/uploads/index.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/as.php 1 -
+/click.php 1 -
+/cache-wordpress/ 5 -
+/staging/actuator/mappings 1 -
+/site.sql.gz 2 -
+/wp-includes/block-bindings/ 6 -
+/templates/beez3/dbcthbohhr.php 1 -
+/error.php 1 -
+/templates/beez3/av.php 1 -
+/wp-includes/assets/script-loader-react-refresh-runtime.min-soap.php 1 -
+/.well-known/save.php 1 -
+/modules/file.php 1 -
+/env.json 1 -
+/.aws/credentials 3 -
+/.gitlab-ci.yml 1 -
+/new/.env.staging 4 -
+/_profiler/phpinfo 7 -
+/flower.php 1 -
+/user/controllers/index.js 1 -
+/application.yaml 1 -
+/wp-content/uploads/wp-cert.phtml 3 -
+/gm.php 1 -
+/wp-includes/certificates/past.php 1 -
+/slack_webhook 1 -
+/stripe_secret 1 -
+/wp-includes/customize/db.php 1 -
+/wp-content/themes/twentytwentyfour/content-index.php 1 -
+/backend/config/development.yml 1 -
+/config/storage.yml 1 -
+/wp-includes/PHPMailer/index.php 1 -
+/wp-content/themes/twentytwentytwo/waf_defender.php 1 -
+/wp-content/ALFA_DATA/alfacgiapi/ 5 -
+/wp-includes/widgets/class-wp-wolf-widget.php 1 -
+/wp-content/mu-plugins/etav1.inc 1 -
+/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control-repository.php 1 -
+/wp-admin/css/colors/blue/about.php 1 -
+/wp-content/cache/supercache/ 1 https://www.google.fr/
+/wp-admin/css/colors/light/colors.min.php 1 -
+/admin/images/slider/ 8 -
+/admin/controller/extension/extension/cloud.php 1 -
+/wp-content/ 21 -
+/backups/database.sql.gz 1 -
+/wp-content/themes/sketch/ 5 -
+/wp-includes/images/install.php 1 -
+/gatsby-config.js 1 -
+/wp-includes/class-wp-customize-manager-interpreter.php 1 -
+/wp-includes/assets/index.php 1 -
+/edit.php 1 -
+/application.properties 3 -
+/wp-includes/ID3/index.php 1 -
+/appsettings.json 3 -
+/admin.php%20 1 -
+/wp-admin/css/colors/blue/navi.php 1 -
+/wp-content/plugins/pwnd/sst.php 1 -
+/wp-content/plugins/cekidot/ 5 -
+/wp-includes/images/media/wp-login.php 1 -
+/wp-includes/blocks/calendar/index.php 1 -
+/wp-content/themes/twentytwentyfour/about.php 1 -
+/admin/config 1 -
+/fonts/database.php 1 -
+/wp-content/themes/tflow/ 5 -
+/wp-includes/sodium_compat/index.php 1 -
+/wp-admin/css/colors/sunrise/colors_95.php 1 -
+/@fs/etc/passwd 2 -
+/memberfuns.php 1 -
+/php.php 1 -
+/wp-content/plugins/Uwogh-Segs/ 5 -
+/wp-admin/js/instaall.php 1 -
+/wp-admin/wso.php 1 -
+/wp-content/uploads/fileman.php 1 -
+/wordpress/wp-includes/ 5 -
+/wsax.php 1 -
+/css/fan.php 1 -
+/custom-scripts/etamod.inc 1 -
+/wp-includes/click.php 1 -
+/wp-includes/SimplePie/Content/Type/ 3 https://duckduckgo.com/
+/wp-includes/sitemaps/providers/doc.php 1 -
+/new/.env.production 2 -
+/wp-content/themes/thetav2.inc 1 -
+/github_token 1 -
+/.well-known/pki-validation/webdb.php 1 -
+/controller/admin/post.js 1 -
+/wp-admin/ 13 -
+/.travis.yml 2 -
+/assets/zeta2.module 1 -
+/wp-includes/certificates/wp-conflg.php 1 -
+/.alf.php 1 -
+/.bod/.ll/ss.php 1 -
+/wp-admin/css/glex.php 1 -
+/wp-admin/css/colors/hong1.php 1 -
+/contact/ 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 3 -
+/wp-content/classwithtostring.php 1 -
+/assets/images/doc.php 1 -
+/wp-includes/wp_class_datlib.php 1 -
+/wp-includes/certificates/about.php 1 -
+/api/config.env 2 -
+/db.sqlite 1 -
+/wp-includes/js/ 8 -
+/ab.php 1 -
+/wp-includes/widgets/av.php 1 -
+/s3.js 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/db.php 1 -
+/webpack.config.js 1 -
+/db.db 1 -
+/f35_SpaceTn.php 1 -
+/wp-includes/block-supports/ 11 -
+/wp-content/mu-plugins/theta3.inc 1 -
+/customize.php 1 -
+/libraries/phpmailer/updates.php 1 -
+/slack_token 1 -
+/wp-includes/class-phpmailer-beta.php 1 -
+/api/settings 1 -
+/.env.production 1 -
+/wp-admin/js/ 6 -
+/assets/info.php 1 -
+/admin/controllers/partner.js 1 -
+/test/actuator/env 1 -
+/wp-content/themes/pridmag/waf_defender.php 1 -
+/wp-includes/SimplePie/ 8 -
+/humans.txt 1 -
+/wp-admin/js/dist/ 5 -
+/debug/default/view 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 5 www.google.com
+/wp-includes/Requests/ 9 -
+/wp-includes/Requests/Auth/ 4 https://www.yahoo.com/
+/wp-admin/css/colors/blue/atomlib.php 1 -
+/wp-includes/SimplePie/about.php 1 -
+/.vscode/sftp.json 8 -
+/wp-includes/widgets/class-wp-nav-widgets.php 1 -
+/makeasmtp.php 1 -
+/.aws/config 2 -
+/wp-includes/style-engine/wp-conflg.php 1 -
+/fog/management/index.php 1 -
+/hehe.php 1 -
+/env 2 -
+/wp-content/ALFA_DATA/alfacgiapi/bypass.php 1 -
+/ws.php 1 -
+/wp-content/plugins/hello.php 1 -
+/wp-includes 2 -
+/file.php%20 1 -
+/wp-content/plugins/WordPressCore/include.php 1 -
+/wp-includes/IXR/goto.php 1 -
+/wp-content/uploads/wp.php 1 -
+/about/goods.php 1 -
+/wp-includes/customize/class-wp-customize-nav-menu-section-boolean.php 1 -
+/wp-admin/js/widgets/setting.php 1 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/wp-content/languages/plugins.php 1 -
+/file/function.php 1 -
+/settings.json 1 -
+/wp-admin/css/colors/install.php 1 -
+/uploads/94056-upload.phtml 4 -
+/wp-admin/css/colors/ocean/alam.php 1 -
+/wp-content/uploads/wc-logs/ 1 https://duckduckgo.com/
+/wp-includes/SimplePie/XML/content.php 1 -
+/blog/wp-includes/ 5 -
+/XxX.php 1 -
+/gifclass.php 1 -
+/litespeed.php 1 -
+/wp-includes/js/jquery/jquery.js 11 -
+/wp-content/mu-plugins/iotav1.module 1 -
+/assets/etacustom.inc 1 -
+/worm.PhP 3 -
+/assets/about.php 1 -
+/dev/actuator/ 1 -
+/api/actuator/env 1 -
+/images/install.php 1 -
+/wp-admin/maint/repairs.php 1 -
+/api-token 1 -
+/wp-admin/css/colors/light/alfa-rex.php 1 -
+/wp-admin/includes/class_api.php 1 -
+/assets/omega4.inc 1 -
+/dir.php 1 -
+/tox.php 1 -
+/wp-includes/blocks/query/ 5 -
+/options-writing.php 1 -
+/wp-includes/wp-includes/ 5 -
+/wp-includes/Text/wp-conflg.php 1 -
+/wp-includes/images/smilies/admin.php 1 -
+/wp-admin/maint/cong.php 1 -
+/configs/s3_config.json 1 -
+/bitbucket_token 1 -
+/wp-content/themes/rishi/ 5 -
+/blog/wp-includes/about.php 1 -
+/custom-scripts/lambda4.inc 1 -
+/template/ 3 https://www.google.fr/
+/composer.json 1 -
+/settings.gradle 1 -
+/wp-admin/maint/admin.php 1 -
+/wpn.php 1 -
+/wp-content.php 1 -
+/.tmb/ 4 -
+/wp-content/updraft/ 1 https://www.google.de/
+/wp-content/plugins/seoo/about.php 1 -
+/home/ 5 -
+/page.php 1 -
+/wp-includes/css/dist/edit-widgets/bypass.php 1 -
+/wp-includes/css/ 9 -
+/wp-admin/js/widgets/index.php 1 -
+/wp-content/themes/wp-pridmag/init.php 1 -
+/js/content-type.php 1 -
+/api/config.js 1 -
+/wp-includes/id3/ 5 -
+/admin/controllers/merchant.js 1 -
+/cgi-bin/class.api.php 1 -
+/wp-includes/js/tinymce/langs/ 5 -
+/wp-includes/Text/Diff/Renderer/about.php 1 -
+/blog/signatur.php 1 -
+/wp-content/plugins/fix/up.php 1 -
+/wp-config 2 -
+/pom.xml 1 -
+/wp-admin/css/colors/blue/colors.php 1 -
+/wp-admin/maint/wp-conflg.php 1 -
+/wp-content/mu-plugins/ 8 -
+/wp-content/plugins/ubh/av.php 1 -
+/tmps/ 5 -
+/wp-content/uploads/woocommerce/ 1 https://www.yahoo.com/
+/vendor/phpunit/phpunit/src/Util/PHP/adminfusm.php 1 -
+/wp-includes/style-engine/index.php 1 -
+/ALFA_DATA/ 8 -
+/wp-admin/theme-editor.php 1 -
+/wp-json/wp/v2/users 2 -
+/wp-includes/pomo/plugins.php 1 -
+/wp-content/plugins/fix/ 4 -
+/b.php 1 -
+/wp-includes/js/jquery/ 5 -
+/.env.sample 1 -
+/wp-content/themes/aahana/worksec.php 1 -
+/wp-content/plugins/backup-backup/includes/ 4 -
+/wp-includes/l10n/class-wp-widddget-pages.php 1 -
+/wp-includes/wp-class.php/wp-content/themes/travelscape/ 1 -
+/wp-includes/Text/Diff/index.php 1 -
+/wp-includes/widgets/class-wp-widget-rss-database.php 1 -
+/debug.log 1 -
+/wp-includes/rest-api/index.php 1 -
+/vendor/ 4 https://duckduckgo.com/
+/wp-includes/Requests/Exception/ 3 https://www.google.de/
+/wp-content/plugins/ninja-forms/ 3 https://www.yahoo.com/
+/wp-admin/css/install.php 1 -
+/wp-content/upgrade/bypass.php 1 -
+/wp-includes/IXR/about.php 1 -
+/wp-includes/css/dist/edit-widgets/index.php 1 -
+/wp-includes/about.php 1 -
+/wp-content/plugins/seoplugins/index.php 1 -
+/wp-includes/class-wp-network-query-stat.php 1 -
+/wp-fmfile.php 1 -
+/wp-includes/ID3/ 12 -
+/webadmin.php 1 -
+/license.php 1 -
+/wp-themes.php 1 -
+/wp-content/plugins/wp-file-manager/admin/ 5 -
+/wp-content/languages/radio.php 1 -
+/wp-header.php%20 1 -
+/wp-includes/js/jquery/bypass.php 1 -
+/wp-content/themes/twentyfive/ 5 -
+/config/settings.json 1 -
+/wp-includes/sitemaps/autoload_classmap.php 1 -
+/wp-includes/phiv2.module 1 -
+/templates/beez3/bypass.php 1 -
+/.well-known/radio.php 1 -
+/test/actuator/mappings 1 -
+/mariju.php 1 -
+/wp-admin/includes 3 -
+/blog/wp-content/about.php 1 -
+/wp-content/upgrade/cc.php 1 -
+/wp-content/plugins/db/ 5 -
+/wp-includes/css/dist/footer-default.php 1 -
+/up.php 1 -
+/wp-content/plugins/Cache/ 4 -
+/wp-content/uploads/ 10 -
+/wp-content/uploads/typehub/custom/ 4 -
+/vendor/phpunit/phpunit/src/Util/PHP/fixed.php 1 -
+/wp-api.php 1 -
+/.git-credentials 1 -
+/wp-content/mu-plugins/alpha4.module 1 -
+/wp-admin.php 1 -
+/backup/database.sql.gz 1 -
+/wp-includes/sitemaps/ 9 -
+/wp-includes/Text/options.php 1 -
+/.well-known/pki-validation/install.php 1 -
+/wp-content/themes/twentytwentythree/patterns/index.php 1 -
+/php/ 4 https://duckduckgo.com/
+/wp-content/themes/hello-element/footer.php 1 -
+/wp-content/plugins/erinyani/ 5 -
+/wp-admin/css/colors/ 9 -
+/wp-includes/assets/script-modules-packages.min-meta.php 1 -
+/wp-content/themes/pridmag/db.php 1 -
+/wp-admin/js/autoload_classmap.php 1 -
+/wp-includes/Requests/Cookie/ 3 https://duckduckgo.com/
+/wp-content/themes/twentytwentyfour/wonder.php 1 -
+/wp-content/plugins/revslider/includes/external/page/index.php 1 -
+/about/ 4 -
+/wp-content/plugins/WordPressCore/index.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/uss.php 1 -
+/.well-known/acme-challenge/wp-login.php 1 -
+/public/js/main.js 2 -
+/routes/ 4 -
+/test/mappings 1 -
+/wp-includes/wp-sup.php 1 -
+/mytest/astech_robot.js 1 -
+/actuator/mappings 1 -
+/management/env 1 -
+/terraform.tfstate 1 -
+/wp-login.php 1 -
+/static/js/2.ca066a4b.chunk.js 2 -
+/wp-content/plugins/atomlib.php 1 -
+/wp-admin/network/admin-footer.php 1 -
+/retu11.PhP7 2 -
+/wp-includes/pomo/index.php 1 -
+/wp-includes/widgets/class-wp-widget-search-function.php 1 -
+/.env.stage 2 -
+/wp-content/plugins/random/ 5 -
+/wp-content/plugins/thetav2.inc 1 -
+/wp-links.php 1 -
+/wp-admin/js/elementskit.php 1 -
+/backup.sql.gz 2 -
+/wp-content/plugins/ubh/ 5 -
+/server/s3.js 1 -
+/app/actuator/ 1 -
+/cc.php 1 -
+/wp-includes/php-compat/ 4 https://www.google.de/
+/wp-content/themes/astra/inc/fm.php 1 -
+/aws/credentials 1 -
+/wp-includes/js/tinymce/utils/license.php 1 -
+/randkeyword.PhP7 3 -
+/my_env/newsletter.py 1 -
+/templates/beez3/ 4 -
+/wp-includes/SimplePie/Registry-private.php 1 -
+/secrets.yml 1 -
+/wp-includes/interactivity-api/interactivity-api-class.php 1 -
+/wp-content/plugins/gamma3.inc 1 -
+/.circleci/configs/development.yml 1 -
+/small.php 1 -
+/wp-includes/css/chosen.php 1 -
+/wp-includes/assets/wp-includes/assets/script-loader-packages.min.php 1 -
+/wp-includes/interactivity-api/ 5 -
+/configs/routes.js 1 -
+/error.log 1 -
+/wp-includes/PHPMailer/ 9 -
+/wp-admin/index.php 1 -
+/wp-content/content.php 1 -
+/wp-admin/css/wp-conflg.php 1 -
+/config/local.yml 1 -
+/register/ 1 -
+/config.env 3 -
+/admin/phpinfo.php 1 -
+/admin/index.php 1 -
+/wp-includes/css/dist/edit-widgets/about.php 1 -
+/wordpress/wp-admin/includes/wp-admin/js/ 5 -
+/.env.save 1 -
+/wp-content/style.php 1 -
+/wp-content/et-cache/ 1 https://www.yahoo.com/
+/Simple.php 1 -
+/class.api.php 1 -
+/controllers/settings.js 1 -
+/wp-includes/autoload_classmap.php 1 -
+/wp-admin/css/wp-login.php 1 -
+/fm.php 1 -
+/site/wp-includes/ 5 -
+/templates/atomic/ 4 -
+/wp-admin/js/file/incpb.php 1 -
+/wp-content/themes/classic/inc/ 3 https://www.google.co.uk/
+/assets/omega5.module 1 -
+/scripts/nodemailer.js 2 -
+/database.sql.gz 2 -
+/wp-includes/images/media/dog.php 1 -
+/wp-includes/bk/index.php 1 -
+/1.php 1 -
+/ar/wp-content/themes/pridmag/db.php 1 -
+/plugin.php 1 -
+/wp-includes/class-wp-dependency-float.php 1 -
+/wp-includes/blocks/ 8 -
+/wp-content/themes/tflow/install.php 1 -
+/index2.php 1 -
+/config.php 1 -
+/wp-content/plugins/pwnd/install.php 1 -
+/wp-admin/maint/file.php 1 -
+/wp-content/plugins/seoplugins/ 4 -
+/.well-known/acme-challenge/index.php 1 -
+/public_html 1 -
+/wp-content/themes/twentytwentytwo/index.php 1 -
+/wp-admin/css/colors/error.php 1 -
+/shop/ 3 https://www.yahoo.com/
+/wp-content/plugins/pwnd/ 4 -
+/wordpress/wp-admin/includes/ 4 -
+/wp-includes/class-walker-comment-client.php 1 -
+/wp-admin/install.php 1 -
+/wp-content/plugins/wpeazvp/ 5 -
+/wp-content/uploads/system_cache.php 1 -
+/admin/fckeditor/editor/filemanager/ 3 https://www.google.com/
+/assets/class_update_plugins.php 1 -
+/wp-includes/class-wp-language-pack.php 1 -
+/wp-content/plugins/rencontre/inc/photo_import/ 4 -
+/wp-content/edit.php 1 -
+/.well-known/pki-validation/xmrlpc.php 1 -
+/.terraform/terraform.tfstate 1 -
+/apis/controllers/users.js 1 -
+/wp-includes/images/autoload_classmap.php 1 -
+/wp-admin/images/about.php 1 -
+/wp-includes/style-engine/adminfus.php 1 -
+/upload/ 4 https://www.google.fr/
+/l.php 1 -
+/database.sqlite 1 -
+/wp-content/uploads/wpr-addons/forms/ 4 -
+/wp-content/install.php 1 -
+/wp-includes/IXR/security.php 1 -
+/access_token 1 -
+/wp-includes/images/crystal/ 9 -
+/.well-known/acme-challenge/gecko-old.php 1 -
+/wp-content/themes/pridmag/ 5 -
+/wp-content/admin-footer.php 1 -
+/wp-includes/rest-api/autoload_classmap.php 1 -
+/wp-admin/js/load.php 1 -
+/wp-includes/Text/Diff/Engine/index.php 1 -
+/wp-includes/images/wp-login.php 1 -
+/special.php 1 -
+/.env.prod 3 -
+/wp-includes/plugins.php 1 -
+/images/buy.php 1 -
+/wp-includes/ID3/module.audio-video.riff-set.php 1 -
+/config/config.json 1 -
+/Assets/ 3 https://www.google.fr/
+/wp-admin/css/colors/ocean/index.php 1 -
+/wp-content/themes/wp-pridmag/ 5 -
+/wp-content/themes/seotheme/ 4 -
+/wp-content/cache/ 1 https://www.google.com/
+/wp-admin/js/widgets/themes.php 1 -
+/wp-includes/widgets/class-wp-widget-meta-request.php 1 -
+/as.php 1 -
+/wp-includes/Text/ 9 -
+/wp-links-opml.php 1 -
+/wp-includes/css/atomlib.php 1 -
+/api/config 1 -
+/js/main.js 2 -
+/modules/ 10 -
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/wp-content/upgrade/index.php 1 -
+/images/mah.php 1 -
+/wp-content/plugins/cache-wordpress/ 5 -
+/ioxi-o.php 1 -
+/wp-includes/Requests/about.php 1 -
+/wp-content/plugins/pwnd/cloud.php 1 -
+/wp-includes/bypass.php 1 -
+/wp-content/languages/themes/index.php 1 -
+/wp-content/uploads/revslider/templates/immersion-photography/ 5 -
+/gawean.PhP7 4 -
+/config/aws.yml 2 -
+/wp-content/languages/bypass.php 1 -
+/wp-admin/includes/index.php 1 -
+/.github/workflows/deploy.yml 1 -
+/admin/upload/ 4 -
+/wp-includes/SimplePie/Exception-wp.php 1 -
+/wp-admin/maint/byps.php 1 -
+/plugins/function.php 1 -
+/wp-includes/pomo/item.php 1 -
+/components/ 8 -
+/wp-admin/js/widgets/doc.php 1 -
+/wp-content/plugins/zaen/includes/ 5 -
+/filefuns.php 1 -
+/wp-includes/js/codemirror/index.php 1 -
+/wp-content/themes/thuoc-nam/ 5 -
+/app.py 1 -
+/bless.php%20 1 -
+/wp-includes/assets/db.php 1 -
+/my_env/palash.py 1 -
+/wp-content/themes/sky-pro/ 4 -
+/config/credentials.yml.enc 1 -
+/wp-admin/user/ 8 -
+/go.php 1 -
+/wp-content/autoload_classmap.php 1 -
+/includes/ 4 -
+/wp-includes/sodium_compat/lib/ 5 -
+/modules/gammav1.inc 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 189
+195.178.110.110 25 45 2989940 20251126235917
+195.178.110.131 18 31 2033819 20251119120609
+69.160.160.58 11 56 4357422 20251107014943
+149.56.150.150 11 11 385800 20251124220142
+69.160.160.59 11 56 4357422 20251108055428
+138.197.85.159 6 6 333630 20251128143806
+196.251.71.158 6 6 333630 20251106083657
+167.99.72.111 6 6 333630 20251110162133
+196.251.115.50 6 6 333630 20251108030833
+196.251.115.63 6 6 333630 20251110181042
+138.199.35.10 6 6 333630 20251119065821
+117.205.18.152 5 61 4850695 20251121214805
+196.251.115.56 5 5 278025 20251110232032
+54.91.141.228 5 50 4443948 20251104213451
+169.150.203.242 5 5 278025 20251121064845
+149.56.150.183 4 49 4430681 20251124220155
+49.37.130.150 4 49 4430681 20251123135712
+136.185.31.8 4 49 4430681 20251124160232
+192.178.15.69 4 7 196099 20251112074539
+152.59.200.104 4 49 4430681 20251112074534
+62.60.135.25 4 4 53068 20251125135506
+223.231.139.220 4 49 4430681 20251119183741
+20.75.88.15 4 4 53068 20251113182117
+43.131.63.141 3 3 26315 20251120014407
+45.149.173.203 3 3 166815 20251116132444
+193.37.32.62 1 1 55605 20251105225111
+89.187.187.67 2 2 111210 20251119035203
+146.190.234.239 1 1 13267 20251111130019
+3.82.153.83 2 2 26534 20251116203045
+208.84.101.251 2 2 111210 20251118155535
+2.57.170.243 1 1 13267 20251130070658
+165.232.176.26 1 1 13267 20251116173338
+46.228.199.158 1 1 13267 20251101083418
+149.40.53.5 3 3 166815 20251118130330
+34.96.47.106 1 1 13267 20251111022739
+87.236.176.164 1 1 13267 20251117015748
+62.60.131.125 2 2 26534 20251109210812
+169.150.203.251 3 3 166815 20251103114017
+84.233.167.41 1 3 59486 20251104093540
+34.169.95.106 3 3 166815 20251112181729
+192.71.12.140 1 1 13267 20251117111559
+20.163.32.225 1 1 13267 20251115223023
+84.233.212.20 1 3 148260 20251127041358
+89.154.14.12 1 1 13267 20251116092922
+164.90.187.212 2 2 26534 20251102195619
+169.150.203.237 3 3 166815 20251110103643
+205.210.31.177 1 1 55605 20251104060419
+192.36.137.155 1 1 13267 20251109012354
+18.224.54.127 2 2 26534 20251121060119
+146.19.24.116 1 5 283253 20251105161020
+193.148.18.54 1 5 194479 20251114162957
+45.149.173.217 3 3 166815 20251120002832
+103.132.92.98 1 6 215361 20251103143245
+183.83.158.118 1 1 13267 20251129222006
+192.36.173.21 1 1 13267 20251118190743
+159.203.107.115 3 3 166815 20251123191651
+38.154.78.84 3 3 23231 20251130230638
+192.178.15.68 1 15 158713 20251112074539
+182.8.182.166 2 2 111210 20251128010024
+167.94.146.63 1 1 13267 20251124050620
+136.117.179.165 3 3 166815 20251107192448
+104.236.220.65 3 3 166815 20251129180214
+154.29.219.50 1 1 13267 20251115050830
+195.178.110.54 1 3 148260 20251102085554
+54.146.62.70 2 2 26534 20251120212045
+193.36.224.63 1 1 55605 20251121220813
+34.121.233.146 1 1 13267 20251116010206
+138.197.174.120 1 1 13267 20251125104849
+205.210.31.148 1 1 55605 20251114214055
+64.236.201.32 1 1 13267 20251116145915
+93.158.90.65 1 1 13267 20251111122649
+195.210.107.18 1 1 55605 20251110015113
+45.149.173.227 3 3 166815 20251115111808
+157.50.120.25 0 1 21463 
+85.203.44.124 1 1 55605 20251125231721
+147.185.132.82 1 1 55605 20251118120447
+157.173.122.176 2 2 26534 20251128020710
+149.40.53.3 3 3 166815 20251121035633
+169.150.203.247 3 3 166815 20251106173701
+169.150.203.200 2 2 111210 20251127071505
+176.110.218.5 1 1 55605 20251111203833
+196.251.71.194 3 3 166815 20251104211550
+27.61.47.217 0 1 21463 
+194.32.120.254 1 1 55605 20251104000831
+91.246.178.6 1 1 55605 20251118152755
+196.251.100.19 2 6 296520 20251119033950
+45.149.173.201 3 3 166815 20251129090236
+34.124.142.57 1 1 13267 20251109204015
+98.159.43.113 1 1 55605 20251113200240
+102.129.145.37 1 1 55605 20251108012523
+45.134.79.144 1 1 55605 20251121000316
+38.94.177.5 1 1 13267 20251129064012
+172.172.87.192 1 1 13267 20251120214524
+143.198.34.65 1 1 13267 20251128141142
+212.30.33.16 1 1 13267 20251129083034
+107.181.156.96 1 1 13267 20251101113647
+54.166.226.11 2 2 26534 20251128224932
+45.86.202.234 1 1 13267 20251109223207
+45.149.173.219 3 3 166815 20251130030246
+199.45.154.125 1 1 13267 20251103213100
+103.125.146.8 1 1 55605 20251123163609
+50.117.100.212 1 1 13267 20251126071648
+35.240.162.4 2 2 26534 20251114171831
+196.251.100.8 3 9 444780 20251119003006
+206.168.34.198 1 1 13267 20251126011503
+48.210.57.6 1 1 55605 20251110040147
+20.55.126.240 1 1 13267 20251116112559
+52.15.221.101 1 3 428129 20251127001703
+91.224.92.184 2 2 26534 20251130223030
+195.210.127.20 1 1 55605 20251104225045
+85.215.140.87 2 2 26534 20251110232502
+198.235.24.175 1 1 55605 20251109020600
+98.159.43.84 1 1 55605 20251108011125
+103.253.27.146 3 3 166815 20251130065109
+147.185.132.252 1 1 55605 20251118173007
+98.159.43.116 1 1 55605 20251116172253
+196.251.86.120 2 2 111210 20251112003143
+149.50.97.229 1 5 283253 20251103101142
+154.47.31.3 3 3 166815 20251123122143
+23.94.155.113 1 1 55605 20251103063356
+167.94.146.51 1 1 13267 20251128205937
+198.235.24.121 1 1 55605 20251111102508
+173.239.236.224 1 1 55605 20251107011745
+193.36.224.233 1 1 55605 20251113180005
+162.142.125.194 1 1 13267 20251101020502
+205.209.106.132 1 1 13267 20251120042909
+152.57.118.2 1 34 2772762 20251115203638
+45.149.173.193 2 2 111210 20251102105957
+196.251.81.190 3 3 166815 20251104151452
+64.225.58.93 3 3 166815 20251124045132
+104.234.32.46 1 1 55605 20251117172412
+34.61.217.64 1 1 13267 20251130191414
+146.70.194.238 2 2 111210 20251105110816
+206.168.34.206 1 1 13267 20251109020303
+185.82.72.138 1 1 55605 20251119233736
+152.42.246.141 3 3 166815 20251101061623
+143.110.156.156 3 3 166815 20251102120721
+44.203.68.120 2 2 26534 20251108230914
+87.251.78.138 1 6 215361 20251111195634
+98.81.31.79 3 3 166815 20251112063035
+34.23.37.11 3 3 166815 20251102194010
+142.93.212.169 1 1 13267 20251114070825
+147.185.132.132 1 1 55605 20251114060158
+91.124.88.89 1 1 55605 20251109045410
+185.238.231.138 1 1 55605 20251127134145
+84.17.60.236 1 1 55605 20251118105811
+159.203.96.120 3 3 166815 20251126073358
+79.116.28.105 1 1 13267 20251119025328
+142.93.76.159 2 2 111210 20251125154142
+45.134.20.118 1 1 55605 20251120195445
+183.83.154.9 1 1 13267 20251130234817
+159.65.63.13 1 1 13267 20251130181010
+45.41.143.239 1 6 215361 20251116030655
+44.193.254.10 1 1 13267 20251116103357
+144.172.110.80 1 3 148260 20251110142154
+194.61.40.164 1 1 55605 20251112232604
+45.148.10.165 3 3 39801 20251120144709
+138.199.35.5 3 3 166815 20251106180456
+192.36.217.48 1 1 13267 20251124183401
+160.25.72.93 1 1 13267 20251120143109
+89.187.187.87 3 3 166815 20251118234422
+165.227.115.55 3 3 166815 20251128104149
+165.227.116.167 3 3 166815 20251125075332
+45.128.199.228 1 1 55605 20251127210556
+199.244.88.228 1 1 13267 20251103190958
+185.12.250.104 1 1 13267 20251130212703
+38.132.200.62 1 1 13267 20251110162138
+173.239.236.142 1 1 55605 20251119052106
+161.35.191.130 3 3 166815 20251130162334
+85.203.21.207 1 1 55605 20251111202159
+143.244.57.123 1 1 55605 20251102194811
+173.239.236.55 1 1 55605 20251102220418
+185.192.69.249 1 1 55605 20251118073642
+185.193.156.155 2 2 111210 20251103184904
+192.178.15.67 2 6 313152 20251112074539
+158.173.36.124 1 1 55605 20251124145820
+18.224.192.118 1 1 13267 20251117111400
+193.36.223.5 1 1 55605 20251129172457
+98.91.223.30 2 2 26534 20251112223346
+34.27.236.223 1 1 13267 20251126160934
+167.94.138.191 1 1 13267 20251107202132
+146.190.131.17 1 1 13267 20251102134341
+109.199.118.129 1 1 13267 20251118031604
+185.192.16.23 1 1 55605 20251130102240
+54.175.41.130 2 2 26534 20251124212352
+34.83.243.104 3 3 166815 20251102181032
+35.196.75.34 1 1 13267 20251109125021
+185.221.132.214 1 1 13267 20251130031435
+196.251.115.42 3 3 166815 20251109035856
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20251101 6 6 206616 4
+20251102 20 22 1077741 10
+20251103 11 20 914383 8
+20251104 15 62 5003879 7
+20251105 7 11 574545 5
+20251106 15 15 834075 5
+20251107 18 63 4619643 6
+20251108 23 68 4855330 8
+20251109 12 13 392357 10
+20251110 17 19 910926 10
+20251111 11 16 644397 9
+20251112 21 87 5570019 9
+20251113 3 3 124477 3
+20251114 6 10 345490 6
+20251115 6 39 2966111 4
+20251116 13 18 543917 10
+20251117 6 10 391926 5
+20251118 15 15 749399 10
+20251119 35 99 7422992 10
+20251120 14 14 341604 8
+20251121 17 74 5370066 8
+20251123 11 56 4819916 4
+20251124 27 117 9522650 8
+20251125 9 9 373431 6
+20251126 31 51 3196556 5
+20251127 7 11 854414 6
+20251128 16 16 635652 9
+20251129 10 10 429036 6
+20251130 20 20 672150 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 208
+2mn-5mn 1
+15mn-30mn 1
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 330 13353766 209 196
+/shop-details.html 10 333272 0 1
+/fonts/ElegantIcons.woff 9 572976 1 1
+/fonts/fontawesome-webfont.woff2 9 694440 0 1
+/contact.html 8 89215 0 4
+/fonts/classy.ttf 8 8800 1 7
+/shop.html 7 197497 0 1
+/about.html 7 183494 0 0
+/checkout.html 6 106600 0 0
+/cart.html 6 99474 0 0
+/blog.html 5 117937 0 0
+/single-portfolio.html 5 82889 0 0
+/portfolio.html 5 99580 0 0
+/single-post.html 4 96828 0 0
+/./cart.html 1 22301 0 0
+/./checkout.html 1 24175 0 0
+/./contact.html 1 21435 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 110
+1K-2K 110
+5K+ 1063
+0-44 21
+100-500 1761
+500-1K 2410
+44-100 9980
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

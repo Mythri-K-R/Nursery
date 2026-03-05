@@ -1,0 +1,1243 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202601 will be lost/reset.
+# Last config file used to build this data file was /home1/balaji/tmp/awstats/ssl/awstats.balajiplantnursery.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2092                
+POS_TIME 2773                
+POS_VISITOR 24144               
+POS_DAY 32304               
+POS_DOMAIN 3629                
+POS_LOGIN 4227                
+POS_ROBOT 4382                
+POS_WORMS 4983                
+POS_EMAILSENDER 5114                
+POS_EMAILRECEIVER 5257                
+POS_SESSION 33141               
+POS_FILESIZE 33960               
+POS_REQUESTTIME 34108               
+POS_SIDER 33349               
+POS_FILETYPES 5392                
+POS_DOWNLOADS 5618                
+POS_OS 5666                
+POS_BROWSER 6006                
+POS_SCREENSIZE 7135                
+POS_UNKNOWNREFERER 7209                
+POS_UNKNOWNREFERERBROWSER 8356                
+POS_ORIGIN 8863                
+POS_SEREFERRALS 9004                
+POS_PAGEREFS 9186                
+POS_SEARCHWORDS 9334                
+POS_KEYWORDS 9486                
+POS_MISC 2435                
+POS_ERRORS 9545                
+POS_CLUSTER 4083                
+POS_SIDER_404 9727                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260201001012 49 11565 16354669115509
+FirstTime 20260101001751
+LastTime 20260131234324
+LastUpdate 20260201182234 49 0 48 0 0
+TotalVisits 267                 
+TotalUnique 193                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 206                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 168 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 22 76 3029734 54 99 1459377
+1 6 12 678390 22 62 1278253
+2 33 48 2234825 357 462 2399595
+3 28 31 453723 19 58 761248
+4 10 15 746823 63 88 487586
+5 18 31 753708 59 169 529378
+6 21 113 9348815 96 112 451315
+7 15 41 6387524 11 42 639194
+8 21 125 9887127 18 56 1391980
+9 14 35 1667672 14 41 588360
+10 48 128 6772663 14 52 748609
+11 16 90 4429102 20 51 698279
+12 38 352 29316998 15 44 648643
+13 33 229 17092151 17 43 714973
+14 58 250 18390119 120 157 967736
+15 27 182 14262206 77 109 612175
+16 22 159 13772663 95 132 737069
+17 51 243 13948241 23 69 1478125
+18 20 126 9480778 130 149 541061
+19 49 396 28910369 72 98 815442
+20 34 238 17185908 8 30 339423
+21 7 7 78514 61 78 472313
+22 9 9 119403 17 39 545114
+23 7 8 140784 18 46 713621
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+in 231 1344 100401325
+us 222 1037 75116313
+ro 53 63 1102764
+ir 14 134 7102062
+md 12 14 230192
+hk 11 63 4915800
+ca 9 10 528830
+ru 9 9 92869
+fr 7 63 4877229
+eu 6 65 4834240
+jp 5 61 4850695
+se 4 4 53068
+vn 4 44 4235534
+au 3 15 418971
+de 3 3 39801
+gb 2 2 13267
+pl 2 2 13029
+ip 2 2 26534
+cn 2 2 68872
+dz 1 1 8066
+nl 1 1 13267
+be 1 1 13267
+ba 1 1 13267
+ua 1 1 13267
+dk 1 1 55605
+it 0 1 50106
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+crawl 148 5354839 20260131220208 0
+bingbot/ 147 5548300 20260131160049 0
+Googlebot/ 115 2145944 20260131154536 0
+Applebot/ 29 590587 20260131011439 0
+Googlebot\-Image/ 23 838233 20260131154246 0
+bot[\s_+:,\.\;\/\\-] 23 294739 20260130192647 0
+facebookexternalhit/ 21 1167705 20260130201023 0
+no_user_agent 5 278025 20260126053456 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 26534 20260128105125 0
+[\s_+:,\.\;\/\\-]bot 1 13267 20260110102101 0
+Gaisbot/ 1 13267 20260103183313 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 444 6260296 0 0
+woff 51 3246864 0 0
+png 536 5199475 0 0
+ttf 55 118788 0 0
+jpg 985 169431955 0 0
+woff2 57 4398120 0 0
+css 471 4687611 0 0
+js 345 15745131 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+android12 3 3
+linux 78 23
+Unknown 270 215
+macosx5 1 1
+macosx7 1 1
+macosx9 1 1
+linuxdebian 1 1
+macosx15 213 33
+android11 1 0
+ios_iphone 139 17
+win10 893 142
+androidmarshmallow 8 8
+sunos 1 1
+ios_ipad 1 1
+android 1 1
+androidkitkat 1 1
+winlong 1 1
+win7 27 15
+android10 1303 142
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 55
+chrome136.0.0.0 2 2
+chrome60.0.3112.113 2 2
+safari18.6 19 3
+chrome122.0.0.0 3 3
+chrome121.0.4238.74 1 1
+mozilla 27 17
+chrome135.0.4397.81 1 1
+chrome91.0.4472.124 3 3
+chrome139.0.0.0 36 8
+chrome103.0.0.0 1 1
+chrome123.0.6312.118 1 1
+chrome141.0.0.0 1 0
+chrome120.0.0.0 6 6
+firefox46.0 1 1
+chrome110.0.0.0 2 2
+chrome141.0.7390.122 30 3
+safari7.0 1 1
+chrome105.0.0.0 3 3
+firebird 1 1
+chrome133.0.0.0 7 5
+firefox82.0 1 1
+chrome130.0.0.0 1 1
+chrome109.0.0.0 32 4
+chrome81.0.4044.129 19 4
+chrome126.0.0.0 5 4
+msie11.0 1 1
+chrome116.0.0.0 1 1
+firefox142.0 1 1
+chrome15.0.874.120 1 1
+Unknown 212 194
+firefox139.0 1 1
+chrome144.0.0.0 776 74
+edge44 1 1
+chrome142.0.0.0 178 21
+sonyericsson 1 1
+chrome134.0.0.0 14 8
+chrome143.0.7499.192 8 8
+android 2 1
+chrome88.0.4324.96 1 1
+safari 71 10
+firefox121.0 1 1
+chrome132.0.4640.54 1 1
+chrome14.0.803.0 1 1
+wap 1 1
+safari26.2 49 4
+chrome143.0.0.0 1029 122
+netscape5.0 10 10
+chrome131.0.0.0 289 30
+chrome100.0.4896.127 1 1
+firefox47.0 26 14
+firefox117.0 1 1
+chrome18.0.1025.45 1 1
+chrome138.0.0.0 57 16
+chrome101.0.4951.41 1 1
+chrome137.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/141.0.7390.122_Safari/537.36 20260104110637
+Mozilla/5.0_(compatible;_Dataprovider.com) 20260123131222
+FaviconHash-API/1.0 20260131202434
+Python/3.9_aiohttp/3.13.3 20260113090943
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260131234324
+http-archieve/1.0_(download_ha_jpeg_csv_raw.py) 20260126012957
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260118225833
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20260122164902
+\ 20260128055439
+SonyEricssonK550i/R1JD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20260115200600
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260130061800
+POLARIS/6.01(BREW_3.1.5;U;en-us;LG;LX265;POLARIS/6.01/WAP;)MMP/2.0_profile/MIDP-201_Configuration_/CLDC-1.1 20260128183534
+Mozilla/5.0_(compatible) 20260121050643
+Python/3.11_aiohttp/3.13.3 20260120171603
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20260122164902
+http-archieve/1.0_(download_ha_jpeg_csv_raw.py) 20260126012957
+Python/3.11_aiohttp/3.13.3 20260120171603
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260131234324
+Python/3.9_aiohttp/3.13.3 20260113090943
+\ 20260128055439
+FaviconHash-API/1.0 20260131202434
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 360 429
+From1 0 0
+From2 46 46
+From3 0 0
+From4 201 2469
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_bing_com 2 2
+www_google_com 44 44
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+400 2 104
+409 372 30876
+404 974 413486
+421 9 2898
+401 2 104
+206 2 27428
+503 4 0
+403 11 3905
+406 132 29380
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 596
+/config/stripe.yaml 1 -
+/secrets.yaml 1 -
+/wp-includes/Requests/Auth/ 1 -
+/src/config.js 1 -
+/stripe_secret.json 1 -
+/new.php 1 -
+/@vite/env 1 -
+/wp-includes/sitemaps/providers/ 2 -
+/wp-includes/css/ 2 -
+/sitemap.xml.gz 5 -
+/123.php 1 -
+/app/root.tsx 1 -
+/wp-admin/images/ 5 -
+/dist/.vite/manifest.json 1 -
+/.cache/page-ssr/routes/render-page.js 1 -
+/wp-includes/Text/Diff/Engine/Engine/ 1 -
+/build/static/js/main.js 1 -
+/_nuxt/vendors.app.js 1 -
+/wp-content/themes/twentytwentythree/ 1 -
+/static/js/main.chunk.js 1 -
+/terraform/ 1 -
+/symfony/public/_profiler/open 1 -
+/wp-includes/images/wlw/ 1 -
+/.dockerignore 1 -
+/stripe_config.json 1 -
+/.secrets 1 -
+/static/js/runtime-main.js 1 -
+/api/config.env 1 -
+/config/index.js 1 -
+/_app/immutable/chunks/singletons.js 1 -
+/setup.py 1 -
+/static/js/app.js 1 -
+/radio.php 1 -
+/edit.php 1 -
+/wp-includes/Requests/src/Cookie/ 1 -
+/aws.yml 2 -
+/.env.deploy 1 -
+/gradle.properties 1 -
+/api/v1/config 1 -
+/.terraform/ 1 -
+/static/js/2.ca066a4b.chunk.js 1 -
+/admin/uploads/ 2 -
+/wp-content/plugins/ 2 -
+/wp-bat.php 1 -
+/ioxi-o.php 1 -
+/new/.env.production 1 -
+/bootstrap/bootstrap.min.js 3 -
+/wp-admin/network/ 2 -
+/07.php 1 -
+/.env.stripe 1 -
+/wp-admin/ 9 https://www.google.com/
+/wp-admin/meta/ 1 -
+/wp-content/themes/ 2 -
+/.vite/deps/_metadata.json 1 -
+/wp-content/uploads/ 7 -
+/.env.dev 3 -
+/.github/workflows/build.yml 1 -
+/_nuxt/config.js 1 -
+/@vite/client 1 -
+/config/credentials.yml 1 -
+/app.py 1 -
+/stripe/index.js 1 -
+/wp-includes/Text/Diff/Renderer/ 3 -
+/.env.prod 3 -
+/@fs/.vite/development.yml 1 -
+/admin/images/slider/ 1 -
+/app/settings_stripe.py 1 -
+/wp-includes/certificates/ 2 -
+/service/email_service.py 1 -
+/atomlib.php 1 -
+/apis/controllers/users.js 1 -
+/bootstrap/popper.min.js 3 -
+/config/stripe.ts 1 -
+/s3.js 1 -
+/wp-includes/sodium_compat/src/ 1 -
+/god4m.php 1 -
+/build/index.js 1 -
+/wp-includes/Requests/Cookie/ 1 -
+/Gemfile 1 -
+/config.js 4 -
+/.gitlab-ci/stripe.env 1 -
+/wp/wp-admin/includes/ 1 -
+/wp-includes/assets/ 3 -
+/package.json 1 -
+/runtime-config.js 1 -
+/stripe.js 1 -
+/images/ 1 -
+/active.js 3 -
+/.aws/credentials 4 -
+/deepseek_d.php 1 -
+/enhancecp 2 -
+/appsettings.json 3 -
+/admin/upload/ 1 -
+/controller/admin/post.js 1 -
+/vendor.js 1 -
+/berax.php 1 -
+/src/env.d.ts 2 -
+/about.php 1 -
+/.github/workflows/deploy.yml 1 -
+/main.js 2 -
+/env.js 1 -
+/dist/app.js 1 -
+/storage/stripe.keys 1 -
+/api/shared/config/config.env 1 -
+/shared/config/config.js 1 -
+/cart 1 -
+/.gitlab-ci.yml 1 -
+/wp-activate.php 1 -
+/wp-includes/rest-api/fields/ 3 -
+/storage/logs/payments.log 1 -
+/.github/workflows/stripe.yml 1 -
+/admin/.env 1 -
+/assets/js/main.js 1 -
+/aws-secret.yaml 1 -
+/controllers/settings.js 1 -
+/secrets.json 2 -
+/ALFA_DATA/ 1 -
+/wp-includes/block-bindings/ 1 -
+/app/config/stripe.yml 1 -
+/wp-content/plugins/wp-file-manager/ 1 -
+/internal/stripe/keys.go 1 -
+/_next/static/chunks/commons.js 1 -
+/.env.vite 1 -
+/config/storage.yml 1 -
+/.github/stripe.env 1 -
+/storage/s3.json 1 -
+/js/plugins/plugins.js.map 1 -
+/SonarQube.properties 1 -
+/.gitignore 1 -
+/wp-admin/js/widgets/ 3 -
+/_next/static/development/pages/_app.js 1 -
+/secrets.yml 1 -
+/wp-includes/random_compat/ 1 -
+/_next/static/chunks/main.js 1 -
+/vite.config.js 1 -
+/config/settings.local 1 -
+/debug/default/open 1 -
+/wp-admin/css/colors/sunrise/ 2 -
+/modules/ 4 -
+/wp-content/languages/plugins/ 1 -
+/env 2 -
+/config/keys.js 1 -
+/config/application.yml 1 -
+/config/payment.yml 1 -
+/runtime~main.js 1 -
+/__env.js 1 -
+/server.js 1 -
+/dist/client.js 1 -
+/aa.php 1 -
+/wp-content/plugins/ultimate-member/ 1 -
+/adminfuns.php 1 -
+/wp-includes/images/media/ 3 -
+/wp-includes/SimplePie/Content/ 1 -
+/sapi/debug/default/view 1 -
+/debug/default/view 3 -
+/wp-includes/images/ 4 -
+/server/config/database.js 1 -
+/wp-admin/css/colors/midnight/ 2 -
+/config/aws.json 1 -
+/wp-includes/SimplePie/ 2 -
+/core/payment.py 1 -
+/karma.conf.json 1 -
+/file.php 1 -
+/configs/routes-4aug.js 1 -
+/build/app.js 1 -
+/admin/fckeditor/editor/filemanager/ 1 -
+/_nuxt/app.js 1 -
+/Site/ 1 -
+/.credentials 1 -
+/controllers/stripeController.js 1 -
+/.well-knownold/ 1 -
+/page-data/app-data.json 1 -
+/mari.php 1 -
+/application.yml 2 -
+/wp-includes/block-supports/ 3 -
+/settings.py 1 -
+/wp-includes/style-engine/ 4 -
+/dropdown.php 1 -
+/wp-includes/rest-api/search/ 1 -
+/wp-trackback.php 1 -
+/index.js 1 -
+/v1/api-docs 1 -
+/credentials.json 1 -
+/wp-includes/js/plupload/ 1 -
+/wp-admin/js/ 1 -
+/wp-includes/js/tinymce/ 1 -
+/api/webhook.js 1 -
+/_app/env.js 1 -
+/storage/keys/stripe.json 1 -
+/wp-includes/js/codemirror/index.php 1 -
+/main.yml 1 -
+/include/ 1 -
+/vendor/ 1 -
+/plugins/ 2 -
+/static/js/main.js 1 -
+/app.js.map 1 -
+/terraform/stripe.tf 1 -
+/bolt.php 1 -
+/wp-json/ 2 -
+/my_env/palash.py 1 -
+/.env.aws 2 -
+/donate 1 -
+/wp-admin/user/ 2 -
+/application.properties 1 -
+/.env.stage 1 -
+/local/ 1 -
+/test1.php 1 -
+/wp-content/uploads/2025/ 1 -
+/.git/config 14 -
+/wp-content/themes/classic/inc/ 1 -
+/images/stories/ 1 -
+/build/root.js 1 -
+/remix.config.js 1 -
+/wp-admin/maint/ 1 -
+/wp-includes/rest-api/endpoints/ 1 -
+/api-docs.json 1 -
+/wp-content/ 2 -
+/config/aws.yml 2 -
+/wp-includes/ID3/ 5 -
+/.well-known/security.txt 5 -
+/webhooks/settings.json 1 -
+/0.php 1 -
+/kyami.php 1 -
+/v2/api-docs 1 -
+/wp-includes/js/tinymce/themes/ 1 -
+/.gitconfig 1 -
+/wp-json/wc/store/v1/cart 1 -
+/admin/uploads/images/ 1 -
+/wp-admin/css/colors/ocean/ 2 -
+/wp-content/plugins/elementor/ 1 -
+/_astro/hoisted.js 1 -
+/_profiler/open 1 -
+/debug/default/view.html 1 -
+/_next/static/chunks/pages/index.js 1 -
+/wp-includes/IXR/ 2 -
+/wp-content/plugins/ninja-forms/ 1 -
+/wp-admin/css/colors/ 1 -
+/utils/stripe.js 1 -
+/helpers/s3.js 1 -
+/Public/ 1 -
+/js/main.js 2 -
+/bundle.js.map 1 -
+/workbox.js 1 -
+/wp-includes/SimplePie/Content/Type/ 1 -
+/wp-includes/rest-api/index.php 1 -
+/sonar-project.properties 1 -
+/wp-config 1 -
+/wp-includes/Text/ 3 -
+/wp-includes/Requests/Exception/HTTP/ 1 -
+/wp-content/plugins/contact-form-7/ 1 -
+/.env.development 2 -
+/config/initializers/stripe.rb 1 -
+/dist/solid.js 1 -
+/aws.key 1 -
+/constants.js 1 -
+/api-docs 1 -
+/stripe.log 1 -
+/functions/stripe.js 1 -
+/src/constants.js 1 -
+/.terraform/terraform.tfstate 1 -
+/config/config.json 1 -
+/undefined 1 https://balajiplantnursery.in/shop.html
+/asd.php 1 -
+/settings.gradle 1 -
+/my_env/chakaash.py 1 -
+/xmrlpc.php 1 -
+/wp-includes/Requests/ 2 -
+/node/.env_example 1 -
+/public/build/entry.client.js 1 -
+/abcd.php 1 -
+/subscribe 1 -
+/config/stripe.json 1 -
+/components/ 1 -
+/config.json 4 -
+/__ENV.js 1 -
+/apis/config/config.js 1 -
+/_next/static/chunks/polyfills.js 1 -
+/routes/payment.js 1 -
+/axx.php 1 -
+/.circleci/stripe.env 1 -
+/config/credentials.yml.enc 1 -
+/admin.php 1 -
+/wp-includes/pomo/ 4 -
+/aws.secret 1 -
+/dist/main.js 1 -
+/functions/payment.js 1 -
+/config/local.yml 1 -
+/template/ 1 -
+/.gitlab/stripe.env 1 -
+/.github/workflows/ 1 -
+/wp-content/themes/twentytwentyfour/ 1 -
+/assets/js/app.js 1 -
+/docker-compose.yml 1 -
+/.git/HEAD 2 -
+/secrets/stripe.json 1 -
+/asasx.php 1 -
+/config/parameters.yml 1 -
+/Assets/ 1 -
+/instance/config.py 1 -
+/storage/app/stripe.json 1 -
+/wp-includes/html-api/ 4 -
+/jquery/jquery-2.2.4.min.js 3 -
+/wp-includes/js/thickbox/ 1 -
+/cloudformation.json 1 -
+/wp-admin/css/colors/modern/ 1 -
+/wp-content/languages/ 1 -
+/composer.json 1 -
+/.env_sample 1 -
+/openapi.json 1 -
+/storage/secrets/stripe.json 1 -
+/js/bootstrap/bootstrap.min.js.map 1 -
+/wp-content/upgrade/ 2 -
+/sms.py 1 -
+/cong.php 1 -
+/wp-admin/css/colors/coffee/ 2 -
+/config/stripe.yml 1 -
+/routes/stripe.js 1 -
+/shop/ 1 -
+/gatsby-config.js 1 -
+/settings.json 2 -
+/user/config/config.js 1 -
+/swagger/v1/swagger.json 1 -
+/storage/stripe.json 1 -
+/api/config/config.yml 1 -
+/wp-content/languages/themes/ 1 -
+/backend/config/default.yml 1 -
+/_next/static/chunks/_buildManifest.js 1 -
+/server/s3.js 1 -
+/_next/static/chunks/webpack.js 1 -
+/wp-includes/Requests/Transport/ 1 -
+/controller/api/post.js 1 -
+/robots.txt 188 -
+/storage/logs/laravel.log 1 -
+/upload/image/ 1 -
+/wp-includes/sitemaps/ 2 -
+/payment.js 1 -
+/api/config.js 1 -
+/_profiler/phpinfo 5 -
+/stripe.conf 1 -
+/wp-admin/includes/ 4 -
+/api/config.json 1 -
+/partner/config/config.js 1 -
+/.travis.yml 1 -
+/.vite/manifest.json 1 -
+/public/js/bundle.js 1 -
+/symfony/public/_profiler/phpinfo 1 -
+/aspera/faspex/ 1 -
+/config/settings/stripe.py 1 -
+/webpack-runtime.js 1 -
+/manager.php 1 -
+/checkout 1 -
+/svelte.config.js 1 -
+/wp-content/plugins/gravityforms/ 1 -
+/static/js/4.chunk.js 1 -
+/uploads/ 5 -
+/helper/EmailHelper.js 1 -
+/css.php 1 -
+/_next/static/chunks/1.js 1 -
+/.astro/types.d.ts 1 -
+/ds.php 1 -
+/public/build/manifest.json 1 -
+/wp-includes/ 3 -
+/Admin/uploads/ 1 -
+/runtime.js 1 -
+/api/stripe.js 1 -
+/sitemap.xml 1 -
+/lib/config.js 1 -
+/wp-includes/Text/Diff/ 1 -
+/api/stripe.ts 1 -
+/wp-includes/css/dist/ 1 -
+/wp-json/wc/v3 2 -
+/my_env/newsletter.py 1 -
+/wp-includes/blocks/ 3 -
+/upload/ 1 -
+/stripe_keys.json 1 -
+/bundle.js 1 -
+/build/main.js 1 -
+/admin/editor/ 1 -
+/swagger.json 2 -
+/wp-includes/sodium_compat/ 1 -
+/settings/stripe.py 1 -
+/_next/static/chunks/_ssgManifest.js 1 -
+/system/ 1 -
+/static/js/2.chunk.js 1 -
+/server/stripe.js 1 -
+/public/js/app.js 1 -
+/stripe.env 1 -
+/frontend/web/debug/default/view 1 -
+/symfony/public 1 -
+/wp-content/mu-plugins/ 1 -
+/sw.js 1 -
+/project/settings/payment.py 1 -
+/_astro/page.js 1 -
+/config.yaml 1 -
+/routes/webhook.js 1 -
+/webpack.runtime.js 1 -
+/assets/main.js 1 -
+/backend/stripe.js 1 -
+/modules/mod_simplefileuploadv1.3/elements/ 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 1 -
+/main.js.map 1 -
+/api.js 1 -
+/.env.production 3 -
+/akc.php 1 -
+/Makefile 1 -
+/config.env 1 -
+/build/q-manifest.json 1 -
+/requirements.txt 1 -
+/backend/config/settings.yml 1 -
+/env.json 1 -
+/config/s3_config.json 1 -
+/backend/config/development.yml 1 -
+/cloudformation.yml 1 -
+/assets/index.js 1 -
+/wp-includes/fonts/ 3 -
+/public/page-data/app-data.json 1 -
+/wp-includes/Requests/Response/ 1 -
+/.env.production.local 1 -
+/app/entry.client.tsx 1 -
+/api/swagger.json 1 -
+/wp-includes/rest-api/ 3 -
+/wp-includes/Requests/Utility/ 1 -
+/wp-includes/blocks/calendar/index.php 1 -
+/php/ 1 -
+/info.php 1 -
+/elp.php 1 -
+/helpers/utility.js 1 -
+/_next/static/chunks/2.js 1 -
+/build.php 1 -
+/build/asset-manifest.json 1 -
+/env-config.js 1 -
+/.env.example 1 -
+/.env.save 2 -
+/api/config 1 -
+/vite.config.ts 1 -
+/wp-admin.php 1 -
+/.AWS_/credentials 1 -
+/wp-includes/js/ 1 -
+/swagger/v2/swagger.json 1 -
+/wp-includes/Text/Diff/Engine/ 1 -
+/wp-includes/js/crop/ 4 -
+/js/bootstrap/popper.js 1 -
+/xmlrpc.php 1 -
+/storage/logs/stripe.log 1 -
+/manifest.json 1 -
+/f5.php 1 -
+/wp-content/plugins/hello-dolly/ 1 -
+/serviceworker.js 1 -
+/configs/s3_config.json 1 -
+/pu9.php 1 -
+/js/active.js.map 2 -
+/functions/webhook.js 1 -
+/admin/ 3 -
+/tox.ini 1 -
+/js/app.js 1 -
+/settings.js 1 -
+/wp-content/plugins/WordPressCore/ 2 -
+/filemanager.php 1 -
+/config/stripe.js 1 -
+/wp-includes/js/tinymce/plugins/ 1 -
+/config/env.js 1 -
+/__config.js 1 -
+/user/controllers/index.js 1 -
+/.well-known/traffic-advice 3 -
+/wp-good.php 1 -
+/flower.php 1 -
+/chosen.php 1 -
+/config/secrets.yml 1 -
+/helper.js 1 -
+/scripts/nodemailer.js 1 -
+/app/config/parameters.yml 2 -
+/web/debug/default/view 1 -
+/wp-admin/css/colors/light/ 1 -
+/astro.config.mjs 1 -
+/app.js 2 -
+/keys.js 1 -
+/wp-content/uploads/2024/ 2 -
+/.aws/config 1 -
+/stripe.txt 1 -
+/.bitbucket/pipelines.yml 1 -
+/wp-content/uploads/2022/ 1 -
+/wp-includes/js/tinymce/skins/ 1 -
+/asset-manifest.json 1 -
+/form.php 1 -
+/.env.local 3 -
+/wp-includes/PHPMailer/ 4 -
+/js/config.js 1 -
+/aws.json 1 -
+/pom.xml 1 -
+/service-worker.js 1 -
+/sitemaps.xml 2 -
+/stripe.ini 1 -
+/wp-includes/SimplePie/Cache/ 1 -
+/vendor.js.map 1 -
+/keys.json 1 -
+/assets/images/ 1 -
+/admin/controllers/merchant.js 1 -
+/backup/stripe.json 1 -
+/admin/controller/extension/extension/ 2 -
+/autoload_classmap.php 1 -
+/buy.php 1 -
+/akcc.php 1 -
+/stripe.save 1 -
+/file4.php 1 -
+/phpinfo 3 -
+/window.env.js 1 -
+/payment 1 -
+/admin/controllers/partner.js 1 -
+/wp-includes/js/codemirror/ 3 -
+/_app/immutable/chunks/index.js 1 -
+/mytest/astech_robot.js 1 -
+/default.php 1 -
+/Dockerfile 1 -
+/wp-content/mu-plugins-old/ 1 -
+/static/js/3.chunk.js 1 -
+/config/constants.js 1 -
+/moon.php 1 -
+/wp-content/cache/ 1 -
+/wp-includes/php-compat/ 1 -
+/serverless.yml 1 -
+/js/jquery/jquery-2.2.4.min.js.map 1 -
+/build/bundle.js 1 -
+/api/shared/config.env 1 -
+/wp-content/plugins/akismet/ 1 -
+/public/js/main.js 2 -
+/.git/index 1 -
+/aws/credentials 1 -
+/wp-includes/widgets/ 2 -
+/.git-credentials 1 -
+/checkout.js 1 -
+/build/static/js/bundle.js 1 -
+/cloud/Scraper.js 1 -
+/.svelte-kit/output/client/_app/env.js 1 -
+/plugins/plugins.js 3 -
+/wp-includes/Requests/Exception/ 1 -
+/wp-content/uploads/2021/ 1 -
+/file2.php 1 -
+/public/build/root.js 1 -
+/1.php 1 -
+/_next/static/chunks/pages/_app.js 1 -
+/static/js/main.141b0494.js 1 -
+/wp-content/plugins/litespeed-cache/ 1 -
+/wp-includes/images/crystal/ 2 -
+/_app/immutable/entry/app.js 1 -
+/api/settings 1 -
+/terraform/aws.tf 1 -
+/dist/bundle.js 1 -
+/wp-admin/css/ 2 -
+/new/.env.local 1 -
+/credentials.txt 1 -
+/wp-includes/images/smilies/ 1 -
+/magento_version 2 -
+/wp-includes/block-patterns/ 3 -
+/static/js/main.e85f7a37.js 1 -
+/build.gradle 1 -
+/assets/vendor.js 1 -
+/new/.env.staging 1 -
+/.terraform/stripe.tfstate 1 -
+/sitemap_index.xml 2 -
+/.env.staging 2 -
+/_next/static/chunks/0.js 1 -
+/_astro/client.js 1 -
+/.circleci/configs/development.yml 1 -
+/js/bootstrap/popper.min.js.map 2 -
+/wp-includes/Requests/Proxy/ 1 -
+/build/qwik-loader.js 1 -
+/wp-includes/js/dist 1 -
+/info 1 -
+/_next/static/chunks/framework.js 1 -
+/src/env.js 1 -
+/wp-includes/theme-compat/ 1 -
+/terraform/terraform.tfstate 1 -
+/classwithtostring.php 1 -
+/app/config.yml 1 -
+/.github/secrets/stripe.env 1 -
+/wp-includes/assets/autoload_classmap.php 1 -
+/wp-includes/customize/ 2 -
+/files/ 1 -
+/sites/default/files/ 1 -
+/assets/ 1 -
+/configs/routes.js 1 -
+/modules/stripe.js 1 -
+/config/settings.prod 1 -
+/llms.txt 1 -
+/static/js/5.chunk.js 1 -
+/storage/app/keys/stripe.key 1 -
+/wp-admin/css/colors/ectoplasm/ 2 -
+/stripe.key 1 -
+/.circleci/config.yml 1 -
+/aws.yaml 1 -
+/admin/config 1 -
+/swagger.js 1 -
+/config/settings.json 1 -
+/makeasmtp.php 1 -
+/settings_stripe.py 1 -
+/_app/immutable/entry/start.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 206
+103.108.58.16 82 82 1087894 20260131202434
+106.222.220.19 14 87 5466648 20260105145040
+45.148.10.247 14 26 1847414 20260126022106
+207.230.107.186 12 14 230192 20260128055440
+195.138.115.66 12 14 230192 20260113143736
+109.166.42.25 12 14 230192 20260107030020
+151.248.85.186 12 14 230192 20260121020533
+109.166.46.93 12 14 230192 20260106145134
+172.241.186.235 12 14 230192 20260120104026
+176.116.37.204 12 14 230192 20260114104131
+23.83.93.254 12 14 230192 20260127175921
+103.54.178.46 9 61 4889266 20260125060216
+49.207.212.173 9 84 6260898 20260110124113
+152.57.125.85 8 81 5958125 20260126173359
+167.235.32.159 7 49 2892912 20260112193632
+106.219.153.159 7 64 4913871 20260123095143
+49.206.128.220 7 63 4870825 20260105150400
+138.199.143.30 6 65 4834240 20260112190238
+204.76.203.25 6 12 639864 20260130002520
+49.205.146.43 6 63 4900604 20260114124256
+136.226.253.2 5 61 4850695 20260101203941
+14.139.155.98 5 33 1535491 20260119171552
+152.59.222.231 5 52 4797118 20260112164821
+157.45.195.56 5 52 4797118 20260102123934
+157.51.67.6 5 34 1577353 20260119130138
+198.235.24.195 1 1 55605 20260122020011
+120.92.38.77 1 1 13267 20260116170807
+158.173.23.6 1 1 55605 20260106062232
+108.189.9.29 0 2 32550 
+161.35.230.47 1 1 12182 20260101133629
+157.51.88.250 4 49 4430681 20260124145407
+49.206.16.219 1 7 236824 20260128073142
+172.56.181.100 1 5 2854041 20260101143128
+66.249.66.40 1 3 49113 20260130035127
+106.219.159.144 1 1 13267 20260123181719
+124.123.129.65 4 49 4430681 20260109184939
+167.71.123.92 1 1 13267 20260105083943
+44.211.135.230 1 1 13267 20260119193326
+49.43.202.137 1 1 13267 20260112224615
+46.101.25.65 1 1 13267 20260106172417
+198.235.24.255 1 1 55605 20260127081945
+117.233.233.149 4 32 1527444 20260119111928
+38.52.141.80 1 1 13267 20260126061705
+202.148.63.248 1 13 392437 20260106193928
+198.235.24.40 1 1 55605 20260116093645
+103.186.41.189 4 49 4430681 20260129103834
+94.23.49.223 2 2 26534 20260103200611
+199.45.155.66 1 1 13267 20260104201031
+206.189.203.141 1 1 12179 20260112213319
+52.87.162.186 1 1 13267 20260127184001
+168.119.215.103 3 24 2364016 20260112192850
+68.183.202.10 1 1 13267 20260109131600
+3.20.201.240 1 1 13267 20260120045445
+101.198.0.183 1 1 55605 20260116134847
+49.43.33.194 0 4 2929882 
+66.249.66.192 0 1 1458 
+143.244.140.61 1 1 12177 20260126135136
+94.247.172.129 1 1 13267 20260126000747
+47.15.40.76 0 1 79008 
+74.125.215.13 0 6 49924 
+3.139.242.79 1 1 13267 20260125004317
+157.45.213.188 4 49 4430681 20260119131638
+152.58.179.12 4 32 1527444 20260113202647
+64.233.173.146 2 6 248207 20260119005102
+176.96.241.148 1 1 13267 20260128192825
+98.95.177.220 1 1 13267 20260130202149
+185.177.72.10 1 1 0 20260111064514
+105.100.215.198 1 1 8066 20260122054021
+66.249.66.204 0 2 2283 
+44.199.21.82 1 1 13267 20260105155800
+93.159.5.43 1 1 8047 20260120025541
+72.14.201.120 1 1 4982 20260115202433
+40.160.21.14 2 2 13726 20260131035627
+205.210.31.92 1 1 55605 20260101001751
+213.173.108.226 0 1 50106 
+194.195.116.230 2 2 26534 20260106231623
+199.45.155.93 1 1 13267 20260112144314
+43.228.125.75 2 2 26534 20260130222130
+66.249.66.165 0 3 63368 
+91.98.178.80 4 32 1527444 20260112191024
+167.71.150.79 4 19 1768513 20260129041030
+223.187.41.35 4 50 4452144 20260123202500
+195.201.194.48 1 1 13267 20260113090943
+34.198.214.171 1 1 13267 20260112112625
+199.45.155.68 1 1 13267 20260119183558
+64.233.173.148 1 8 113490 20260119005102
+5.133.192.88 1 1 13267 20260126075454
+54.237.208.23 1 1 13267 20260131192927
+223.182.56.83 4 49 4430681 20260105134737
+34.27.62.169 2 12 430722 20260121050642
+152.57.76.90 4 49 4430681 20260126202831
+152.59.15.147 4 49 4430681 20260129195552
+162.142.125.122 1 1 13267 20260123031544
+64.23.152.30 1 1 12179 20260129063350
+185.177.72.64 1 1 0 20260112091753
+45.148.10.87 2 2 13267 20260106211939
+54.160.84.113 1 1 13267 20260111192808
+18.212.134.125 1 1 13267 20260107183148
+91.98.178.13 3 27 2035755 20260112192837
+192.104.34.34 1 1 13267 20260107080745
+157.20.168.246 5 61 4850695 20260116170034
+66.249.66.39 0 4 680577 
+122.172.85.40 4 59 4616939 20260130184312
+172.190.240.176 2 2 111210 20260121061306
+149.56.160.192 1 1 55605 20260123131202
+15.204.182.106 2 2 26534 20260130100954
+193.186.4.138 1 1 4982 20260104135339
+27.59.94.221 3 22 1410203 20260125130531
+152.57.119.232 1 1 13267 20260129104945
+159.223.186.111 1 1 13267 20260125140218
+77.83.39.184 1 1 13267 20260128033901
+77.90.185.63 1 1 13267 20260112104531
+162.142.125.200 1 1 13267 20260130061800
+159.65.242.163 1 1 13267 20260120075409
+15.204.183.221 2 2 9964 20260131035701
+38.224.120.22 4 26 691457 20260123171419
+100.52.3.146 2 2 26534 20260118163755
+49.205.35.69 1 10 257068 20260130155230
+185.247.137.107 1 1 13267 20260118225833
+199.45.155.80 1 1 13267 20260119191800
+198.235.24.85 1 1 55605 20260130071313
+52.58.171.135 1 1 13267 20260124134142
+167.172.250.128 1 1 13267 20260124004413
+66.249.66.167 1 1 8874 20260130024320
+52.4.205.167 1 1 13267 20260115085755
+149.56.160.142 2 2 13267 20260123131222
+206.189.50.147 1 1 55605 20260104065006
+1.52.169.18 3 43 4227487 20260123063704
+49.12.126.247 4 49 4430681 20260112190417
+74.125.215.12 5 10 410079 20260126173215
+106.51.207.53 5 61 4850695 20260110134655
+147.185.132.117 1 1 55605 20260123151137
+91.98.176.10 4 33 1774025 20260112200724
+101.0.63.241 4 49 4430681 20260127152531
+91.98.178.78 3 42 1764838 20260112193716
+49.207.249.238 4 49 4430681 20260131120346
+66.249.66.69 3 6 290038 20260130025541
+162.142.125.206 1 1 13267 20260127060101
+66.132.153.124 1 1 13267 20260115070625
+34.31.246.19 1 1 55605 20260127073908
+152.57.184.214 0 2 2446365 
+205.210.31.194 1 1 55605 20260122001835
+51.83.2.220 1 1 0 20260102201458
+92.113.148.182 1 1 13267 20260124031350
+5.133.192.171 2 2 26534 20260115005244
+3.151.194.164 1 1 13267 20260120045655
+66.249.66.7 2 5 100769 20260130023937
+157.245.34.120 1 1 12182 20260115173811
+93.159.230.84 1 1 13267 20260126104133
+106.220.246.53 1 1 13267 20260106195917
+205.210.31.91 1 1 55605 20260117070908
+38.18.16.198 1 1 13267 20260128072938
+14.165.212.209 1 1 8047 20260115162750
+64.233.173.147 4 14 295827 20260119005102
+149.50.97.212 1 1 13267 20260128183534
+64.23.167.112 1 1 13267 20260111083259
+100.25.198.201 2 2 26534 20260102201143
+115.114.90.27 5 50 4443948 20260123171408
+93.159.230.28 1 1 13267 20260112120117
+157.50.163.231 4 49 4430681 20260101194739
+152.57.60.124 3 22 1410203 20260120090113
+117.254.233.209 1 1 13267 20260115220605
+167.94.138.118 1 1 13267 20260115231303
+74.125.215.1 2 11 192316 20260126173215
+44.252.51.156 1 1 55605 20260104152658
+49.36.123.99 1 1 13267 20260131161955
+202.76.172.51 1 1 13267 20260125141511
+185.247.137.4 1 1 13267 20260116201059
+205.210.31.44 1 1 55605 20260131234324
+49.207.152.81 1 7 236824 20260104184559
+66.249.66.203 0 1 5057 
+167.99.117.79 1 1 13267 20260112160748
+152.57.97.28 1 1 13267 20260104135353
+66.249.66.70 0 3 9629 
+152.59.201.44 5 52 4797118 20260127085658
+35.153.17.202 1 1 13267 20260123200505
+66.249.66.71 1 4 250339 20260130104839
+103.58.154.30 1 1 63664 20260106182524
+106.222.232.42 4 49 4430681 20260122153612
+49.37.241.245 1 1 8047 20260124090716
+103.67.197.200 1 1 13267 20260128193940
+106.193.139.14 4 32 1527444 20260119005057
+49.204.6.33 5 50 4430681 20260131124037
+157.50.122.223 4 49 4430681 20260104141342
+182.156.244.230 5 34 1577353 20260123104613
+109.175.109.174 1 1 13267 20260120124034
+54.224.223.231 1 1 13267 20260122164902
+3.140.182.19 1 1 13267 20260103115640
+18.210.2.36 1 1 13267 20260106120912
+66.249.66.166 2 2 14284 20260130114352
+62.216.67.211 5 7 181996 20260127102415
+3.80.103.149 1 1 13267 20260115200600
+103.218.112.46 4 49 4430681 20260101165228
+206.168.34.218 1 1 13267 20260108031840
+202.76.177.147 1 1 13267 20260123163745
+47.161.180.184 1 1 4982 20260120025534
+2a06:98c0:3600::103 2 2 26534 20260124110201
+15.204.161.7 2 2 16132 20260131035649
+87.236.176.206 1 1 13267 20260115103217
+163.116.219.39 5 61 4850695 20260128174507
+18.199.241.34 1 1 13267 20260120171603
+165.227.91.236 0 1 44927 
+162.120.184.7 1 1 8047 20260112100255
+66.249.66.6 1 3 22410 20260130013725
+157.50.207.66 1 1 13267 20260112085619
+49.43.235.53 3 22 1410203 20260130112502
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20260101 17 167 16647152 7
+20260102 8 55 4865990 4
+20260103 4 4 53068 4
+20260104 14 93 6298640 10
+20260105 27 201 14794688 5
+20260106 22 36 821500 9
+20260107 14 16 256726 3
+20260108 3 3 82139 3
+20260109 5 50 4443948 2
+20260110 16 162 11566191 3
+20260111 3 3 26534 3
+20260112 48 368 26143832 20
+20260113 17 47 1770903 3
+20260114 19 78 5186401 3
+20260115 11 11 131347 11
+20260116 9 66 5039478 5
+20260117 3 3 82139 3
+20260118 6 6 79602 6
+20260119 38 218 11539024 17
+20260120 27 48 1786094 12
+20260121 21 35 897266 7
+20260122 12 57 4616292 8
+20260123 39 278 20523606 18
+20260124 10 56 4552978 7
+20260125 20 91 6405605 7
+20260126 41 193 13071597 13
+20260127 33 129 9817532 11
+20260128 34 98 5529983 12
+20260129 29 134 10854326 15
+20260130 31 115 6686914 23
+20260131 26 123 14516745 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 10
+30mn-1h 8
+5mn-15mn 3
+2mn-5mn 2
+1h+ 5
+0s-30s 233
+15mn-30mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 277 4846794 223 184
+/fonts/fontawesome-webfont.woff2 57 4398120 1 3
+/fonts/classy.ttf 54 59400 2 34
+/fonts/ElegantIcons.woff 51 3246864 3 7
+/shop.html 35 316937 14 11
+/contact.html 29 160931 11 15
+/about.html 17 168880 5 3
+/single-post.html 15 163776 2 4
+/portfolio.html 14 117837 3 0
+/shop-details.html 13 138855 2 1
+/blog.html 12 115996 0 1
+/cart.html 10 68516 0 0
+/single-portfolio.html 10 78088 1 0
+/checkout.html 9 63775 0 0
+/fonts/ElegantIcons.ttf 1 59388 0 1
+/./portfolio.html 1 6863 0 1
+/./about.html 1 8066 0 1
+/./contact.html 1 4982 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+0-44 31
+44-100 380
+2K-5K 350
+100-500 929
+5K+ 2785
+1K-2K 380
+500-1K 375
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME
