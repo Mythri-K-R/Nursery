@@ -15,11 +15,20 @@
     <link rel="icon" href="img/core-img/favicon.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">`n    <link rel="stylesheet" href="css/font-awesome.min.css">`n    <link rel="stylesheet" href="css/classy-nav.css">`n    <link rel="stylesheet" href="css/owl.carousel.min.css">`n    <link rel="stylesheet" href="css/magnific-popup.css">`n    <link rel="stylesheet" href="css/elegant-icon.css">`n    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/classy-nav.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    
+    
+    <link rel="stylesheet" href="css/elegant-icon.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Manrope:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
 
 </head>
 
-<body>
+<body class="page-shop">
     <!-- Preloader -->
     <div class="preloader d-flex align-items-center justify-content-center">
         <div class="preloader-circle"></div>
@@ -44,29 +53,14 @@
                             </div>
 
                             <!-- Top Header Content -->
-                            <div class="top-header-meta d-flex">
-                                <!-- Language Dropdown -->
-                                <!-- <div class="language-dropdown">
-                                    <div class="dropdown">
-                                        <button class="btn btn-secondary dropdown-toggle mr-30" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Language</button>
-                                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                            <a class="dropdown-item" href="#">USA</a>
-                                            <a class="dropdown-item" href="#">UK</a>
-                                            <a class="dropdown-item" href="#">Bangla</a>
-                                            <a class="dropdown-item" href="#">Hindi</a>
-                                            <a class="dropdown-item" href="#">Spanish</a>
-                                            <a class="dropdown-item" href="#">Latin</a>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <!-- Login -->
-                                <!-- <div class="login">
-                                    <a href="#"><i class="fa fa-user" aria-hidden="true"></i> <span>Login</span></a>
-                                </div> -->
-                                <!-- Cart -->
-                                <!-- <div class="cart">
-                                    <a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i> <span>Cart <span class="cart-quantity">(1)</span></span></a>
-                                </div> -->
+                            <div class="top-header-meta top-header-extra d-flex align-items-center">
+    <span class="nursery-slogan"><i class="fa fa-leaf" aria-hidden="true"></i> Trusted Plants. Honest Guidance.</span>
+    <div class="top-social-links" aria-label="Social media links">
+        <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
+        <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa fa-instagram"></i></a>
+        <a href="https://www.youtube.com" target="_blank" rel="noopener" aria-label="YouTube"><i class="fa fa-youtube-play"></i></a>
+    </div>
+</div>
                             </div>
                         </div>
                     </div>
@@ -82,7 +76,7 @@
                     <nav class="classy-navbar justify-content-between" id="alazeaNav">
 
                         <!-- Nav Brand -->
-                        <a href="index.html" class="nav-brand"><span>BALAJI NURSERY</span></a>
+                        <a href="index.html" class="nav-brand"><span class="brand-mark" aria-hidden="true">BN</span><span class="brand-text-wrap"><span class="brand-title">Balaji Nursery</span><span class="brand-tagline">Macadamia & Fruit Plant Specialists</span></span></a>
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
@@ -135,9 +129,9 @@
                                 </ul>
 
                                 <!-- Search Icon -->
-                                <div id="searchIcon">
-                                    <i class="fa fa-search" aria-hidden="true"></i>
-                                </div>
+<div id="searchIcon">
+    <i class="fa fa-search" aria-hidden="true"></i>
+</div>
 
                             </div>
                             <!-- Navbar End -->
@@ -145,16 +139,14 @@
                     </nav>
 
                     <!-- Search Form -->
-                    <div class="search-form">
-                        <i class="fa fa-search" aria-hidden="true"></i>
-                        <form action="shop.html" method="get" class="search-form-inner">
-                            <input type="search" name="search" id="search" placeholder="Type keywords & press enter...">
-                            <button type="submit" class="d-none" aria-label="Search">Search</button>
-                        </form>
-                        <!-- Close Icon -->
-                        <div class="closeIcon"><i class="fa fa-times" aria-hidden="true"></i></div>
-                    </div>
-                </div>
+<div class="search-form">
+    <i class="fa fa-search" aria-hidden="true"></i>
+    <form action="shop.html" method="get" class="search-form-inner" id="globalShopSearchForm">
+        <input type="search" name="search" id="search" placeholder="Search plants, fruit varieties, macadamia...">
+        <button type="submit" class="d-none" aria-label="Search">Search</button>
+    </form>
+    <div class="closeIcon"><i class="fa fa-times" aria-hidden="true"></i></div>
+</div></div>
             </div>
         </div>
     </header>
@@ -164,7 +156,7 @@
     <div class="breadcrumb-area">
         <!-- Top Breadcrumb Area -->
         <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center breadcrumb-shop-details">
-            <h2>Shop</h2>
+            <h2>Plant Catalog</h2>
         </div>
 
         <div class="container">
@@ -191,22 +183,24 @@
                     <div class="shop-sorting-data d-flex flex-wrap align-items-center justify-content-between">
                         <!-- Shop Page Count -->
                         <div class="shop-page-count">
-                            <p>Showing 1â€“9 of 72 results</p>
+                            <p>Showing 9 curated plants</p>
                         </div>
                         <!-- Search by Terms -->
                         <div class="search_by_terms">
-                            <form action="#" method="post" class="form-inline">
-                                <select class="custom-select widget-title" title="Sort options" aria-label="Sort options">
-                                  <option selected>Short by Popularity</option>
-                                  <option value="1">Short by Newest</option>
-                                  <option value="2">Short by Sales</option>
-                                  <option value="3">Short by Ratings</option>
+                            <form action="#" method="post" class="form-inline" id="shopSortForm">
+                                <select id="shopSortSelect" class="custom-select widget-title" title="Sort options" aria-label="Sort options">
+                                  <option value="popularity" selected>Sort by Popularity</option>
+                                  <option value="newest">Sort by Newest</option>
+                                  <option value="price-asc">Price: Low to High</option>
+                                  <option value="price-desc">Price: High to Low</option>
+                                  <option value="name-asc">Name: A-Z</option>
+                                  <option value="name-desc">Name: Z-A</option>
                                 </select>
-                                <select class="custom-select widget-title" title="Sort options" aria-label="Sort options">
-                                  <option selected>Show: 9</option>
-                                  <option value="1">12</option>
-                                  <option value="2">18</option>
-                                  <option value="3">24</option>
+                                <select id="shopShowCount" class="custom-select widget-title" title="Sort options" aria-label="Sort options">
+                                  <option value="9" selected>Show: 9</option>
+                                  <option value="12">12</option>
+                                  <option value="18">18</option>
+                                  <option value="24">24</option>
                                 </select>
                             </form>
                         </div>
@@ -224,12 +218,12 @@
                             <h4 class="widget-title">Prices</h4>
                             <div class="widget-desc">
                                 <div class="slider-range">
-                                    <div data-min="8" data-max="30" data-unit="$" class="slider-range-price ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" data-value-min="8" data-value-max="30" data-label-result="Price:">
+                                    <div data-min="8" data-max="30" data-unit="₹" class="slider-range-price ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" data-value-min="8" data-value-max="30" data-label-result="Price:">
                                         <div class="ui-slider-range ui-widget-header ui-corner-all"></div>
                                         <span class="ui-slider-handle ui-state-default ui-corner-all first-handle" tabindex="0"></span>
                                         <span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0"></span>
                                     </div>
-                                    <div class="range-price">Price: $8 - $30</div>
+                                    <div class="range-price">Price: ₹8 - ₹30</div>
                                 </div>
                             </div>
                         </div>
@@ -240,66 +234,42 @@
                             <div class="widget-desc">
                                 <!-- Single Checkbox -->
                                 <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck1">
-                                    <label class="custom-control-label" for="customCheck1">All plants <span class="text-muted">(72)</span></label>
+                                    <input type="checkbox" class="custom-control-input" id="customCheck1" value="all" checked>
+                                    <label class="custom-control-label" for="customCheck1">All plants <span class="text-muted">(9)</span></label>
                                 </div>
                                 <!-- Single Checkbox -->
                                 <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck2">
-                                    <label class="custom-control-label" for="customCheck2">Outdoor plants <span class="text-muted">(20)</span></label>
+                                    <input type="checkbox" class="custom-control-input shop-category-filter" id="customCheck2" value="nut">
+                                    <label class="custom-control-label" for="customCheck2">Nut Trees <span class="text-muted">(2)</span></label>
                                 </div>
                                 <!-- Single Checkbox -->
                                 <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck3">
-                                    <label class="custom-control-label" for="customCheck3">Indoor plants <span class="text-muted">(15)</span></label>
+                                    <input type="checkbox" class="custom-control-input shop-category-filter" id="customCheck3" value="mango">
+                                    <label class="custom-control-label" for="customCheck3">Mango <span class="text-muted">(1)</span></label>
                                 </div>
                                 <!-- Single Checkbox -->
                                 <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck4">
-                                    <label class="custom-control-label" for="customCheck4">Office Plants <span class="text-muted">(20)</span></label>
+                                    <input type="checkbox" class="custom-control-input shop-category-filter" id="customCheck4" value="fruit">
+                                    <label class="custom-control-label" for="customCheck4">Fruit Plants <span class="text-muted">(5)</span></label>
                                 </div>
                                 <!-- Single Checkbox -->
                                 <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck5">
-                                    <label class="custom-control-label" for="customCheck5">Potted <span class="text-muted">(15)</span></label>
+                                    <input type="checkbox" class="custom-control-input shop-category-filter" id="customCheck5" value="specialty">
+                                    <label class="custom-control-label" for="customCheck5">Specialty Plants <span class="text-muted">(2)</span></label>
                                 </div>
                                 <!-- Single Checkbox -->
                                 <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck6">
-                                    <label class="custom-control-label" for="customCheck6">Others <span class="text-muted">(2)</span></label>
+                                    <input type="checkbox" class="custom-control-input shop-category-filter" id="customCheck6" value="plantation">
+                                    <label class="custom-control-label" for="customCheck6">Plantation Crops <span class="text-muted">(2)</span></label>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Shop Widget -->
                         <div class="shop-widget sort-by mb-50">
-                            <h4 class="widget-title">Sort by</h4>
+                            <h4 class="widget-title">Quick Sort</h4>
                             <div class="widget-desc">
-                                <!-- Single Checkbox -->
-                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck7">
-                                    <label class="custom-control-label" for="customCheck7">New arrivals</label>
-                                </div>
-                                <!-- Single Checkbox -->
-                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck8">
-                                    <label class="custom-control-label" for="customCheck8">Alphabetically, A-Z</label>
-                                </div>
-                                <!-- Single Checkbox -->
-                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck9">
-                                    <label class="custom-control-label" for="customCheck9">Alphabetically, Z-A</label>
-                                </div>
-                                <!-- Single Checkbox -->
-                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck10">
-                                    <label class="custom-control-label" for="customCheck10">Price: low to high</label>
-                                </div>
-                                <!-- Single Checkbox -->
-                                <div class="custom-control custom-checkbox d-flex align-items-center">
-                                    <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                    <label class="custom-control-label" for="customCheck11">Price: high to low</label>
-                                </div>
+                                <p class="mb-0">Use the sort dropdown above to reorder products by popularity, newest, price, or name.</p>
                             </div>
                         </div>
 
@@ -314,8 +284,8 @@
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/4.jpg" alt="Plant image"></a>
                                     </div>
                                     <div class="product-info">
-                                        <a href="shop-details.html">Cactus Flower</a>
-                                        <p>$10.99</p>
+                                        <a href="shop-details.html">Macadamia Grafted Elite</a>
+                                        <p>₹899</p>
                                         <div class="ratings">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -332,8 +302,8 @@
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/5.jpg" alt="Plant image"></a>
                                     </div>
                                     <div class="product-info">
-                                        <a href="shop-details.html">Tulip Flower</a>
-                                        <p>$11.99</p>
+                                        <a href="shop-details.html">Alphonso Mango Graft</a>
+                                        <p>₹349</p>
                                         <div class="ratings">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -350,8 +320,8 @@
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/34.jpg" alt="Plant image"></a>
                                     </div>
                                     <div class="product-info">
-                                        <a href="shop-details.html">Recuerdos Plant</a>
-                                        <p>$9.99</p>
+                                        <a href="shop-details.html">Dragon Fruit Red Variety</a>
+                                        <p>₹299</p>
                                         <div class="ratings">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -374,7 +344,7 @@
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="macadamia graft premium nut tree farm plantation" data-category="nut,plantation" data-price="899" data-popularity="98" data-rating="4.9" data-new="2026-02-10">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/40.png" alt="Plant image"></a>
@@ -391,16 +361,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Macadamia Premium Graft</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹899</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="mango alphonso fruit graft sweet summer tree" data-category="mango,fruit" data-price="349" data-popularity="94" data-rating="4.8" data-new="2026-02-02">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/41.png" alt="Plant image"></a>
@@ -413,16 +383,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Alphonso Mango Graft</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹349</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="guava thailand pink fruit high yield" data-category="fruit" data-price="279" data-popularity="87" data-rating="4.5" data-new="2026-01-29">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/42.png" alt="Plant image"></a>
@@ -435,16 +405,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Thai Pink Guava Plant</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹279</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="sapota chikoo sweet hardy garden tree" data-category="fruit" data-price="259" data-popularity="82" data-rating="4.4" data-new="2026-01-20">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/43.png" alt="Plant image"></a>
@@ -457,16 +427,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Sapota (Chikoo) Graft</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹259</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="pomegranate bhagwa ruby fruit drought tolerant" data-category="fruit" data-price="329" data-popularity="90" data-rating="4.7" data-new="2026-02-06">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/44.png" alt="Plant image"></a>
@@ -479,16 +449,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Bhagwa Pomegranate</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹329</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="lemon kagzi citrus kitchen farm fresh" data-category="fruit" data-price="199" data-popularity="79" data-rating="4.3" data-new="2026-01-15">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/45.png" alt="Plant image"></a>
@@ -501,16 +471,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Kagzi Lemon Plant</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹199</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="jackfruit singapore soft bulb big fruit" data-category="fruit,specialty" data-price="449" data-popularity="85" data-rating="4.6" data-new="2026-02-12">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/46.png" alt="Plant image"></a>
@@ -523,16 +493,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Singapore Jackfruit</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹449</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="dragon fruit red flesh climbing cactus support" data-category="specialty" data-price="299" data-popularity="92" data-rating="4.8" data-new="2026-02-16">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/47.png" alt="Plant image"></a>
@@ -549,16 +519,16 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Dragon Fruit Red</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹299</h6>
                                     </div>
                                 </div>
                             </div>
 
                             <!-- Single Product Area -->
                             <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="single-product-area mb-50">
+                                <div class="single-product-area mb-50" data-keywords="arecanut supari plantation coastal hardy" data-category="nut,plantation" data-price="129" data-popularity="76" data-rating="4.2" data-new="2026-01-08">
                                     <!-- Product Image -->
                                     <div class="product-img">
                                         <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/48.png" alt="Plant image"></a>
@@ -571,9 +541,9 @@
                                     <!-- Product Info -->
                                     <div class="product-info mt-15 text-center">
                                         <a href="shop-details.html">
-                                            <p>Cactus Flower</p>
+                                            <p>Arecanut Seedling</p>
                                         </a>
-                                        <h6>$10.99</h6>
+                                        <h6>₹129</h6>
                                     </div>
                                 </div>
                             </div>
@@ -605,7 +575,7 @@
                     <div class="col-12 col-sm-6 col-lg-3">
                         <div class="single-footer-widget">
                             <div class="footer-logo mb-30">
-                                <a href="index.html" class="nav-brand">BALAJI <span>NURSERY</span></a>
+                                <a href="index.html" class="nav-brand"><span class="brand-mark" aria-hidden="true">BN</span><span class="brand-text-wrap"><span class="brand-title">Balaji Nursery</span><span class="brand-tagline">Macadamia & Fruit Plant Specialists</span></span></a>
                             </div>
                             <!-- <p>Lorem ipsum dolor sit samet, consectetur adipiscing elit. India situs atione mantor</p> -->
                             <div class="social-info">
@@ -654,8 +624,8 @@
                                     <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/4.jpg" alt="Plant image"></a>
                                 </div>
                                 <div class="product-info">
-                                    <a href="shop-details.html">Cactus Flower</a>
-                                    <p>$10.99</p>
+                                    <a href="shop-details.html">Macadamia Grafted Elite</a>
+                                    <p>₹899</p>
                                 </div>
                             </div>
 
@@ -665,8 +635,8 @@
                                     <a href="shop-details.html" aria-label="View product details" title="View product details"><img src="img/bg-img/5.jpg" alt="Plant image"></a>
                                 </div>
                                 <div class="product-info">
-                                    <a href="shop-details.html">Tulip Flower</a>
-                                    <p>$11.99</p>
+                                    <a href="shop-details.html">Alphonso Mango Graft</a>
+                                    <p>₹349</p>
                                 </div>
                             </div>
                         </div>
@@ -740,5 +710,8 @@
 </body>
 
 </html>
+
+
+
 
 
